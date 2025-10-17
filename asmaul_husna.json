@@ -1,0 +1,151 @@
+{
+  "pengertian": {
+    "bahasa": {
+      "asma": "Jamak dari 'ism' yang berarti 'nama'",
+      "husna": "Bentuk muannats dari 'ahsanu' yang berarti 'paling baik/indah'"
+    },
+    "istilah": "Asmaul Husna adalah nama-nama Allah yang indah dan agung, yang menggambarkan sifat-sifat kesempurnaan dan keagungan-Nya."
+  },
+  "dalil": {
+    "alquran": "QS. Al-A'raf: 180 - 'Dan Allah memiliki nama-nama yang indah (Asmaul Husna), maka bermohonlah kepada-Nya dengan menyebut nama-nama itu...'",
+    "hadis": "HR. Bukhari dan Muslim - 'Sesungguhnya Allah memiliki 99 nama, seratus kurang satu. Barang siapa yang menghafalnya, ia akan masuk surga.'"
+  },
+  "jumlah": {
+    "umum": 99,
+    "catatan": "Jumlah 99 adalah yang populer, namun Allah memiliki lebih banyak nama."
+  },
+  "pembagian_makna": [
+    {
+      "kategori": "Sifat Dzat",
+      "contoh": [
+        "Al-Hayy",
+        "Al-Qayyum"
+      ]
+    },
+    {
+      "kategori": "Sifat Fi’il",
+      "contoh": [
+        "Al-Khaliq",
+        "Ar-Razzaq"
+      ]
+    },
+    {
+      "kategori": "Rahmat dan Kasih Sayang",
+      "contoh": [
+        "Ar-Rahman",
+        "Ar-Rahim",
+        "Al-Wadud"
+      ]
+    },
+    {
+      "kategori": "Keagungan dan Kekuasaan",
+      "contoh": [
+        "Al-Aziz",
+        "Al-Jabbar"
+      ]
+    }
+  ],
+  "hikmah": [
+    "Meningkatkan keimanan",
+    "Menumbuhkan rasa takwa",
+    "Menumbuhkan optimisme",
+    "Mendorong untuk meneladani sifat-sifat Allah",
+    "Membantu dalam doa dan ibadah"
+  ],
+  "pengamalan": [
+    {
+      "nama": "Ar-Rahman",
+      "arti": "Maha Pengasih",
+      "implementasi": "Bersikap penuh kasih kepada sesama"
+    },
+    {
+      "nama": "Al-Adl",
+      "arti": "Maha Adil",
+      "implementasi": "Berlaku adil dalam kehidupan sehari-hari"
+    },
+    {
+      "nama": "Al-Ghaffar",
+      "arti": "Maha Pengampun",
+      "implementasi": "Mudah memaafkan kesalahan orang lain"
+    },
+    {
+      "nama": "As-Sabur",
+      "arti": "Maha Sabar",
+      "implementasi": "Tidak mudah marah, bersabar dalam ujian"
+    },
+    {
+      "nama": "Al-Karim",
+      "arti": "Maha Pemurah",
+      "implementasi": "Suka memberi dan dermawan"
+    }
+  ],
+  "doa_contoh": [
+    "Ya Rahman, Ya Rahim, sayangilah kami.",
+    "Ya Ghaffar, ampunilah dosa-dosa kami.",
+    "Ya Razzaq, limpahkan rezeki yang berkah dan halal kepada kami."
+  ],
+  "tips_hafalan": [
+    "Hafalkan secara bertahap, misalnya 10 nama per minggu.",
+    "Gunakan lagu atau nada untuk memudahkan ingatan.",
+    "Tulis dan tempel di tempat yang sering terlihat.",
+    "Gunakan visualisasi warna atau gambar.",
+    "Praktikkan dalam doa sehari-hari."
+  ],
+  "asmaul_husna": [
+    {
+      "no": 1,
+      "nama": "Ar-Rahman",
+      "arti": "Yang Maha Pengasih"
+    },
+    {
+      "no": 2,
+      "nama": "Ar-Rahim",
+      "arti": "Yang Maha Penyayang"
+    },
+    {
+      "no": 3,
+      "nama": "Al-Malik",
+      "arti": "Yang Maha Merajai"
+    },
+    {
+      "no": 4,
+      "nama": "Al-Quddus",
+      "arti": "Yang Maha Suci"
+    },
+    {
+      "no": 5,
+      "nama": "As-Salam",
+      "arti": "Yang Maha Memberi Kesejahteraan"
+    },
+    {
+      "no": 6,
+      "nama": "Al-Mu’min",
+      "arti": "Yang Maha Memberi Keamanan"
+    },
+    {
+      "no": 7,
+      "nama": "Al-Muhaimin",
+      "arti": "Yang Maha Memelihara"
+    },
+    {
+      "no": 8,
+      "nama": "Al-‘Aziz",
+      "arti": "Yang Maha Perkasa"
+    },
+    {
+      "no": 9,
+      "nama": "Al-Jabbar",
+      "arti": "Yang Maha Kuasa"
+    },
+    {
+      "no": 10,
+      "nama": "Al-Mutakabbir",
+      "arti": "Yang Maha Megah"
+    },
+    {
+      "no": 99,
+      "nama": "As-Sabur",
+      "arti": "Yang Maha Sabar"
+    }
+  ]
+}
