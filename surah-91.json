@@ -1,0 +1,468 @@
+{
+  "Nomor_surat": 91,
+  "Nama_surat": "Asy-Syams",
+  "surat_arabic": "الشمس",
+  "Arti_surat_in": "Matahari",
+  "Arti_surat_en": "The Sun",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6044,
+      "Ayat_Arabic": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+      "Text_Latin": "wasy-syamsi wa duhaha",
+      "Terjemah_in": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),",
+      "Terjemahan_En": "By the sun and its radiance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلشَّمۡسِ",
+          "Arti_kata": "demi matahari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَضُحَىٰهَا",
+          "Arti_kata": "dan cahayanya pagi hari",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6045,
+      "Ayat_Arabic": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+      "Text_Latin": "wal-qamari iza talaha",
+      "Terjemah_in": "demi bulan saat mengiringinya,",
+      "Terjemahan_En": "And the moon as it follows it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡقَمَرِ",
+          "Arti_kata": "dan bulan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata": "apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تَلَىٰهَا",
+          "Arti_kata": "mengiringinya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6046,
+      "Ayat_Arabic": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+      "Text_Latin": "wan-nahari iza jallaha",
+      "Terjemah_in": "demi siang saat menampakkannya,",
+      "Terjemahan_En": "And the day as it reveals it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلنَّهَارِ",
+          "Arti_kata": "dan siang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata": "apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "جَلَّىٰهَا",
+          "Arti_kata": "menampakkannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6047,
+      "Ayat_Arabic": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+      "Text_Latin": "wal-laili iza yagsyaha",
+      "Terjemah_in": "demi malam saat menutupinya (gelap gulita),",
+      "Terjemahan_En": "And the night as it conceals it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلَّيۡلِ",
+          "Arti_kata": "dan malam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata": "apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَغۡشَىٰهَا",
+          "Arti_kata": "menutupinya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6048,
+      "Ayat_Arabic": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+      "Text_Latin": "was-sama'i wa ma banaha",
+      "Terjemah_in": "demi langit serta pembuatannya,",
+      "Terjemahan_En": "And the sky and He who built it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلسَّمَآءِ",
+          "Arti_kata": "dan langit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata": "dan apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بَنَىٰهَا",
+          "Arti_kata": "pembinaannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6049,
+      "Ayat_Arabic": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+      "Text_Latin": "wal-ardi wa ma tahaha",
+      "Terjemah_in": "demi bumi serta penghamparannya,",
+      "Terjemahan_En": "And the earth and He who spread it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡأَرۡضِ",
+          "Arti_kata": "dan bumi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata": "dan apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "طَحَىٰهَا",
+          "Arti_kata": "penghamparannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6050,
+      "Ayat_Arabic": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+      "Text_Latin": "wa nafsiw wa ma sawwaha",
+      "Terjemah_in": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,",
+      "Terjemahan_En": "And the soul and He who proportioned it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَنَفۡسٖ",
+          "Arti_kata": "dan manusia/jiwa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata": "dan apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "سَوَّىٰهَا",
+          "Arti_kata": "penyempurnaanya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6051,
+      "Ayat_Arabic": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+      "Text_Latin": "fa al-hamaha fujuraha wa taqwaha",
+      "Terjemah_in": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+      "Terjemahan_En": "And inspired it with its wickedness and its righteousness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَأَلۡهَمَهَا",
+          "Arti_kata": "maka Dia mengilhamkan padanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فُجُورَهَا",
+          "Arti_kata": "kedurhakaanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَتَقۡوَىٰهَا",
+          "Arti_kata": "dan ketaqwaannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6052,
+      "Ayat_Arabic": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+      "Text_Latin": "qad aflaha man zakkaha",
+      "Terjemah_in": "sungguh beruntung orang yang menyucikannya (jiwa itu)",
+      "Terjemahan_En": "Successful is he who purifies it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قَدۡ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَفۡلَحَ",
+          "Arti_kata": "beruntung",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَن",
+          "Arti_kata": "siapa/orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "زَكَّىٰهَا",
+          "Arti_kata": "mensucikannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6053,
+      "Ayat_Arabic": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+      "Text_Latin": "wa qad khaba man dassaha",
+      "Terjemah_in": "dan sungguh rugi orang yang mengotorinya.",
+      "Terjemahan_En": "Failing is he who corrupts it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَقَدۡ",
+          "Arti_kata": "dan sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "خَابَ",
+          "Arti_kata": "celaka/rugi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَن",
+          "Arti_kata": "orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "دَسَّىٰهَا",
+          "Arti_kata": "mengotorinya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6054,
+      "Ayat_Arabic": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ  ۖ",
+      "Text_Latin": "kazzabas samudu bitagwaha",
+      "Terjemah_in": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas",
+      "Terjemahan_En": "Thamood denied in its pride.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَذَّبَتۡ",
+          "Arti_kata": "telah mendustakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ثَمُودُ",
+          "Arti_kata": "Samud",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِطَغۡوَىٰهَآ",
+          "Arti_kata": "dan melampui batas",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6055,
+      "Ayat_Arabic": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+      "Text_Latin": "izimba'asa asyqaha",
+      "Terjemah_in": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah).",
+      "Terjemahan_En": "When it followed its most wicked.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِذِ",
+          "Arti_kata": "ketika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱنۢبَعَثَ",
+          "Arti_kata": "bangkit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَشۡقَىٰهَا",
+          "Arti_kata": "orang yang lebih celaka diantaranya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6056,
+      "Ayat_Arabic": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+      "Text_Latin": "fa qala lahum rasulullahi naqatallahi wa suqyaha",
+      "Terjemah_in": "Rasul Allah (Saleh) lalu berkata kepada mereka, “(Biarkanlah) unta betina Allah ini beserta minumannya.”",
+      "Terjemahan_En": "The messenger of God said to them, “This is the she-camel of God, so let her drink.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَقَالَ",
+          "Arti_kata": "dan berkata",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَهُمۡ",
+          "Arti_kata": "kepada mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَسُولُ",
+          "Arti_kata": "rasul",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "نَاقَةَ",
+          "Arti_kata": "unta betina",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَسُقۡيَٰهَا",
+          "Arti_kata": "dan minumannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6057,
+      "Ayat_Arabic": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+      "Text_Latin": "fa kazzabuhu fa 'aqaruha fa damdama 'alaihim rabbuhum bizambihim fa sawwaha",
+      "Terjemah_in": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah).",
+      "Terjemahan_En": "But they called him a liar, and hamstrung her. So their Lord crushed them for their sin, and leveled it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَكَذَّبُوهُ",
+          "Arti_kata": "dan mendustakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فَعَقَرُوهَا",
+          "Arti_kata": "maka mereka melukai/menyembelih",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فَدَمۡدَمَ",
+          "Arti_kata": "maka menurunkan azab/membinasakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata": "atas mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "رَبُّهُم",
+          "Arti_kata": "Tuhan mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "بِذَنۢبِهِمۡ",
+          "Arti_kata": "dengan dosa-dosa mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "فَسَوَّىٰهَا",
+          "Arti_kata": "dan Dia meratakannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6058,
+      "Ayat_Arabic": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+      "Text_Latin": "wa la yakhafu 'uqbaha",
+      "Terjemah_in": "Dia tidak takut terhadap akibatnya.",
+      "Terjemahan_En": "And He does not fear its sequel.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَخَافُ",
+          "Arti_kata": "takut",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عُقۡبَٰهَا",
+          "Arti_kata": "akibatnya",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

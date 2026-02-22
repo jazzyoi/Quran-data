@@ -1,0 +1,135 @@
+{
+  "Nomor_surat": 112,
+  "Nama_surat": "Al-Ikhlas",
+  "surat_arabic": "الإخلاص",
+  "Arti_surat_in": "Ikhlas",
+  "Arti_surat_en": "The Sincerity",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6222,
+      "Ayat_Arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+      "Text_Latin": "qul huwallahu ahad",
+      "Terjemah_in": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa.",
+      "Terjemahan_En": "Say, “He is God, the One.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قُلۡ",
+          "Arti_kata": "katakanlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata": "Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱللَّهُ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "أَحَدٌ",
+          "Arti_kata": "Esa",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6223,
+      "Ayat_Arabic": "اَللّٰهُ الصَّمَدُۚ",
+      "Text_Latin": "allahus-samad",
+      "Terjemah_in": "Allah tempat meminta segala sesuatu.",
+      "Terjemahan_En": "God, the Absolute.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱللَّهُ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلصَّمَدُ",
+          "Arti_kata": "tempat bergantung",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6224,
+      "Ayat_Arabic": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+      "Text_Latin": "lam yalid wa lam yulad",
+      "Terjemah_in": "Dia tidak beranak dan tidak pula diperanakkan",
+      "Terjemahan_En": "He begets not, nor was He begotten.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَلِدۡ",
+          "Arti_kata": "beranak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَلَمۡ",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يُولَدۡ",
+          "Arti_kata": "diperanakkan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6225,
+      "Ayat_Arabic": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+      "Text_Latin": "wa lam yakul lahu kufuwan ahad",
+      "Terjemah_in": "serta tidak ada sesuatu pun yang setara dengan-Nya.”",
+      "Terjemahan_En": "And there is nothing comparable to Him.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلَمۡ",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَكُن",
+          "Arti_kata": "ada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَّهُۥ",
+          "Arti_kata": "baginya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "كُفُوًا",
+          "Arti_kata": "menyamai/setara",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "أَحَدُۢ",
+          "Arti_kata": "seorang",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

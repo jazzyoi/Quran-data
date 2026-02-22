@@ -1,0 +1,96 @@
+{
+  "Nomor_surat": 108,
+  "Nama_surat": "Al-Kautsar",
+  "surat_arabic": "الكوثر",
+  "Arti_surat_in": "Nikmat yang Berlimpah",
+  "Arti_surat_en": "The Abundance",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6205,
+      "Ayat_Arabic": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+      "Text_Latin": "inna a'tainakal-kausar",
+      "Terjemah_in": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak.",
+      "Terjemahan_En": "We have given you plenty.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّآ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَعۡطَيۡنَٰكَ",
+          "Arti_kata": "Aku telah memberikan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡكَوۡثَرَ",
+          "Arti_kata": "nikmat yang banyak",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6206,
+      "Ayat_Arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+      "Text_Latin": "fa salli lirabbika wan-har",
+      "Terjemah_in": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!",
+      "Terjemahan_En": "So pray to your Lord and sacrifice.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَصَلِّ",
+          "Arti_kata": "maka dirikanlah sholat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِرَبِّكَ",
+          "Arti_kata": "karena Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَٱنۡحَرۡ",
+          "Arti_kata": "dan berkurbanlah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6207,
+      "Ayat_Arabic": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+      "Text_Latin": "inna syani'aka huwal-abtar",
+      "Terjemah_in": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah).",
+      "Terjemahan_En": "He who hates you is the loser.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "شَانِئَكَ",
+          "Arti_kata": "orang yang membencimu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata": "dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡأَبۡتَرُ",
+          "Arti_kata": "terputus",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "Nomor_surat": 85,
+  "Nama_surat": "Al-Buruj",
+  "surat_arabic": "البروج",
+  "Arti_surat_in": "Gugusan Bintang",
+  "Arti_surat_en": "The Mansions of the Stars",
+  "Ayat": [
+    {
+      "Nomor_ayat": 5910,
+      "Ayat_Arabic": "وَالسَّمَاۤءِ ذَاتِ الْبُرُوْجِۙ",
+      "Text_Latin": "was-sama'i zatil-buruj",
+      "Terjemah_in": "Demi langit yang mempunyai gugusan bintang,",
+      "Terjemahan_En": "By the sky with the constellations.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلسَّمَآءِ",
+          "Arti_kata": "demi langit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ذَاتِ",
+          "Arti_kata": "memiliki",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡبُرُوجِ",
+          "Arti_kata": "gugusan bintang-bintang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5911,
+      "Ayat_Arabic": "وَالْيَوْمِ الْمَوْعُوْدِۙ",
+      "Text_Latin": "wal-yaumil-mau'ud",
+      "Terjemah_in": "demi hari yang dijanjikan,",
+      "Terjemahan_En": "And by the Promised Day.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡيَوۡمِ",
+          "Arti_kata": "dan hari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡمَوۡعُودِ",
+          "Arti_kata": "dijanjikan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5912,
+      "Ayat_Arabic": "وَشَاهِدٍ وَّمَشْهُوْدٍۗ",
+      "Text_Latin": "wa syahidiw wa masy-hud",
+      "Terjemah_in": "demi yang menyaksikan dan yang disaksikan,",
+      "Terjemahan_En": "And by the witness and the witnessed.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَشَاهِدٖ",
+          "Arti_kata": "Demi yang menyaksikan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَمَشۡهُودٖ",
+          "Arti_kata": "dan yang disaksikan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5913,
+      "Ayat_Arabic": "قُتِلَ اَصْحٰبُ الْاُخْدُوْدِۙ",
+      "Text_Latin": "qutila as-habul-ukhdud",
+      "Terjemah_in": "binasalah orang-orang yang membuat parit (tempat menyiksa orang mukmin)",
+      "Terjemahan_En": "Destroyed were the People of the Trench.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قُتِلَ",
+          "Arti_kata": "dibunuh/dibinasakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَصۡحَٰبُ",
+          "Arti_kata": "kaum/orang-orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡأُخۡدُودِ",
+          "Arti_kata": "pembuat parit",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5914,
+      "Ayat_Arabic": "النَّارِ ذَاتِ الْوَقُوْدِۙ",
+      "Text_Latin": "an-nari zatil-waqud",
+      "Terjemah_in": "(yang dikobarkan) api penuh kayu bakar.",
+      "Terjemahan_En": "The fire supplied with fuel.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلنَّارِ",
+          "Arti_kata": "api",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ذَاتِ",
+          "Arti_kata": "mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡوَقُودِ",
+          "Arti_kata": "kayu bakar",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5915,
+      "Ayat_Arabic": "اِذْ هُمْ عَلَيْهَا قُعُوْدٌۙ",
+      "Text_Latin": "iz hum 'alaiha qu'ud",
+      "Terjemah_in": "Ketika (itu) mereka (hanya) duduk di sekitarnya.",
+      "Terjemahan_En": "While they sat around it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِذۡ",
+          "Arti_kata": "ketika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُمۡ",
+          "Arti_kata": "mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عَلَيۡهَا",
+          "Arti_kata": "atas mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "قُعُودٞ",
+          "Arti_kata": "duduk",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5916,
+      "Ayat_Arabic": "وَّهُمْ عَلٰى مَا يَفْعَلُوْنَ بِالْمُؤْمِنِيْنَ شُهُوْدٌ  ۗ",
+      "Text_Latin": "wa hum 'ala ma yaf'aluna bil-mu'minina syuhud",
+      "Terjemah_in": "Mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin.",
+      "Terjemahan_En": "And were witnessing what they did to the believers.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَهُمۡ",
+          "Arti_kata": "dan mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَلَىٰ",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَا",
+          "Arti_kata": "apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يَفۡعَلُونَ",
+          "Arti_kata": "mereka perbuat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "بِٱلۡمُؤۡمِنِينَ",
+          "Arti_kata": "terhadap orang-orang yang beriman",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "شُهُودٞ",
+          "Arti_kata": "menyaksikan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5917,
+      "Ayat_Arabic": "وَمَا نَقَمُوْا مِنْهُمْ اِلَّآ اَنْ يُّؤْمِنُوْا بِاللّٰهِ الْعَزِيْزِ الْحَمِيْدِۙ",
+      "Text_Latin": "wa ma naqamu min-hum illa ay yu'minu billahil-'azizil-hamid",
+      "Terjemah_in": "Tidaklah mereka menyiksa (membakar) orang-orang mukmin itu, kecuali karena mereka beriman kepada Allah Yang Maha Perkasa lagi Maha Terpuji,",
+      "Terjemahan_En": "They begrudged them only because they believed in God the Almighty, the Praiseworthy.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "نَقَمُواْ",
+          "Arti_kata": "mereka menyiksa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مِنۡهُمۡ",
+          "Arti_kata": "di antara mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "إِلَّآ",
+          "Arti_kata": "kecuali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "أَن",
+          "Arti_kata": "bahwa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "يُؤۡمِنُواْ",
+          "Arti_kata": "mereka beriman",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "بِٱللَّهِ",
+          "Arti_kata": "kepada Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "ٱلۡعَزِيزِ",
+          "Arti_kata": "Maha Perkasa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلۡحَمِيدِ",
+          "Arti_kata": "Maha Terpuji",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5918,
+      "Ayat_Arabic": "الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِ ۗوَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَهِيْدٌ  ۗ",
+      "Text_Latin": "allazi lahu mulkus-samawati wal-ard, wallahu 'ala kulli syai'in syahid",
+      "Terjemah_in": "yang memiliki kerajaan langit dan bumi. Allah Maha Menyaksikan segala sesuatu.",
+      "Terjemahan_En": "To Whom belongs the sovereignty of the heavens and the earth. God is witness over everything.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَهُۥ",
+          "Arti_kata": "bagiNya/mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مُلۡكُ",
+          "Arti_kata": "kerajaan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلسَّمَٰوَٰتِ",
+          "Arti_kata": "langit(jamak)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَٱلۡأَرۡضِۚ",
+          "Arti_kata": "dan bumi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata": "dan Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "عَلَىٰ",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "كُلِّ",
+          "Arti_kata": "setiap",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "شَيۡءٖ",
+          "Arti_kata": "sesuatu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "شَهِيدٌ",
+          "Arti_kata": "Maha Menyaksikan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5919,
+      "Ayat_Arabic": "اِنَّ الَّذِيْنَ فَتَنُوا الْمُؤْمِنِيْنَ وَالْمُؤْمِنٰتِ ثُمَّ لَمْ يَتُوْبُوْا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيْقِۗ",
+      "Text_Latin": "innallazina fatanul-mu'minina wal-mu'minati summa lam yatubu fa lahum 'azabu jahannama wa lahum 'azabul-hariq",
+      "Terjemah_in": "Sesungguhnya, orang-orang yang menimpakan cobaan (siksa) terhadap mukmin laki-laki dan perempuan, lalu mereka tidak bertobat, mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar.",
+      "Terjemahan_En": "Those who tempt the believers, men and women, then do not repent; for them is the punishment of Hell; for them is the punishment of Burning.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فَتَنُواْ",
+          "Arti_kata": "mereka (menfitnah)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡمُؤۡمِنِينَ",
+          "Arti_kata": "orang-orang mu'min (beriman) laki-laki",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَٱلۡمُؤۡمِنَٰتِ",
+          "Arti_kata": "orang-orang mu'min (beriman) perempuan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata": "kemudian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "يَتُوبُواْ",
+          "Arti_kata": "bertaubat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "فَلَهُمۡ",
+          "Arti_kata": "maka mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "عَذَابُ",
+          "Arti_kata": "siksa/azab",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "جَهَنَّمَ",
+          "Arti_kata": "neraka jahanam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "وَلَهُمۡ",
+          "Arti_kata": "dan bagi mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "عَذَابُ",
+          "Arti_kata": "siksa/azab",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "ٱلۡحَرِيقِ",
+          "Arti_kata": "membakar",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5920,
+      "Ayat_Arabic": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ جَنّٰتٌ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ەۗ ذٰلِكَ الْفَوْزُ الْكَبِيْرُۗ",
+      "Text_Latin": "innallazina amanu wa 'amilus-salihati lahum jannatun tajri min tahtihal-an-har, zalikal-fauzul-kabir",
+      "Terjemah_in": "Sesungguhnya, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai. Itulah kemenangan yang besar.",
+      "Terjemahan_En": "Those who believe and do righteous deeds will have Gardens beneath which rivers flow. That is the great triumph.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ءَامَنُواْ",
+          "Arti_kata": "beriman",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَعَمِلُواْ",
+          "Arti_kata": "dan beramal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلصَّٰلِحَٰتِ",
+          "Arti_kata": "saleh",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "لَهُمۡ",
+          "Arti_kata": "bagi mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "جَنَّٰتٞ",
+          "Arti_kata": "surga",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "تَجۡرِي",
+          "Arti_kata": "mengalir",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "مِن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "تَحۡتِهَا",
+          "Arti_kata": "bawahnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "ٱلۡأَنۡهَٰرُۚ",
+          "Arti_kata": "sungai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "ذَٰلِكَ",
+          "Arti_kata": "demikian/itu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "ٱلۡفَوۡزُ",
+          "Arti_kata": "keberuntungan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "ٱلۡكَبِيرُ",
+          "Arti_kata": "besar",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5921,
+      "Ayat_Arabic": "اِنَّ بَطْشَ رَبِّكَ لَشَدِيْدٌ ۗ",
+      "Text_Latin": "inna batsya rabbika lasyadid",
+      "Terjemah_in": "Sesungguhnya azab Tuhanmu sangat keras.",
+      "Terjemahan_En": "The onslaught of your Lord is severe.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "بَطۡشَ",
+          "Arti_kata": "kekuatan (azab)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "لَشَدِيدٌ",
+          "Arti_kata": "benar-benar/sangat keras",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5922,
+      "Ayat_Arabic": "اِنَّهٗ هُوَ يُبْدِئُ وَيُعِيْدُۚ",
+      "Text_Latin": "innahu huwa yubdi'u wa yu'id",
+      "Terjemah_in": "Sesungguhnya Dialah yang memulai (penciptaan makhluk) dan yang mengembalikan (hidup setelah mati).",
+      "Terjemahan_En": "It is He who begins and repeats.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّهُۥ",
+          "Arti_kata": "sesungguhnya Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata": "Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يُبۡدِئُ",
+          "Arti_kata": "Dia memulai menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَيُعِيدُ",
+          "Arti_kata": "dan Dia mengulangi",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5923,
+      "Ayat_Arabic": "وَهُوَ الْغَفُوْرُ الْوَدُوْدُۙ",
+      "Text_Latin": "wa huwal-gafurul-wadud",
+      "Terjemah_in": "Dialah Yang Maha Pengampun lagi Maha Pengasih,",
+      "Terjemahan_En": "And He is the Forgiving, the Loving.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَهُوَ",
+          "Arti_kata": "dan Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡغَفُورُ",
+          "Arti_kata": "Maha Pengampun",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡوَدُودُ",
+          "Arti_kata": "Maha Pengasih",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5924,
+      "Ayat_Arabic": "ذُو الْعَرْشِ الْمَجِيْدُۙ",
+      "Text_Latin": "zul-'arsyil-majid",
+      "Terjemah_in": "Pemilik ʻArasy lagi Maha Mulia,",
+      "Terjemahan_En": "Possessor of the Glorious Throne.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ذُو",
+          "Arti_kata": "memiliki/mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡعَرۡشِ",
+          "Arti_kata": "'Arsy",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمَجِيدُ",
+          "Arti_kata": "maha Terpuji/Mulia",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5925,
+      "Ayat_Arabic": "فَعَّالٌ لِّمَا يُرِيْدُۗ",
+      "Text_Latin": "fa''alul lima yurid",
+      "Terjemah_in": "Maha Kuasa berbuat apa saja yang Dia kehendaki.",
+      "Terjemahan_En": "Doer of whatever He wills.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَعَّالٞ",
+          "Arti_kata": "berbuat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِّمَا",
+          "Arti_kata": "terhadap apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يُرِيدُ",
+          "Arti_kata": "yang dikehendaki",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5926,
+      "Ayat_Arabic": "هَلْ اَتٰىكَ حَدِيْثُ الْجُنُوْدِۙ",
+      "Text_Latin": "hal ataka hadisul-junud",
+      "Terjemah_in": "Sudahkah sampai kepadamu berita tentang bala tentara,",
+      "Terjemahan_En": "Has there come to you the story of the legions?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "هَلۡ",
+          "Arti_kata": "apakah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَتَىٰكَ",
+          "Arti_kata": "datang kepadamu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "حَدِيثُ",
+          "Arti_kata": "berita",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡجُنُودِ",
+          "Arti_kata": "bala tentara",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5927,
+      "Ayat_Arabic": "فِرْعَوْنَ وَثَمُوْدَۗ",
+      "Text_Latin": "fir'auna wa samud",
+      "Terjemah_in": "(yaitu bala tentara) Fir‘aun dan Samud?",
+      "Terjemahan_En": "Of Pharaoh and Thamood?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِرۡعَوۡنَ",
+          "Arti_kata": "Fir'aun",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَثَمُودَ",
+          "Arti_kata": "dan Samud",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5928,
+      "Ayat_Arabic": "بَلِ الَّذِيْنَ كَفَرُوْا فِيْ تَكْذِيْبٍۙ",
+      "Text_Latin": "balillazina kafaru fi takzib",
+      "Terjemah_in": "Memang orang-orang kafir (selalu) mendustakan,",
+      "Terjemahan_En": "In fact, those who disbelieve are in denial.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بَلِ",
+          "Arti_kata": "bahkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "كَفَرُواْ",
+          "Arti_kata": "kafir/ingkar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "dalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "تَكۡذِيبٖ",
+          "Arti_kata": "kedustaan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5929,
+      "Ayat_Arabic": "وَّاللّٰهُ مِنْ وَّرَاۤىِٕهِمْ مُّحِيْطٌۚ",
+      "Text_Latin": "wallahu miw wara'ihim muhit",
+      "Terjemah_in": "padahal Allah mengepung dari belakang mereka.",
+      "Terjemahan_En": "And God encloses them from beyond.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata": "dan Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مِن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَرَآئِهِم",
+          "Arti_kata": "belakang mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "مُّحِيطُۢ",
+          "Arti_kata": "meliputi/mengepung",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5930,
+      "Ayat_Arabic": "بَلْ هُوَ قُرْاٰنٌ مَّجِيْدٌۙ",
+      "Text_Latin": "bal huwa qur'anum majid",
+      "Terjemah_in": "Bahkan, (yang didustakan itu) Al-Qur’an yang mulia",
+      "Terjemahan_En": "In fact, it is a Glorious Quran.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بَلۡ",
+          "Arti_kata": "bahkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata": "dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "قُرۡءَانٞ",
+          "Arti_kata": "Quran",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "مَّجِيدٞ",
+          "Arti_kata": "agung/mulia",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5931,
+      "Ayat_Arabic": "فِيْ لَوْحٍ مَّحْفُوْظٍ ࣖ",
+      "Text_Latin": "fi lauhim mahfuz",
+      "Terjemah_in": "yang (tersimpan) dalam (tempat) yang terjaga (Lauhulmahfuz).",
+      "Terjemahan_En": "In a Preserved Tablet.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "pada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَوۡحٖ",
+          "Arti_kata": "papan/batu tulis",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَّحۡفُوظِۭ",
+          "Arti_kata": "terpelihara",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "Nomor_surat": 96,
+  "Nama_surat": "Al-'Alaq",
+  "surat_arabic": "العلق",
+  "Arti_surat_in": "Segumpal Darah",
+  "Arti_surat_en": "The Blood Clot",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6107,
+      "Ayat_Arabic": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+      "Text_Latin": "iqra' bismi rabbikallazi khalaq",
+      "Terjemah_in": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!",
+      "Terjemahan_En": "Read: In the Name of your Lord who created.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱقۡرَأۡ",
+          "Arti_kata": "bacalah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "بِٱسۡمِ",
+          "Arti_kata": "dengan nama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "خَلَقَ",
+          "Arti_kata": "menciptakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6108,
+      "Ayat_Arabic": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+      "Text_Latin": "khalaqal-insana min 'alaq",
+      "Terjemah_in": "Dia menciptakan manusia dari segumpal darah.",
+      "Terjemahan_En": "Created man from a clot.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "خَلَقَ",
+          "Arti_kata": "menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مِنۡ",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَلَقٍ",
+          "Arti_kata": "segumpal darah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6109,
+      "Ayat_Arabic": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+      "Text_Latin": "iqra' wa rabbukal-akram",
+      "Terjemah_in": "Bacalah! Tuhanmulah Yang Maha Mulia,",
+      "Terjemahan_En": "Read: And your Lord is the Most Generous.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱقۡرَأۡ",
+          "Arti_kata": "bacalah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَرَبُّكَ",
+          "Arti_kata": "dan Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡأَكۡرَمُ",
+          "Arti_kata": "amat mulia",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6110,
+      "Ayat_Arabic": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+      "Text_Latin": "allazi 'allama bil-qalam",
+      "Terjemah_in": "yang mengajar (manusia) dengan pena.",
+      "Terjemahan_En": "He who taught by the pen.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَلَّمَ",
+          "Arti_kata": "Dia mengajar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِٱلۡقَلَمِ",
+          "Arti_kata": "dengan kalam",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6111,
+      "Ayat_Arabic": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+      "Text_Latin": "'allamal-insana ma lam ya'lam",
+      "Terjemah_in": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+      "Terjemahan_En": "Taught man what he never knew.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "عَلَّمَ",
+          "Arti_kata": "Dia mengajarkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَا",
+          "Arti_kata": "apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "يَعۡلَمۡ",
+          "Arti_kata": "dia ketahui",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6112,
+      "Ayat_Arabic": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+      "Text_Latin": "kalla innal-insana layatga",
+      "Terjemah_in": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas",
+      "Terjemahan_En": "In fact, man oversteps all bounds.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَلَّآ",
+          "Arti_kata": "sekali-kali tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "لَيَطۡغَىٰٓ",
+          "Arti_kata": "benar-benar melampui batas",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6113,
+      "Ayat_Arabic": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+      "Text_Latin": "ar ra'ahustagna",
+      "Terjemah_in": "ketika melihat dirinya serba berkecukupan.",
+      "Terjemahan_En": "When he considers himself exempt.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَن",
+          "Arti_kata": "bahwa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "رَّءَاهُ",
+          "Arti_kata": "ia melihatnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱسۡتَغۡنَىٰٓ",
+          "Arti_kata": "dia serba cukup",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6114,
+      "Ayat_Arabic": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+      "Text_Latin": "inna ila rabbikar-ruj'a",
+      "Terjemah_in": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu).",
+      "Terjemahan_En": "But to your Lord is the return.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِلَىٰ",
+          "Arti_kata": "kepada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلرُّجۡعَىٰٓ",
+          "Arti_kata": "tempat kembali",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6115,
+      "Ayat_Arabic": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+      "Text_Latin": "a ra'aitallazi yan-ha",
+      "Terjemah_in": "Tahukah kamu tentang orang yang melarang",
+      "Terjemahan_En": "Have you seen him who prevents?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَرَءَيۡتَ",
+          "Arti_kata": "apakah kamu lihat/pendapatmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang/orang-orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَنۡهَىٰ",
+          "Arti_kata": "ia melarang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6116,
+      "Ayat_Arabic": "عَبْدًا اِذَا صَلّٰىۗ",
+      "Text_Latin": "'abdan iza salla",
+      "Terjemah_in": "seorang hamba ketika dia melaksanakan salat?",
+      "Terjemahan_En": "A servant when he prays?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "عَبۡدًا",
+          "Arti_kata": "hamba",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata": "apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "صَلَّىٰٓ",
+          "Arti_kata": "sholat",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6117,
+      "Ayat_Arabic": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+      "Text_Latin": "a ra'aita ing kana 'alal-huda",
+      "Terjemah_in": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran",
+      "Terjemahan_En": "Do you think he is upon guidance?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَرَءَيۡتَ",
+          "Arti_kata": "apakah kamu lihat/pendapatmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِن",
+          "Arti_kata": "jika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "كَانَ",
+          "Arti_kata": "adalah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَلَى",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡهُدَىٰٓ",
+          "Arti_kata": "petunjuk",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6118,
+      "Ayat_Arabic": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+      "Text_Latin": "au amara bit-taqwa",
+      "Terjemah_in": "atau dia menyuruh bertakwa (kepada Allah)?",
+      "Terjemahan_En": "Or advocates righteousness?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَوۡ",
+          "Arti_kata": "atau",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَمَرَ",
+          "Arti_kata": "dia menyuruh",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِٱلتَّقۡوَىٰٓ",
+          "Arti_kata": "dengan taqwa",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6119,
+      "Ayat_Arabic": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+      "Text_Latin": "a ra'aita ing kazzaba wa tawalla",
+      "Terjemah_in": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?",
+      "Terjemahan_En": "Do you see how he disbelieved and turned away?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَرَءَيۡتَ",
+          "Arti_kata": "apakah kamu lihat/pendapatmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِن",
+          "Arti_kata": "jika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "كَذَّبَ",
+          "Arti_kata": "mendustakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَتَوَلَّىٰٓ",
+          "Arti_kata": "dan dia berpaling",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6120,
+      "Ayat_Arabic": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+      "Text_Latin": "a lam ya'lam bi'annallaha yara",
+      "Terjemah_in": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
+      "Terjemahan_En": "Does he not know that God sees?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَلَمۡ",
+          "Arti_kata": "apakah tidak/tidaklah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَعۡلَم",
+          "Arti_kata": "dia mengetahui",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِأَنَّ",
+          "Arti_kata": "bahwa sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱللَّهَ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "يَرَىٰ",
+          "Arti_kata": "Dia melihat",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6121,
+      "Ayat_Arabic": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+      "Text_Latin": "kalla la'il lam yantahi lanasfa'am bin-nasiyah",
+      "Terjemah_in": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),",
+      "Terjemahan_En": "No. If he does not desist, We will drag him by the forelock.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَلَّا",
+          "Arti_kata": "sekali-kali tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَئِن",
+          "Arti_kata": "sungguh jika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَّمۡ",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يَنتَهِ",
+          "Arti_kata": "dia berhenti",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "لَنَسۡفَعَۢا",
+          "Arti_kata": "niscaya kami pegang/tarik",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "بِٱلنَّاصِيَةِ",
+          "Arti_kata": "dengan umbun-umbun",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6122,
+      "Ayat_Arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+      "Text_Latin": "nasiyating kazibatin khati'ah",
+      "Terjemah_in": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka.",
+      "Terjemahan_En": "A deceitful, sinful forelock.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "نَاصِيَةٖ",
+          "Arti_kata": "umbun-umbun",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "كَٰذِبَةٍ",
+          "Arti_kata": "pendusta",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "خَاطِئَةٖ",
+          "Arti_kata": "salah/durhaka",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6123,
+      "Ayat_Arabic": "فَلْيَدْعُ نَادِيَهٗۙ",
+      "Text_Latin": "falyad'u nadiyah",
+      "Terjemah_in": "Biarlah dia memanggil golongannya (untuk menolongnya).",
+      "Terjemahan_En": "Let him call on his gang.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَلۡيَدۡعُ",
+          "Arti_kata": "maka hendaklah dia memanggil",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "نَادِيَهُۥ",
+          "Arti_kata": "kaum/golongannya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6124,
+      "Ayat_Arabic": "سَنَدْعُ الزَّبَانِيَةَۙ",
+      "Text_Latin": "sanad'uz-zabaniyah",
+      "Terjemah_in": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa).759)",
+      "Terjemahan_En": "We will call the Guards.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "سَنَدۡعُ",
+          "Arti_kata": "kelak Kami memanggil",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلزَّبَانِيَةَ",
+          "Arti_kata": "Zabaniyah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6125,
+      "Ayat_Arabic": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+      "Text_Latin": "kalla, la tuti'hu wasjud waqtarib",
+      "Terjemah_in": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah).",
+      "Terjemahan_En": "No, do not obey him; but kneel down, and come near.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَلَّا",
+          "Arti_kata": "sekali-kali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَا",
+          "Arti_kata": "jangan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تُطِعۡهُ",
+          "Arti_kata": "kamu patuh kepadanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَٱسۡجُدۡۤ",
+          "Arti_kata": "dan sujudlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَٱقۡتَرِب۩",
+          "Arti_kata": "dan dekatkanlah",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

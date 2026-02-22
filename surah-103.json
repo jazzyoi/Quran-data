@@ -1,0 +1,120 @@
+{
+  "Nomor_surat": 103,
+  "Nama_surat": "Al-'Ashr",
+  "surat_arabic": "العصر",
+  "Arti_surat_in": "Masa",
+  "Arti_surat_en": "The Declining Day",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6177,
+      "Ayat_Arabic": "وَالْعَصْرِۙ",
+      "Text_Latin": "wal-'asr",
+      "Terjemah_in": "Demi masa,",
+      "Terjemahan_En": "By time.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡعَصۡرِ",
+          "Arti_kata": "demi waktu",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6178,
+      "Ayat_Arabic": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "Text_Latin": "innal-insana lafi khusr",
+      "Terjemah_in": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+      "Terjemahan_En": "The human being is in loss.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَفِي",
+          "Arti_kata": "benar-benar dalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "خُسۡرٍ",
+          "Arti_kata": "kerugian",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6179,
+      "Ayat_Arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "Text_Latin": "illallazina amanu wa 'amilus-salihati wa tawasau bil-haqqi wa tawasau bis-sabr",
+      "Terjemah_in": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.",
+      "Terjemahan_En": "Except those who believe, and do good works, and encourage truth, and recommend patience.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِلَّا",
+          "Arti_kata": "kecuali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ءَامَنُواْ",
+          "Arti_kata": "beriman",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَعَمِلُواْ",
+          "Arti_kata": "dan mereka berbuat/beramal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلصَّٰلِحَٰتِ",
+          "Arti_kata": "kebajikan/sholeh",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata": "dan mereka saling berwasiat/menasehati",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "بِٱلۡحَقِّ",
+          "Arti_kata": "dengan kebenaran",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata": "dan mereka saling berwasiat/menasehati",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "بِٱلصَّبۡرِ",
+          "Arti_kata": "dengan kesabaran",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "Nomor_surat": 87,
+  "Nama_surat": "Al-A’laa",
+  "surat_arabic": "الأعلى",
+  "Arti_surat_in": "Yang Paling Tinggi",
+  "Arti_surat_en": "The Most High",
+  "Ayat": [
+    {
+      "Nomor_ayat": 5949,
+      "Ayat_Arabic": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ",
+      "Text_Latin": "sabbihisma rabbikal-a'la",
+      "Terjemah_in": "Sucikanlah nama Tuhanmu Yang Maha Tinggi,",
+      "Terjemahan_En": "Praise the Name of your Lord, the Most High.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "سَبِّحِ",
+          "Arti_kata": "sucikanlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱسۡمَ",
+          "Arti_kata": "nama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡأَعۡلَى",
+          "Arti_kata": "Maha Tinggi",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5950,
+      "Ayat_Arabic": "الَّذِيْ خَلَقَ فَسَوّٰىۖ",
+      "Text_Latin": "allazi khalaqa fa sawwa",
+      "Terjemah_in": "yang menciptakan, lalu menyempurnakan (ciptaan-Nya),",
+      "Terjemahan_En": "He who creates and regulates.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "خَلَقَ",
+          "Arti_kata": "Dia menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فَسَوَّىٰ",
+          "Arti_kata": "lalu Dia menyempurnakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5951,
+      "Ayat_Arabic": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ",
+      "Text_Latin": "wallazi qaddara fa hada",
+      "Terjemah_in": "yang menentukan kadar (masing-masing) dan memberi petunjuk,",
+      "Terjemahan_En": "He who measures and guides.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلَّذِي",
+          "Arti_kata": "dan yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "قَدَّرَ",
+          "Arti_kata": "Dia menentukan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فَهَدَىٰ",
+          "Arti_kata": "lalu Dia memberi petunjuk",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5952,
+      "Ayat_Arabic": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ",
+      "Text_Latin": "wallazi akhrajal-mar'a",
+      "Terjemah_in": "dan yang menumbuhkan (rerumputan) padang gembala,",
+      "Terjemahan_En": "He who produces the pasture.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلَّذِيٓ",
+          "Arti_kata": "dan yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَخۡرَجَ",
+          "Arti_kata": "Dia keluarkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمَرۡعَىٰ",
+          "Arti_kata": "rumput-rumputan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5953,
+      "Ayat_Arabic": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ",
+      "Text_Latin": "fa ja'alahu gusa'an ahwa",
+      "Terjemah_in": "lalu menjadikannya kering kehitam-hitaman.",
+      "Terjemahan_En": "And then turns it into light debris.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَجَعَلَهُۥ",
+          "Arti_kata": "lalu Dia jadikannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "غُثَآءً",
+          "Arti_kata": "kering",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَحۡوَىٰ",
+          "Arti_kata": "kehitam-hitaman",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5954,
+      "Ayat_Arabic": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ  ۖ",
+      "Text_Latin": "sanuqri'uka fa la tansa",
+      "Terjemah_in": "Kami akan membacakan (Al-Qur’an) kepadamu (Nabi Muhammad) sehingga engkau tidak akan lupa,",
+      "Terjemahan_En": "We will make you read, so do not forget.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "سَنُقۡرِئُكَ",
+          "Arti_kata": "Kami bacakan kepadamu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فَلَا",
+          "Arti_kata": "maka tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تَنسَىٰٓ",
+          "Arti_kata": "kamu lupa",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5955,
+      "Ayat_Arabic": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ",
+      "Text_Latin": "illa ma sya'allah, innahu ya'lamul-jahra wa ma yakhfa",
+      "Terjemah_in": "kecuali jika Allah menghendaki. Sesungguhnya Dia mengetahui yang terang dan yang tersembunyi.",
+      "Terjemahan_En": "Except what God wills. He knows what is declared, and what is hidden.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِلَّا",
+          "Arti_kata": "kecuali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مَا",
+          "Arti_kata": "apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "شَآءَ",
+          "Arti_kata": "dikehendaki",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱللَّهُۚ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "إِنَّهُۥ",
+          "Arti_kata": "sesungguhnya Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "يَعۡلَمُ",
+          "Arti_kata": "mengetahui",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "ٱلۡجَهۡرَ",
+          "Arti_kata": "terang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata": "dan apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "يَخۡفَىٰ",
+          "Arti_kata": "tersembunyi",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5956,
+      "Ayat_Arabic": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ",
+      "Text_Latin": "wa nuyassiruka lil-yusra",
+      "Terjemah_in": "Kami akan melapangkan bagimu jalan kemudahan (dalam segala urusan).",
+      "Terjemahan_En": "We will ease you into the Easy Way.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَنُيَسِّرُكَ",
+          "Arti_kata": "dan Kami memudahkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِلۡيُسۡرَىٰ",
+          "Arti_kata": "untuk kemudahan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5957,
+      "Ayat_Arabic": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ",
+      "Text_Latin": "fa zakkir in nafa'atiz-zikra",
+      "Terjemah_in": "Maka, sampaikanlah peringatan jika peringatan itu bermanfaat.",
+      "Terjemahan_En": "So remind, if reminding helps.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَذَكِّرۡ",
+          "Arti_kata": "maka berilah peringatan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِن",
+          "Arti_kata": "sesungguhnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "نَّفَعَتِ",
+          "Arti_kata": "berguna",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلذِّكۡرَىٰ",
+          "Arti_kata": "peringatan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5958,
+      "Ayat_Arabic": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ",
+      "Text_Latin": "sayazzakkaru may yakhsya",
+      "Terjemah_in": "Orang yang takut (kepada Allah) akan mengambil pelajaran,",
+      "Terjemahan_En": "The reverent will remember.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "سَيَذَّكَّرُ",
+          "Arti_kata": "akan menerima peringatan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مَن",
+          "Arti_kata": "orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَخۡشَىٰ",
+          "Arti_kata": "ia takut",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5959,
+      "Ayat_Arabic": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ",
+      "Text_Latin": "wa yatajannabuhal-asyqa",
+      "Terjemah_in": "sedangkan orang-orang yang celaka (kafir) akan menjauhinya,",
+      "Terjemahan_En": "But the wretched will avoid it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَيَتَجَنَّبُهَا",
+          "Arti_kata": "dan akan menjauhi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡأَشۡقَى",
+          "Arti_kata": "orang yang celaka",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5960,
+      "Ayat_Arabic": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ",
+      "Text_Latin": "allazi yaslan-naral-kubra",
+      "Terjemah_in": "(yaitu) orang yang akan memasuki api (neraka) yang besar.",
+      "Terjemahan_En": "He who will enter the Gigantic Fire.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَصۡلَى",
+          "Arti_kata": "ia akan masuk",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلنَّارَ",
+          "Arti_kata": "api/neraka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡكُبۡرَىٰ",
+          "Arti_kata": "yang besar",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5961,
+      "Ayat_Arabic": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ",
+      "Text_Latin": "summa la yamutu fiha wa la yahya",
+      "Terjemah_in": "Selanjutnya, dia tidak mati dan tidak (pula) hidup di sana.",
+      "Terjemahan_En": "Where he will neither die, nor live.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata": "kemudian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَا",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَمُوتُ",
+          "Arti_kata": "ia mati",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِيهَا",
+          "Arti_kata": "di dalamnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "يَحۡيَىٰ",
+          "Arti_kata": "ia hidup",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5962,
+      "Ayat_Arabic": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ",
+      "Text_Latin": "qad aflaha man tazakka",
+      "Terjemah_in": "Sungguh, beruntung orang yang menyucikan diri (dari kekafiran)",
+      "Terjemahan_En": "Successful is he who purifies himself.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قَدۡ",
+          "Arti_kata": "sungguh",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَفۡلَحَ",
+          "Arti_kata": "beruntung",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَن",
+          "Arti_kata": "siapa/orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تَزَكَّىٰ",
+          "Arti_kata": "dia membersihkan diri",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5963,
+      "Ayat_Arabic": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ",
+      "Text_Latin": "wa zakarasma rabbihi fa salla",
+      "Terjemah_in": "dan mengingat nama Tuhannya, lalu dia salat.",
+      "Terjemahan_En": "And mentions the name of his Lord, and prays.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَذَكَرَ",
+          "Arti_kata": "dan dia mengingat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱسۡمَ",
+          "Arti_kata": "nama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّهِۦ",
+          "Arti_kata": "Tuhannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَصَلَّىٰ",
+          "Arti_kata": "dan dia mendirikan sholat",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5964,
+      "Ayat_Arabic": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ",
+      "Text_Latin": "bal tu'sirunal-hayatad-dun-ya",
+      "Terjemah_in": "Adapun kamu (orang-orang kafir) mengutamakan kehidupan dunia,",
+      "Terjemahan_En": "But you prefer the present life.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بَلۡ",
+          "Arti_kata": "bahkan/tetapi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "تُؤۡثِرُونَ",
+          "Arti_kata": "kamu memilih",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡحَيَوٰةَ",
+          "Arti_kata": "kehidupan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلدُّنۡيَا",
+          "Arti_kata": "dunia",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5965,
+      "Ayat_Arabic": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ",
+      "Text_Latin": "wal-akhiratu khairuw wa abqa",
+      "Terjemah_in": "padahal kehidupan akhirat itu lebih baik dan lebih kekal.",
+      "Terjemahan_En": "Though the Hereafter is better, and more lasting.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡأٓخِرَةُ",
+          "Arti_kata": "dan akherat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "خَيۡرٞ",
+          "Arti_kata": "lebih baik",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَأَبۡقَىٰٓ",
+          "Arti_kata": "dan lebih kekal",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5966,
+      "Ayat_Arabic": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ",
+      "Text_Latin": "inna haza lafis-suhufil-ula",
+      "Terjemah_in": "Sesungguhnya (penjelasan) ini terdapat dalam suhuf (lembaran-lembaran) yang terdahulu,",
+      "Terjemahan_En": "This is in the former scriptures.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata": "sungguh",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هَٰذَا",
+          "Arti_kata": "ini",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَفِي",
+          "Arti_kata": "benar-benar dalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلصُّحُفِ",
+          "Arti_kata": "kitab-kitab",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡأُولَىٰ",
+          "Arti_kata": "terdahulu",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5967,
+      "Ayat_Arabic": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى ࣖ",
+      "Text_Latin": "suhufi ibrahima wa musa",
+      "Terjemah_in": "(yaitu) suhuf (yang diturunkan kepada) Ibrahim dan Musa.",
+      "Terjemahan_En": "The Scriptures of Abraham and Moses.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "صُحُفِ",
+          "Arti_kata": "kitab",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِبۡرَٰهِيمَ",
+          "Arti_kata": "Ibrahim",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَمُوسَىٰ",
+          "Arti_kata": "dan Musa",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

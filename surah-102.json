@@ -1,0 +1,249 @@
+{
+  "Nomor_surat": 102,
+  "Nama_surat": "At-Takatsur",
+  "surat_arabic": "التكاثر",
+  "Arti_surat_in": "Bermegah-megahan",
+  "Arti_surat_en": "Vying for increase",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6169,
+      "Ayat_Arabic": "اَلْهٰىكُمُ التَّكَاثُرُۙ",
+      "Text_Latin": "al-hakumut-takasur",
+      "Terjemah_in": "Berbangga-bangga dalam memperbanyak (dunia) telah melalaikanmu760)",
+      "Terjemahan_En": "Abundance distracts you.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَلۡهَىٰكُمُ",
+          "Arti_kata": "telah melalaikan kamu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلتَّكَاثُرُ",
+          "Arti_kata": "berbanyak-banyak/bermegah-megah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6170,
+      "Ayat_Arabic": "حَتّٰى زُرْتُمُ الْمَقَابِرَۗ",
+      "Text_Latin": "hatta zurtumul-maqabir",
+      "Terjemah_in": "sampai kamu masuk ke dalam kubur.",
+      "Terjemahan_En": "Until you visit the graveyards.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "حَتَّىٰ",
+          "Arti_kata": "hingga",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "زُرۡتُمُ",
+          "Arti_kata": "kamu melewati/masuk",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمَقَابِرَ",
+          "Arti_kata": "kuburan-kuburan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6171,
+      "Ayat_Arabic": "كَلَّا سَوْفَ تَعْلَمُوْنَۙ",
+      "Text_Latin": "kalla saufa ta'lamun",
+      "Terjemah_in": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu).",
+      "Terjemahan_En": "Indeed, you will know.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَلَّا",
+          "Arti_kata": "sekali-kali tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "سَوۡفَ",
+          "Arti_kata": "kelak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تَعۡلَمُونَ",
+          "Arti_kata": "(kalian) mengetahui",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6172,
+      "Ayat_Arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُوْنَ",
+      "Text_Latin": "summa kalla saufa ta'lamun",
+      "Terjemah_in": "Sekali-kali tidak (jangan melakukan itu)! Kelak kamu akan mengetahui (akibatnya).",
+      "Terjemahan_En": "Certainly, you will know.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata": "kemudian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "كَلَّا",
+          "Arti_kata": "sekali-kali tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "سَوۡفَ",
+          "Arti_kata": "kelak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تَعۡلَمُونَ",
+          "Arti_kata": "(kalian) mengetahui",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6173,
+      "Ayat_Arabic": "كَلَّا لَوْ تَعْلَمُوْنَ عِلْمَ الْيَقِيْنِۗ",
+      "Text_Latin": "kalla lau ta'lamuna 'ilmal-yaqin",
+      "Terjemah_in": "Sekali-kali tidak (jangan melakukan itu)! Sekiranya kamu mengetahui dengan pasti, (niscaya kamu tidak akan melakukannya).",
+      "Terjemahan_En": "If you knew with knowledge of certainty.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَلَّا",
+          "Arti_kata": "sekali-kali tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَوۡ",
+          "Arti_kata": "jika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تَعۡلَمُونَ",
+          "Arti_kata": "(kalian) mengetahui",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عِلۡمَ",
+          "Arti_kata": "pengetahuan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡيَقِينِ",
+          "Arti_kata": "pasti/yakin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6174,
+      "Ayat_Arabic": "لَتَرَوُنَّ الْجَحِيْمَۙ",
+      "Text_Latin": "latarawunnal-jahim",
+      "Terjemah_in": "Pasti kamu benar-benar akan melihat (neraka) Jahim.",
+      "Terjemahan_En": "You would see the Inferno.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "لَتَرَوُنَّ",
+          "Arti_kata": "sungguh kamu akan melihat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡجَحِيمَ",
+          "Arti_kata": "neraka Jahim",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6175,
+      "Ayat_Arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِيْنِۙ",
+      "Text_Latin": "summa latarawunnaha 'ainal-yaqin",
+      "Terjemah_in": "Kemudian, kamu pasti benar-benar akan melihatnya dengan ainulyakin.",
+      "Terjemahan_En": "Then you will see it with the eye of certainty.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata": "kemudian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَتَرَوُنَّهَا",
+          "Arti_kata": "sungguh kamu akan melihatnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عَيۡنَ",
+          "Arti_kata": "mata/penglihatan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡيَقِينِ",
+          "Arti_kata": "pasti/yakin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6176,
+      "Ayat_Arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَىِٕذٍ عَنِ النَّعِيْمِ ࣖ",
+      "Text_Latin": "summa latus'alunna yauma'izin 'anin-na'im",
+      "Terjemah_in": "Kemudian, kamu pasti benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).",
+      "Terjemahan_En": "Then, on that Day, you will be questioned about the Bliss.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata": "kemudian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَتُسَۡٔلُنَّ",
+          "Arti_kata": "sungguh kamu akan ditanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَوۡمَئِذٍ",
+          "Arti_kata": "pada hari itu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَنِ",
+          "Arti_kata": "dari/tetang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلنَّعِيمِ",
+          "Arti_kata": "kenikmatan",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

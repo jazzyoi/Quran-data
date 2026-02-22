@@ -1,0 +1,150 @@
+{
+  "Nomor_surat": 110,
+  "Nama_surat": "An-Nashr",
+  "surat_arabic": "النصر",
+  "Arti_surat_in": "Pertolongan",
+  "Arti_surat_en": "The Divine Support",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6214,
+      "Ayat_Arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+      "Text_Latin": "iza ja'a nasrullahi wal-fat-h",
+      "Terjemah_in": "Apabila telah datang pertolongan Allah dan kemenangan",
+      "Terjemahan_En": "When there comes God’s victory, and conquest.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata": "apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "جَآءَ",
+          "Arti_kata": "datang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "نَصۡرُ",
+          "Arti_kata": "pertolongan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَٱلۡفَتۡحُ",
+          "Arti_kata": "dan kemenangan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6215,
+      "Ayat_Arabic": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+      "Text_Latin": "wa ra'aitan-nasa yadkhuluna fi dinillahi afwaja",
+      "Terjemah_in": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+      "Terjemahan_En": "And you see the people entering God’s religion in multitudes.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَرَأَيۡتَ",
+          "Arti_kata": "dan kamu lihat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلنَّاسَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَدۡخُلُونَ",
+          "Arti_kata": "masuk",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "kedalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "دِينِ",
+          "Arti_kata": "agama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "أَفۡوَاجٗا",
+          "Arti_kata": "berbondong-bondong",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6216,
+      "Ayat_Arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+      "Text_Latin": "fa sabbih bihamdi rabbika wastagfir-h, innahu kana tawwaba",
+      "Terjemah_in": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat.",
+      "Terjemahan_En": "Then celebrate the praise of your Lord, and seek His forgiveness. He is the Accepter of Repentance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَسَبِّحۡ",
+          "Arti_kata": "maka bertasbihlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "بِحَمۡدِ",
+          "Arti_kata": "dengan memuji",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَٱسۡتَغۡفِرۡهُۚ",
+          "Arti_kata": "dan mohonlah ampun",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "إِنَّهُۥ",
+          "Arti_kata": "sesungguhnya Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "كَانَ",
+          "Arti_kata": "adalah Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "تَوَّابَۢا",
+          "Arti_kata": "Maha Penerima Taubat",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}

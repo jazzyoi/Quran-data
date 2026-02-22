@@ -1,0 +1,222 @@
+{
+  "Nomor_surat": 107,
+  "Nama_surat": "Al-Ma'un",
+  "surat_arabic": "الماعون",
+  "Arti_surat_in": "Barang-barang yang Berguna",
+  "Arti_surat_en": "The Small Kindness",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6198,
+      "Ayat_Arabic": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+      "Text_Latin": "a ra'aitallazi yukazzibu bid-din",
+      "Terjemah_in": "Tahukah kamu (orang) yang mendustakan agama?",
+      "Terjemahan_En": "Have you considered him who denies the religion?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَرَءَيۡتَ",
+          "Arti_kata": "tahukah kamu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يُكَذِّبُ",
+          "Arti_kata": "dia mendustakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "بِٱلدِّينِ",
+          "Arti_kata": "dengan agama",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6199,
+      "Ayat_Arabic": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+      "Text_Latin": "fa zalikallazi yadu''ul-yatim",
+      "Terjemah_in": "Itulah orang yang menghardik anak yatim",
+      "Terjemahan_En": "It is he who mistreats the orphan.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَذَٰلِكَ",
+          "Arti_kata": "maka itulah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَدُعُّ",
+          "Arti_kata": "dia menghardik",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡيَتِيمَ",
+          "Arti_kata": "anak yatim",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6200,
+      "Ayat_Arabic": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+      "Text_Latin": "wa la yahuddu 'ala ta'amil-miskin",
+      "Terjemah_in": "dan tidak menganjurkan untuk memberi makan orang miskin.",
+      "Terjemahan_En": "And does not encourage the feeding of the poor.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَحُضُّ",
+          "Arti_kata": "menganjurkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عَلَىٰ",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "طَعَامِ",
+          "Arti_kata": "memberi makan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡمِسۡكِينِ",
+          "Arti_kata": "orang miskin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6201,
+      "Ayat_Arabic": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+      "Text_Latin": "fa wailul lil-musallin",
+      "Terjemah_in": "Celakalah orang-orang yang melaksanakan salat,",
+      "Terjemahan_En": "So woe to those who pray.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَوَيۡلٞ",
+          "Arti_kata": "maka celakalah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِّلۡمُصَلِّينَ",
+          "Arti_kata": "orang yang sholat",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6202,
+      "Ayat_Arabic": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+      "Text_Latin": "allazina hum 'an salatihim sahun",
+      "Terjemah_in": "(yaitu) yang lalai terhadap salatnya,761)",
+      "Terjemahan_En": "Those who are heedless of their prayers.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُمۡ",
+          "Arti_kata": "mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عَن",
+          "Arti_kata": "dar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "صَلَاتِهِمۡ",
+          "Arti_kata": "sholat mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "سَاهُونَ",
+          "Arti_kata": "lalai",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6203,
+      "Ayat_Arabic": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+      "Text_Latin": "allazina hum yura'un",
+      "Terjemah_in": "yang berbuat riya,762)",
+      "Terjemahan_En": "Those who put on the appearance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "هُمۡ",
+          "Arti_kata": "mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يُرَآءُونَ",
+          "Arti_kata": "mereka berbuat ria",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6204,
+      "Ayat_Arabic": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+      "Text_Latin": "wa yamna'unal-ma'un",
+      "Terjemah_in": "dan enggan (memberi) bantuan.",
+      "Terjemahan_En": "And withhold the assistance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَيَمۡنَعُونَ",
+          "Arti_kata": "dan mereka mencegah/enggan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡمَاعُونَ",
+          "Arti_kata": "pertolongan",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}
