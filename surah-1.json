@@ -1,0 +1,246 @@
+{
+  "Nomor_surat": 1,
+  "Nama_surat": "Al-Fatihah",
+  "surat_arabic": "الفاتحة",
+  "Arti_surat_in": "Pembuka",
+  "Arti_surat_en": "The opener",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_Arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+      "Text_Latin": "bismillahir-rahmanir-rahim",
+      "Terjemah_in": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+      "Terjemahan_En": "In the name of God, the Gracious, the Merciful.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بِسۡمِ",
+          "Arti_kata": "dengan nama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata": "Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلرَّحۡمَٰنِ",
+          "Arti_kata": "Maha Pengasih",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلرَّحِيمِ",
+          "Arti_kata": "Maha Penyayang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_Arabic": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+      "Text_Latin": "al-hamdu lillahi rabbil-'alamin",
+      "Terjemah_in": "Segala puji bagi Allah, Tuhan1) semesta alam",
+      "Terjemahan_En": "Praise be to God, Lord of the Worlds.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلۡحَمۡدُ",
+          "Arti_kata": "pujian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِلَّهِ",
+          "Arti_kata": "bagi Allah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّ",
+          "Arti_kata": "Tuhan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡعَٰلَمِينَ",
+          "Arti_kata": "alam semesta",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_Arabic": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+      "Text_Latin": "ar-rahmanir-rahim",
+      "Terjemah_in": "Yang Maha Pengasih lagi Maha Penyayang,",
+      "Terjemahan_En": "The Most Gracious, the Most Merciful.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلرَّحۡمَٰنِ",
+          "Arti_kata": "Maha Pengasih",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلرَّحِيمِ",
+          "Arti_kata": "Maha Penyayang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_Arabic": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+      "Text_Latin": "maliki yaumid-din",
+      "Terjemah_in": "Pemilik hari Pembalasan.",
+      "Terjemahan_En": "Master of the Day of Judgment.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مَٰلِكِ",
+          "Arti_kata": "Penguasa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَوۡمِ",
+          "Arti_kata": "hari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلدِّينِ",
+          "Arti_kata": "pembalasan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_Arabic": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+      "Text_Latin": "iyyaka na'budu wa iyyaka nasta'in",
+      "Terjemah_in": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan.",
+      "Terjemahan_En": "It is You we worship, and upon You we call for help.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِيَّاكَ",
+          "Arti_kata": "hanya kepadaMu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "نَعۡبُدُ",
+          "Arti_kata": "kami menyembah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَإِيَّاكَ",
+          "Arti_kata": "dan hanya kepadaMu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "نَسۡتَعِينُ",
+          "Arti_kata": "kami mohon pertolongan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_Arabic": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+      "Text_Latin": "ihdinas-siratal-mustaqim",
+      "Terjemah_in": "Bimbinglah kami ke jalan yang lurus,",
+      "Terjemahan_En": "Guide us to the straight path.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱهۡدِنَا",
+          "Arti_kata": "tunjukkan kami",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلصِّرَٰطَ",
+          "Arti_kata": "jalan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمُسۡتَقِيمَ",
+          "Arti_kata": "lurus",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_Arabic": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+      "Text_Latin": "siratallazina an'amta 'alaihim gairil-magdubi 'alaihim wa lad-dallin",
+      "Terjemah_in": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.",
+      "Terjemahan_En": "The path of those You have blessed, not of those against whom there is anger, nor of those who are misguided.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "صِرَٰطَ",
+          "Arti_kata": "jalan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata": "orang-orang yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَنۡعَمۡتَ",
+          "Arti_kata": "diberi nikmat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata": "kepadanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "غَيۡرِ",
+          "Arti_kata": "bukan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱلۡمَغۡضُوبِ",
+          "Arti_kata": "orang yang dimurkai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata": "kepadanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلضَّآلِّينَ",
+          "Arti_kata": "orang-orang yang sesat",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}
