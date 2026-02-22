@@ -1,0 +1,2817 @@
+{
+  "Nomor_surat": 55,
+  "Nama_surat": "Ar-Rahman",
+  "surat_arabic": "الرحمن",
+  "Arti_surat_in": "Yang Maha Pemurah",
+  "Arti_surat_en": "The Beneficent",
+  "Ayat": [
+    {
+      "Nomor_ayat": 4902,
+      "Ayat_Arabic": "اَلرَّحْمٰنُۙ",
+      "Text_Latin": "ar-rahman",
+      "Terjemah_in": "(Allah) Yang Maha Pengasih,",
+      "Terjemahan_En": "The Compassionate.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلرَّحۡمَٰنُ",
+          "Arti_kata": "Yang Maha Pengasih",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4903,
+      "Ayat_Arabic": "عَلَّمَ الْقُرْاٰنَۗ",
+      "Text_Latin": "'allamal-qur'an",
+      "Terjemah_in": "telah mengajarkan Al-Qur’an.",
+      "Terjemahan_En": "Has taught the Quran.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "عَلَّمَ",
+          "Arti_kata": "Dia telah mengajarkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡقُرۡءَانَ",
+          "Arti_kata": "Al Quran",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4904,
+      "Ayat_Arabic": "خَلَقَ الْاِنْسَانَۙ",
+      "Text_Latin": "khalaqal-insan",
+      "Terjemah_in": "Dia menciptakan manusia.",
+      "Terjemahan_En": "He created man.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "خَلَقَ",
+          "Arti_kata": "Dia telah menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4905,
+      "Ayat_Arabic": "عَلَّمَهُ الْبَيَانَ",
+      "Text_Latin": "'allamahul-bayan",
+      "Terjemah_in": "Dia mengajarinya pandai menjelaskan.",
+      "Terjemahan_En": "And taught him clear expression.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "عَلَّمَهُ",
+          "Arti_kata": "Dia mengajarkannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡبَيَانَ",
+          "Arti_kata": "jelas/terang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4906,
+      "Ayat_Arabic": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۙ",
+      "Text_Latin": "asy-syamsu wal-qamaru bihusban",
+      "Terjemah_in": "Matahari dan bulan (beredar) sesuai dengan perhitungan.",
+      "Terjemahan_En": "The sun and the moon move according to plan.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلشَّمۡسُ",
+          "Arti_kata": "matahari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَٱلۡقَمَرُ",
+          "Arti_kata": "dan bulan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِحُسۡبَانٖ",
+          "Arti_kata": "dengan/menurut perhitungan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4907,
+      "Ayat_Arabic": "وَّالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+      "Text_Latin": "wan-najmu wasy-syajaru yasjudan",
+      "Terjemah_in": "Tetumbuhan dan pepohonan tunduk (kepada-Nya).",
+      "Terjemahan_En": "And the stars and the trees prostrate themselves.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلنَّجۡمُ",
+          "Arti_kata": "dan bintang/tumbuh-tumbuhan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَٱلشَّجَرُ",
+          "Arti_kata": "dan pohon-pohonan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَسۡجُدَانِ",
+          "Arti_kata": "keduanya tunduk/sujud",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4908,
+      "Ayat_Arabic": "وَالسَّمَاۤءَ رَفَعَهَا وَوَضَعَ الْمِيْزَانَۙ",
+      "Text_Latin": "was-sama'a rafa'aha wa wada'al-mizan",
+      "Terjemah_in": "Langit telah Dia tinggikan dan Dia telah menciptakan timbangan (keadilan dan keseimbangan)",
+      "Terjemahan_En": "And the sky, He raised; and He set up the balance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلسَّمَآءَ",
+          "Arti_kata": "dan langit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "رَفَعَهَا",
+          "Arti_kata": "Dia tinggikannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَوَضَعَ",
+          "Arti_kata": "dan Dia letakkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡمِيزَانَ",
+          "Arti_kata": "timbangan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4909,
+      "Ayat_Arabic": "اَلَّا تَطْغَوْا فِى الْمِيْزَانِ",
+      "Text_Latin": "alla tatgau fil-mizan",
+      "Terjemah_in": "agar kamu tidak melampaui batas dalam timbangan itu.",
+      "Terjemahan_En": "So do not transgress in the balance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "أَلَّا",
+          "Arti_kata": "supaya jangan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "تَطۡغَوۡاْ",
+          "Arti_kata": "kamu melampui batas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "dalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡمِيزَانِ",
+          "Arti_kata": "neraca/timbangan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4910,
+      "Ayat_Arabic": "وَاَقِيْمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيْزَانَ",
+      "Text_Latin": "wa aqimul-wazna bil-qisti wa la tukhsirul-mizan",
+      "Terjemah_in": "Tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi timbangan itu.",
+      "Terjemahan_En": "But maintain the weights with justice, and do not violate the balance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَأَقِيمُواْ",
+          "Arti_kata": "dan dirikanlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡوَزۡنَ",
+          "Arti_kata": "neraca/timbangan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِٱلۡقِسۡطِ",
+          "Arti_kata": "dengan adil",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan janganlah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "تُخۡسِرُواْ",
+          "Arti_kata": "kamu mengurangi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱلۡمِيزَانَ",
+          "Arti_kata": "neraca/timbangan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4911,
+      "Ayat_Arabic": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ",
+      "Text_Latin": "wal-arda wada'aha lil-anam",
+      "Terjemah_in": "Bumi telah Dia bentangkan untuk makhluk(-Nya).",
+      "Terjemahan_En": "And the earth; He set up for the creatures.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡأَرۡضَ",
+          "Arti_kata": "dan bumi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَضَعَهَا",
+          "Arti_kata": "Dia letakkan/hamparkannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لِلۡأَنَامِ",
+          "Arti_kata": "untuk makhluk",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4912,
+      "Ayat_Arabic": "فِيْهَا فَاكِهَةٌ وَّالنَّخْلُ ذَاتُ الْاَكْمَامِۖ",
+      "Text_Latin": "fiha fakihatuw wan-nakhlu zatul-akmam",
+      "Terjemah_in": "Padanya terdapat buah-buahan dan pohon kurma yang mempunyai kelopak mayang,",
+      "Terjemahan_En": "In it are fruits, and palms in clusters.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهَا",
+          "Arti_kata": "didalamnya/padanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فَٰكِهَةٞ",
+          "Arti_kata": "buah-buahan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَٱلنَّخۡلُ",
+          "Arti_kata": "dan pohon kurma",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ذَاتُ",
+          "Arti_kata": "yang mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡأَكۡمَامِ",
+          "Arti_kata": "kelopak mayang",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4913,
+      "Ayat_Arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُۚ",
+      "Text_Latin": "wal-habbu zul-'asfi war-raihan",
+      "Terjemah_in": "biji-bijian yang berkulit, dan bunga-bunga yang harum baunya.",
+      "Terjemahan_En": "And grains in the blades, and fragrant plants.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَٱلۡحَبُّ",
+          "Arti_kata": "dan biji-bijian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ذُو",
+          "Arti_kata": "mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡعَصۡفِ",
+          "Arti_kata": "kulit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَٱلرَّيۡحَانُ",
+          "Arti_kata": "dan harum baunya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4914,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4915,
+      "Ayat_Arabic": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "Text_Latin": "khalaqal-insana min salsaling kal-fakhkhar",
+      "Terjemah_in": "Dia telah menciptakan manusia dari tanah kering seperti tembikar.",
+      "Terjemahan_En": "He created man from hard clay, like bricks.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "خَلَقَ",
+          "Arti_kata": "Dia menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مِن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "صَلۡصَٰلٖ",
+          "Arti_kata": "tanah liat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "كَٱلۡفَخَّارِ",
+          "Arti_kata": "seperti tembikar",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4916,
+      "Ayat_Arabic": "وَخَلَقَ الْجَاۤنَّ مِنْ مَّارِجٍ مِّنْ نَّارٍۚ",
+      "Text_Latin": "wa khalaqal-janna mim marijim min nar",
+      "Terjemah_in": "Dia juga telah menciptakan jin dari nyala api tanpa asap.",
+      "Terjemahan_En": "And created the jinn from a fusion of fire.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَخَلَقَ",
+          "Arti_kata": "dan Dia menciptakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡجَآنَّ",
+          "Arti_kata": "jin",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مِن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "مَّارِجٖ",
+          "Arti_kata": "nyala api",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "مِّن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "نَّارٖ",
+          "Arti_kata": "api",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4917,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhan kamu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4918,
+      "Ayat_Arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ",
+      "Text_Latin": "rabbul-masyriqaini wa rabbul-magribain",
+      "Terjemah_in": "(Dialah) Tuhan kedua tempat terbit (matahari pada musim panas dan musim dingin) dan Tuhan kedua tempat terbenam (matahari pada kedua musim itu).",
+      "Terjemahan_En": "Lord of the two Easts and Lord of the two Wests.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "رَبُّ",
+          "Arti_kata": "Tuhan/Pemelihara",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡمَشۡرِقَيۡنِ",
+          "Arti_kata": "dua timur/dua tempat terbit matahari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَرَبُّ",
+          "Arti_kata": "dan Tuhan/Pemelihara",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡمَغۡرِبَيۡنِ",
+          "Arti_kata": "dua barat/dua tempat terbenamnya matahari",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4919,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": ".Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4920,
+      "Ayat_Arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيٰنِۙ",
+      "Text_Latin": "marajal-bahraini yaltaqiyan",
+      "Terjemah_in": "Dia membiarkan dua laut (tawar dan asin) bertemu.",
+      "Terjemahan_En": "He merged the two seas, converging together.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مَرَجَ",
+          "Arti_kata": "Dia alirkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡبَحۡرَيۡنِ",
+          "Arti_kata": "dua lautan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يَلۡتَقِيَانِ",
+          "Arti_kata": "keduanya bertemu",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4921,
+      "Ayat_Arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيٰنِۚ",
+      "Text_Latin": "bainahuma barzakhul la yabgiyan",
+      "Terjemah_in": "Di antara keduanya ada pembatas yang tidak dilampaui oleh masing-masing.",
+      "Terjemahan_En": "Between them is a barrier, which they do not overrun.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بَيۡنَهُمَا",
+          "Arti_kata": "diantara keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "بَرۡزَخٞ",
+          "Arti_kata": "batas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَّا",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يَبۡغِيَانِ",
+          "Arti_kata": "keduanya melampui",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4922,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "nikmat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4923,
+      "Ayat_Arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُۚ",
+      "Text_Latin": "yakhruju min-humal-lu'lu'u wal-marjan",
+      "Terjemah_in": "Dari keduanya keluar mutiara dan marjan.",
+      "Terjemahan_En": "From them emerge pearls and coral.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يَخۡرُجُ",
+          "Arti_kata": "keluar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مِنۡهُمَا",
+          "Arti_kata": "dari keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱللُّؤۡلُؤُ",
+          "Arti_kata": "mutiara",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَٱلۡمَرۡجَانُ",
+          "Arti_kata": "dan marjan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4924,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua mendustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4925,
+      "Ayat_Arabic": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِى الْبَحْرِ كَالْاَعْلَامِۚ",
+      "Text_Latin": "wa lahul-jawaril-munsya'atu fil-bahri kal-a'lam",
+      "Terjemah_in": "Milik-Nyalah (bahtera) buatan manusia yang berlayar di laut laksana gunung-gunung.",
+      "Terjemahan_En": "His are the ships, raised above the sea like landmarks.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلَهُ",
+          "Arti_kata": "dan bagi-Nya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡجَوَارِ",
+          "Arti_kata": "kapal-kapal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمُنشََٔاتُ",
+          "Arti_kata": "yang timbul/tinggi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "pada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡبَحۡرِ",
+          "Arti_kata": "lautan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "كَٱلۡأَعۡلَٰمِ",
+          "Arti_kata": "laksana gunung-gunung",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4926,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4927,
+      "Ayat_Arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۖ",
+      "Text_Latin": "kullu man 'alaiha fan",
+      "Terjemah_in": "Semua yang ada di atasnya (bumi) itu akan binasa.",
+      "Terjemahan_En": "Everyone upon it is perishing.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كُلُّ",
+          "Arti_kata": "tiap-tiap/segala",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مَنۡ",
+          "Arti_kata": "siapa/apa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "عَلَيۡهَا",
+          "Arti_kata": "atasnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَانٖ",
+          "Arti_kata": "binasa",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4928,
+      "Ayat_Arabic": "وَّيَبْقٰى وَجْهُ رَبِّكَ ذُو الْجَلٰلِ وَالْاِكْرَامِۚ",
+      "Text_Latin": "wa yabqa waj-hu rabbika zul-jalali wal-ikram",
+      "Terjemah_in": "(Akan tetapi,) wajah (zat) Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal.",
+      "Terjemahan_En": "But will remain the Presence of your Lord, Full of Majesty and Splendor.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَيَبۡقَىٰ",
+          "Arti_kata": "dan tetap/kekal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "وَجۡهُ",
+          "Arti_kata": "wajah/zat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ذُو",
+          "Arti_kata": "mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡجَلَٰلِ",
+          "Arti_kata": "kebesaran",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَٱلۡإِكۡرَامِ",
+          "Arti_kata": "dan kemuliaan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4929,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4930,
+      "Ayat_Arabic": "يَسْـَٔلُهٗ مَنْ فِى السَّمٰوٰتِ وَالْاَرْضِۗ  كُلَّ يَوْمٍ هُوَ فِيْ شَأْنٍۚ",
+      "Text_Latin": "yas'aluhu man fis-samawati wal-ard, kulla yaumin huwa fi sya'n",
+      "Terjemah_in": "Siapa yang ada di langit dan bumi selalu meminta kepada-Nya. Setiap hari Dia menangani urusan.",
+      "Terjemahan_En": "Everyone in the heavens and the earth asks Him. Every day He is managing.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يَسَۡٔلُهُۥ",
+          "Arti_kata": "akan meminta kepada-Nya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مَن",
+          "Arti_kata": "orang/makhluk",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "pada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلسَّمَٰوَٰتِ",
+          "Arti_kata": "langit(jamak)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَٱلۡأَرۡضِۚ",
+          "Arti_kata": "dan bumi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "كُلَّ",
+          "Arti_kata": "setiap",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "يَوۡمٍ",
+          "Arti_kata": "hari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata": "Dia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "pada",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "شَأۡنٖ",
+          "Arti_kata": "kesibukan/urusan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4931,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4932,
+      "Ayat_Arabic": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلٰنِۚ",
+      "Text_Latin": "sanafrugu lakum ayyuhas-saqalan",
+      "Terjemah_in": "Kami akan mencurahkan perhatian kepadamu, wahai manusia dan jin.",
+      "Terjemahan_En": "We will attend to you, O prominent two.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "سَنَفۡرُغُ",
+          "Arti_kata": "Kami akan berurusan/bertindak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَكُمۡ",
+          "Arti_kata": "bagi kalian",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَيُّهَ",
+          "Arti_kata": "wahai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلثَّقَلَانِ",
+          "Arti_kata": "manusia dan jin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4933,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "nikmat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4934,
+      "Ayat_Arabic": "يٰمَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوْا مِنْ اَقْطَارِ السَّمٰوٰتِ وَالْاَرْضِ فَانْفُذُوْاۗ  لَا تَنْفُذُوْنَ اِلَّا بِسُلْطٰنٍۚ",
+      "Text_Latin": "ya ma'syaral-jinni wal-insi inistata'tum an tanfuzu min aqtaris-samawati wal-ardi fanfuzu, la tanfuzuna illa bisultan",
+      "Terjemah_in": "Wahai segenap jin dan manusia, jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, tembuslah. Kamu tidak akan mampu menembusnya, kecuali dengan kekuatan (dari Allah).",
+      "Terjemahan_En": "O society of jinn and humans! If you can pass through the bounds of the heavens and the earth, go ahead and pass. But you will not pass except with authorization.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يَٰمَعۡشَرَ",
+          "Arti_kata": "hai jama'ah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡجِنِّ",
+          "Arti_kata": "jin",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَٱلۡإِنسِ",
+          "Arti_kata": "dan manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "إِنِ",
+          "Arti_kata": "jika",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱسۡتَطَعۡتُمۡ",
+          "Arti_kata": "kamu mampu/sanggup",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "أَن",
+          "Arti_kata": "bahwa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "تَنفُذُواْ",
+          "Arti_kata": "kamu menembus/melintasi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "مِنۡ",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "أَقۡطَارِ",
+          "Arti_kata": "penjuru",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "ٱلسَّمَٰوَٰتِ",
+          "Arti_kata": "langit(jamak)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "وَٱلۡأَرۡضِ",
+          "Arti_kata": "dan bumi",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "فَٱنفُذُواْۚ",
+          "Arti_kata": "maka tembuslah/lintasilah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "لَا",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "تَنفُذُونَ",
+          "Arti_kata": "kamu menembusnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "إِلَّا",
+          "Arti_kata": "kecuali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "بِسُلۡطَٰنٖ",
+          "Arti_kata": "dengan kekuasaan/kekuatan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4935,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4936,
+      "Ayat_Arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّنْ نَّارٍۙ وَّنُحَاسٌ فَلَا تَنْتَصِرَانِۚ",
+      "Text_Latin": "yursalu 'alaikuma syuwazum min nariw wa nuhasun fa la tantasiran",
+      "Terjemah_in": "Kepadamu, (wahai jin dan manusia,) disemburkan nyala api dan (ditumpahkan) cairan tembaga panas sehingga kamu tidak dapat menyelamatkan diri.",
+      "Terjemahan_En": "You will be bombarded with flares of fire and brass, and you will not succeed.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يُرۡسَلُ",
+          "Arti_kata": "akan dikirimkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَلَيۡكُمَا",
+          "Arti_kata": "atas kamu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "شُوَاظٞ",
+          "Arti_kata": "nyala",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "مِّن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "نَّارٖ",
+          "Arti_kata": "api",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَنُحَاسٞ",
+          "Arti_kata": "dan cairan tembaga",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "فَلَا",
+          "Arti_kata": "maka tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "تَنتَصِرَانِ",
+          "Arti_kata": "kamu berdua menolong/menyelamatkan diri",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4937,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4938,
+      "Ayat_Arabic": "فَاِذَا انْشَقَّتِ السَّمَاۤءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ",
+      "Text_Latin": "fa izansyaqqatis-sama'u fa kanat wardatang kad-dihan",
+      "Terjemah_in": "Maka, apabila langit terbelah, lalu (warnanya) menjadi merah mawar seperti (kilauan) minyak, (terjadilah kengerian yang hebat).",
+      "Terjemahan_En": "When the sky splits apart, and becomes rose, like paint.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَإِذَا",
+          "Arti_kata": "maka apabila",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱنشَقَّتِ",
+          "Arti_kata": "terbelah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلسَّمَآءُ",
+          "Arti_kata": "langit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَكَانَتۡ",
+          "Arti_kata": "lalu adalah/menjadi ia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَرۡدَةٗ",
+          "Arti_kata": "mawar merah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "كَٱلدِّهَانِ",
+          "Arti_kata": "seperti minyak",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4939,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4940,
+      "Ayat_Arabic": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَنْ ذَنْۢبِهٖٓ اِنْسٌ وَّلَا جَاۤنٌّۚ",
+      "Text_Latin": "fa yauma'izil la yus'alu 'an zambihi insuw wa la jann",
+      "Terjemah_in": "Maka, pada hari itu manusia dan jin tidak ditanya tentang dosanya706)",
+      "Terjemahan_En": "On that Day, no human and no jinn will be asked about his sins.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَيَوۡمَئِذٖ",
+          "Arti_kata": "maka pada hari itu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لَّا",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "يُسَۡٔلُ",
+          "Arti_kata": "ditanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَن",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ذَنۢبِهِۦٓ",
+          "Arti_kata": "dosanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "إِنسٞ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "جَآنّٞ",
+          "Arti_kata": "jin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4941,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4942,
+      "Ayat_Arabic": "يُعْرَفُ الْمُجْرِمُوْنَ بِسِيْمٰهُمْ فَيُؤْخَذُ بِالنَّوَاصِيْ وَالْاَقْدَامِۚ",
+      "Text_Latin": "yu'raful-mujrimuna bisimahum fa yu'khazu bin-nawasi wal-aqdam",
+      "Terjemah_in": "Para pendosa dikenali dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya.",
+      "Terjemahan_En": "The guilty will be recognized by their marks; they will be taken by the forelocks and the feet.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يُعۡرَفُ",
+          "Arti_kata": "diketahui/dikenal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡمُجۡرِمُونَ",
+          "Arti_kata": "orang-orang yang berdosa",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بِسِيمَٰهُمۡ",
+          "Arti_kata": "dengan tanda-tanda mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَيُؤۡخَذُ",
+          "Arti_kata": "lalu dipegang/diambil",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "بِٱلنَّوَٰصِي",
+          "Arti_kata": "dengan umbun-umbun",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَٱلۡأَقۡدَامِ",
+          "Arti_kata": "dan kaki-kaki",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4943,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4944,
+      "Ayat_Arabic": "هٰذِهٖ جَهَنَّمُ الَّتِيْ يُكَذِّبُ بِهَا الْمُجْرِمُوْنَۘ",
+      "Text_Latin": "hazihi jahannamullati yukazzibu bihal-mujrimun",
+      "Terjemah_in": "Inilah (neraka) Jahanam yang didustakan oleh para pendosa.",
+      "Terjemahan_En": "This is Hell that the guilty denied.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "هَٰذِهِۦ",
+          "Arti_kata": "inilah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "جَهَنَّمُ",
+          "Arti_kata": "neraka jahanam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلَّتِي",
+          "Arti_kata": "yang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يُكَذِّبُ",
+          "Arti_kata": "mendustakan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "بِهَا",
+          "Arti_kata": "dengannya/padanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱلۡمُجۡرِمُونَ",
+          "Arti_kata": "orang-orang yang berdosa",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4945,
+      "Ayat_Arabic": "يَطُوْفُوْنَ بَيْنَهَا وَبَيْنَ حَمِيْمٍ اٰنٍۚ",
+      "Text_Latin": "yatufuna bainaha wa baina hamimin an",
+      "Terjemah_in": "Mereka bolak-balik di antaranya (api neraka) dan air mendidih yang sangat panas.",
+      "Terjemahan_En": "They circulate between it and between a seething bath.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يَطُوفُونَ",
+          "Arti_kata": "mereka berkeliling",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "بَيۡنَهَا",
+          "Arti_kata": "diantaranya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَبَيۡنَ",
+          "Arti_kata": "dan antara",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "حَمِيمٍ",
+          "Arti_kata": "air mendidih",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ءَانٖ",
+          "Arti_kata": "sangat panas",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4946,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ ࣖ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4947,
+      "Ayat_Arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهٖ جَنَّتٰنِۚ",
+      "Text_Latin": "wa liman khafa maqama rabbihi jannatan",
+      "Terjemah_in": "Bagi siapa yang takut pada keagungan Tuhannya disediakan dua surga.",
+      "Terjemahan_En": "But for him who feared the standing of his Lord are two gardens.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلِمَنۡ",
+          "Arti_kata": "dan bagi orang",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "خَافَ",
+          "Arti_kata": "ia takut",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَقَامَ",
+          "Arti_kata": "tempat berdiri/menghadap",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "رَبِّهِۦ",
+          "Arti_kata": "Tuhannya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "جَنَّتَانِ",
+          "Arti_kata": "dan surga",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4948,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4949,
+      "Ayat_Arabic": "ذَوَاتَآ اَفْنَانٍۚ",
+      "Text_Latin": "zawata afnan",
+      "Terjemah_in": "Kedua surga itu mempunyai (pepohonan) yang bercabang-cabang.",
+      "Terjemahan_En": "Full of varieties.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ذَوَاتَآ",
+          "Arti_kata": "keduanya mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَفۡنَانٖ",
+          "Arti_kata": "bermacam-macam ragam",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4950,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4951,
+      "Ayat_Arabic": "فِيْهِمَا عَيْنٰنِ تَجْرِيٰنِۚ",
+      "Text_Latin": "fihima 'ainani tajriyan",
+      "Terjemah_in": "Di dalam kedua (surga) itu terdapat dua mata air yang memancar.",
+      "Terjemahan_En": "In them are two flowing springs.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِمَا",
+          "Arti_kata": "didalam keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَيۡنَانِ",
+          "Arti_kata": "dua mata air",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تَجۡرِيَانِ",
+          "Arti_kata": "mengalir keduanya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4952,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4953,
+      "Ayat_Arabic": "فِيْهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجٰنِۚ",
+      "Text_Latin": "fihima ming kulli fakihatin zaujan",
+      "Terjemah_in": "Di dalam kedua (surga) itu terdapat aneka buah-buahan yang berpasang-pasangan.",
+      "Terjemahan_En": "In them are fruits of every kind, in pairs.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِمَا",
+          "Arti_kata": "di dalam keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مِن",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "كُلِّ",
+          "Arti_kata": "setiap/segala",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَٰكِهَةٖ",
+          "Arti_kata": "buah-buahan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "زَوۡجَانِ",
+          "Arti_kata": "berpasangan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4954,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4955,
+      "Ayat_Arabic": "مُتَّكِـِٕيْنَ عَلٰى فُرُشٍۢ بَطَاۤىِٕنُهَا مِنْ اِسْتَبْرَقٍۗ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ",
+      "Text_Latin": "muttaki'ina 'ala furusyim bata'inuha min istabraq, wa janal-jannataini dan",
+      "Terjemah_in": "Mereka berbaring di atas permadani yang bagian dalamnya (terbuat) dari sutera tebal. Buah-buahan di kedua surga itu (dapat) dipetik dari dekat.",
+      "Terjemahan_En": "Reclining on furnishings lined with brocade, and the fruits of the two gardens are near at hand.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مُتَّكِِٔينَ",
+          "Arti_kata": "mereka bersandar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَلَىٰ",
+          "Arti_kata": "atas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فُرُشِۭ",
+          "Arti_kata": "permadani",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "بَطَآئِنُهَا",
+          "Arti_kata": "sebelah dalamnya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "مِنۡ",
+          "Arti_kata": "dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "إِسۡتَبۡرَقٖۚ",
+          "Arti_kata": "sutera",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَجَنَى",
+          "Arti_kata": "dan memetik",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "ٱلۡجَنَّتَيۡنِ",
+          "Arti_kata": "dua surga",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "دَانٖ",
+          "Arti_kata": "dekat",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4956,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4957,
+      "Ayat_Arabic": "فِيْهِنَّ قٰصِرٰتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ",
+      "Text_Latin": "fihinna qasiratut-tarfi lam yatmis-hunna insung qablahum wa la jann",
+      "Terjemah_in": "Di dalamnya ada (bidadari) yang membatasi pandangan (hanya untuk pasangannya) yang tidak pernah disentuh oleh manusia sebelum mereka dan tidak (pula) oleh jin.",
+      "Terjemahan_En": "In them are maidens restraining their glances, untouched before by any man or jinn.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِنَّ",
+          "Arti_kata": "didalammya mereka (bidadari)",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "قَٰصِرَٰتُ",
+          "Arti_kata": "pendek/menundukkan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلطَّرۡفِ",
+          "Arti_kata": "pandangan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata": "tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "يَطۡمِثۡهُنَّ",
+          "Arti_kata": "menyetentuh mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "إِنسٞ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "قَبۡلَهُمۡ",
+          "Arti_kata": "sebelum mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "جَآنّٞ",
+          "Arti_kata": "jin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4958,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4959,
+      "Ayat_Arabic": "كَاَنَّهُنَّ الْيَاقُوْتُ وَالْمَرْجَانُۚ",
+      "Text_Latin": "ka'annahunnal-yaqutu wal-marjan",
+      "Terjemah_in": "Seakan-akan mereka itu permata yakut dan marjan.",
+      "Terjemahan_En": "As though they were rubies and corals.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "كَأَنَّهُنَّ",
+          "Arti_kata": "seakan-akan mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلۡيَاقُوتُ",
+          "Arti_kata": "yakut",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَٱلۡمَرۡجَانُ",
+          "Arti_kata": "dan marjan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4960,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4961,
+      "Ayat_Arabic": "هَلْ جَزَاۤءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ",
+      "Text_Latin": "hal jaza'ul-ihsani illal-ihsan",
+      "Terjemah_in": "Adakah balasan kebaikan selain kebaikan (pula)?",
+      "Terjemahan_En": "Is the reward of goodness anything but goodness?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "هَلۡ",
+          "Arti_kata": "bukankah",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "جَزَآءُ",
+          "Arti_kata": "balasan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡإِحۡسَٰنِ",
+          "Arti_kata": "kebaikan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "إِلَّا",
+          "Arti_kata": "kecuali",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡإِحۡسَٰنُ",
+          "Arti_kata": "kebaikan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4962,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4963,
+      "Ayat_Arabic": "وَمِنْ دُوْنِهِمَا جَنَّتٰنِۚ",
+      "Text_Latin": "wa min dunihima jannatan",
+      "Terjemah_in": "Selain dari kedua (surga) itu ada dua surga (lagi).",
+      "Terjemahan_En": "And beneath them are two gardens.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَمِن",
+          "Arti_kata": "dan dari",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "دُونِهِمَا",
+          "Arti_kata": "selain keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "جَنَّتَانِ",
+          "Arti_kata": "dua surga",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4964,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۙ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4965,
+      "Ayat_Arabic": "مُدْهَاۤمَّتٰنِۚ",
+      "Text_Latin": "mud-hammatan",
+      "Terjemah_in": "Kedua surga itu (terlihat warnanya) hijau tua.",
+      "Terjemahan_En": "Deep green.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مُدۡهَآمَّتَانِ",
+          "Arti_kata": "keduanya hijau tua",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4966,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4967,
+      "Ayat_Arabic": "فِيْهِمَا عَيْنٰنِ نَضَّاخَتٰنِۚ",
+      "Text_Latin": "fihima 'ainani naddakhatan",
+      "Terjemah_in": "Di dalam keduanya ada dua mata air yang memancar tanpa henti.",
+      "Terjemahan_En": "In them are two gushing springs.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِمَا",
+          "Arti_kata": "di dalam keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَيۡنَانِ",
+          "Arti_kata": "dua mata air",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "نَضَّاخَتَانِ",
+          "Arti_kata": "memancarkan keduanya",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4968,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4969,
+      "Ayat_Arabic": "فِيْهِمَا فَاكِهَةٌ وَّنَخْلٌ وَّرُمَّانٌۚ",
+      "Text_Latin": "fihima fakihatuw wa nakhluw wa rumman",
+      "Terjemah_in": "Di dalam keduanya ada buah-buahan (antara lain) kurma dan delima.",
+      "Terjemahan_En": "In them are fruits, and date-palms, and pomegranates.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِمَا",
+          "Arti_kata": "di dalam keduanya",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فَٰكِهَةٞ",
+          "Arti_kata": "buah-buahan",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَنَخۡلٞ",
+          "Arti_kata": "dan kurma",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "وَرُمَّانٞ",
+          "Arti_kata": "dan delima",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4970,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "nikmat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4971,
+      "Ayat_Arabic": "فِيْهِنَّ خَيْرٰتٌ حِسَانٌۚ",
+      "Text_Latin": "fihinna khairatun hisan",
+      "Terjemah_in": "Di dalamnya ada (bidadari) yang mulia (akhlaknya) lagi jelita.",
+      "Terjemahan_En": "In them are good and beautiful ones.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فِيهِنَّ",
+          "Arti_kata": "di dalamnya mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "خَيۡرَٰتٌ",
+          "Arti_kata": "baik-baik",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "حِسَانٞ",
+          "Arti_kata": "bagus-bagus/cantik-cantik",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4972,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4973,
+      "Ayat_Arabic": "حُوْرٌ مَّقْصُوْرٰتٌ فِى الْخِيَامِۚ",
+      "Text_Latin": "hurum maqsuratun fil-khiyam",
+      "Terjemah_in": "Bidadari-bidadari yang dipingit dalam kemah-kemah.",
+      "Terjemahan_En": "Companions, secluded in the tents.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "حُورٞ",
+          "Arti_kata": "yang putih/jelita",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مَّقۡصُورَٰتٞ",
+          "Arti_kata": "tersimpan/terpingit",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "فِي",
+          "Arti_kata": "dalam",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡخِيَامِ",
+          "Arti_kata": "mahligai/rumah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4974,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "nikmat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4975,
+      "Ayat_Arabic": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَاۤنٌّۚ",
+      "Text_Latin": "lam yatmis-hunna insung qablahum wa la jann",
+      "Terjemah_in": "Mereka tidak pernah disentuh oleh manusia sebelum mereka dan tidak (pula) oleh jin.",
+      "Terjemahan_En": "Whom no human has touched before, nor jinn.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata": "tidak/belum",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَطۡمِثۡهُنَّ",
+          "Arti_kata": "menyentuh mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "إِنسٞ",
+          "Arti_kata": "manusia",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "قَبۡلَهُمۡ",
+          "Arti_kata": "sebelum mereka",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata": "dan tidak",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "جَآنّٞ",
+          "Arti_kata": "jin",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4976,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu berdua dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4977,
+      "Ayat_Arabic": "مُتَّكِـِٕيْنَ عَلٰى رَفْرَفٍ خُضْرٍ وَّعَبْقَرِيٍّ حِسَانٍۚ",
+      "Text_Latin": "muttaki'ina 'ala rafrafin khudriw wa 'abqariyyin hisan",
+      "Terjemah_in": "Mereka bertelekan pada bantal-bantal yang hijau dan permadani-permadani yang indah.",
+      "Terjemahan_En": "Reclining on green cushions, and exquisite carpets.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مُتَّكِِٔينَ",
+          "Arti_kata": "mereka bersandar",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "عَلَىٰ",
+          "Arti_kata": "diatas",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَفۡرَفٍ",
+          "Arti_kata": "bantal-bantal",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "خُضۡرٖ",
+          "Arti_kata": "hijau",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "وَعَبۡقَرِيٍّ",
+          "Arti_kata": "dan permandani",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "حِسَانٖ",
+          "Arti_kata": "bagus indah",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4978,
+      "Ayat_Arabic": "فَبِاَيِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِۚ",
+      "Text_Latin": "fa bi'ayyi ala'i rabbikuma tukazziban",
+      "Terjemah_in": "Maka, nikmat Tuhanmu manakah yang kamu dustakan (wahai jin dan manusia)?",
+      "Terjemahan_En": "So which of your Lord’s marvels will you deny?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَبِأَيِّ",
+          "Arti_kata": "maka yang mana",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ءَالَآءِ",
+          "Arti_kata": "ni'mat",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكُمَا",
+          "Arti_kata": "Tuhanmu berdua",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "تُكَذِّبَانِ",
+          "Arti_kata": "kamu dustakan",
+          "Jenis_kata": null
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4979,
+      "Ayat_Arabic": "تَبٰرَكَ اسْمُ رَبِّكَ ذِى الْجَلٰلِ وَالْاِكْرَامِ ࣖ",
+      "Text_Latin": "tabarakasmu rabbika zil-jalali wal-ikram",
+      "Terjemah_in": "Maha Berkah nama Tuhanmu Pemilik keagungan dan kemuliaan.",
+      "Terjemahan_En": "Blessed be the name of your Lord, Full of Majesty and Splendor.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "تَبَٰرَكَ",
+          "Arti_kata": "Maha Tinggi/Agung",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱسۡمُ",
+          "Arti_kata": "nama",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّكَ",
+          "Arti_kata": "Tuhanmu",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ذِي",
+          "Arti_kata": "memiliki/mempunyai",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡجَلَٰلِ",
+          "Arti_kata": "Kebesaran",
+          "Jenis_kata": null
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَٱلۡإِكۡرَامِ",
+          "Arti_kata": "dan Kemuliaan",
+          "Jenis_kata": null
+        }
+      ]
+    }
+  ]
+}
