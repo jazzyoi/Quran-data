@@ -1,0 +1,1286 @@
+{
+  "Nomor_surat": 62,
+  "Nama_surat": "Al-Jumu'ah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 5178,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يُسَبِّحُ",
+          "Arti_kata_in": "bertasbih",
+          "Arti_kata_en": "Glorifies",
+          "Text_Latin": "yusabbihu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِلَّهِ",
+          "Arti_kata_in": "kepada Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "lillahi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "whatever",
+          "Text_Latin": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "(is) in",
+          "Text_Latin": "fi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلسَّمَٰوَٰتِ",
+          "Arti_kata_in": "langit(jamak)",
+          "Arti_kata_en": "the heavens",
+          "Text_Latin": "as-samawati"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and whatever",
+          "Text_Latin": "wama"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "(is) in",
+          "Text_Latin": "fi"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "ٱلۡأَرۡضِ",
+          "Arti_kata_in": "bumi",
+          "Arti_kata_en": "the earth",
+          "Text_Latin": "al-ardi"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلۡمَلِكِ",
+          "Arti_kata_in": "Raja",
+          "Arti_kata_en": "the Sovereign",
+          "Text_Latin": "al-maliki"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "ٱلۡقُدُّوسِ",
+          "Arti_kata_in": "Maha Suci",
+          "Arti_kata_en": "the Holy",
+          "Text_Latin": "al-qudusi"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "ٱلۡعَزِيزِ",
+          "Arti_kata_in": "Maha Perkasa",
+          "Arti_kata_en": "the All-Mighty",
+          "Text_Latin": "al-'azizi"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "ٱلۡحَكِيمِ",
+          "Arti_kata_in": "Maha Bijaksana",
+          "Arti_kata_en": "the All-Wise",
+          "Text_Latin": "al-hakimi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5179,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata_in": "Dia",
+          "Arti_kata_en": "He",
+          "Text_Latin": "huwa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "(is) the One Who",
+          "Text_Latin": "alladhi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "بَعَثَ",
+          "Arti_kata_in": "mengutus",
+          "Arti_kata_en": "sent",
+          "Text_Latin": "ba'atha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "among",
+          "Text_Latin": "fi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ٱلۡأُمِّيِّۧنَ",
+          "Arti_kata_in": "yang buta huruf",
+          "Arti_kata_en": "the unlettered",
+          "Text_Latin": "al-umiyina"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "رَسُولٗا",
+          "Arti_kata_in": "seorang rasul",
+          "Arti_kata_en": "a Messenger",
+          "Text_Latin": "rasulan"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "مِّنۡهُمۡ",
+          "Arti_kata_in": "diantara mereka",
+          "Arti_kata_en": "from themselves",
+          "Text_Latin": "min'hum"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "يَتۡلُواْ",
+          "Arti_kata_in": "dia membacakan",
+          "Arti_kata_en": "reciting",
+          "Text_Latin": "yatlu"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "atas mereka",
+          "Arti_kata_en": "to them",
+          "Text_Latin": "alayhim"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "ءَايَٰتِهِۦ",
+          "Arti_kata_in": "ayat-ayat-Nya",
+          "Arti_kata_en": "His Verses",
+          "Text_Latin": "ayatihi"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "وَيُزَكِّيهِمۡ",
+          "Arti_kata_in": "dan dia mensucikan mereka",
+          "Arti_kata_en": "and purifying them",
+          "Text_Latin": "wayuzakkihim"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "وَيُعَلِّمُهُمُ",
+          "Arti_kata_in": "dan dia mengajarkan mereka",
+          "Arti_kata_en": "and teaching them",
+          "Text_Latin": "wayu'allimuhumu"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "ٱلۡكِتَٰبَ",
+          "Arti_kata_in": "kitab",
+          "Arti_kata_en": "the Book",
+          "Text_Latin": "al-kitaba"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "وَٱلۡحِكۡمَةَ",
+          "Arti_kata_in": "dan hikmah",
+          "Arti_kata_en": "and the wisdom",
+          "Text_Latin": "wal-hik'mata"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "وَإِن",
+          "Arti_kata_in": "dan sungguh",
+          "Arti_kata_en": "although",
+          "Text_Latin": "wa-in"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "كَانُواْ",
+          "Arti_kata_in": "mereka adalah",
+          "Arti_kata_en": "they were",
+          "Text_Latin": "kanu"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_Latin": "min"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_Arabic": "قَبۡلُ",
+          "Arti_kata_in": "sebelum",
+          "Arti_kata_en": "before",
+          "Text_Latin": "qablu"
+        },
+        {
+          "Nomor_kata": 19,
+          "Kata_Arabic": "لَفِي",
+          "Arti_kata_in": "benar-benar dalam",
+          "Arti_kata_en": "surely in",
+          "Text_Latin": "lafi"
+        },
+        {
+          "Nomor_kata": 20,
+          "Kata_Arabic": "ضَلَٰلٖ",
+          "Arti_kata_in": "kesesatan",
+          "Arti_kata_en": "an error",
+          "Text_Latin": "dalalin"
+        },
+        {
+          "Nomor_kata": 21,
+          "Kata_Arabic": "مُّبِينٖ",
+          "Arti_kata_in": "nyata",
+          "Arti_kata_en": "clear",
+          "Text_Latin": "mubinin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5180,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَءَاخَرِينَ",
+          "Arti_kata_in": "dan yang lain",
+          "Arti_kata_en": "And others",
+          "Text_Latin": "waakharina"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "مِنۡهُمۡ",
+          "Arti_kata_in": "dari mereka",
+          "Arti_kata_en": "among them",
+          "Text_Latin": "min'hum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "لَمَّا",
+          "Arti_kata_in": "tatkala/belum",
+          "Arti_kata_en": "who have not yet",
+          "Text_Latin": "lamma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يَلۡحَقُواْ",
+          "Arti_kata_in": "mereka bertemu/berhubungan",
+          "Arti_kata_en": "joined",
+          "Text_Latin": "yalhaqu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "بِهِمۡۚ",
+          "Arti_kata_in": "dengan mereka",
+          "Arti_kata_en": "them",
+          "Text_Latin": "bihim"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "وَهُوَ",
+          "Arti_kata_in": "dan Dia",
+          "Arti_kata_en": "and He",
+          "Text_Latin": "wahuwa"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "ٱلۡعَزِيزُ",
+          "Arti_kata_in": "Maha Perkasa",
+          "Arti_kata_en": "(is) the All-Mighty",
+          "Text_Latin": "al-'azizu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "ٱلۡحَكِيمُ",
+          "Arti_kata_in": "Maha Bijaksana",
+          "Arti_kata_en": "the All-Wise",
+          "Text_Latin": "al-hakimu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5181,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ذَٰلِكَ",
+          "Arti_kata_in": "demikian itu",
+          "Arti_kata_en": "That",
+          "Text_Latin": "dhalika"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "فَضۡلُ",
+          "Arti_kata_in": "karunia",
+          "Arti_kata_en": "(is the) Bounty",
+          "Text_Latin": "fadlu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "يُؤۡتِيهِ",
+          "Arti_kata_in": "diberikannya",
+          "Arti_kata_en": "He gives it",
+          "Text_Latin": "yu'tihi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "مَن",
+          "Arti_kata_in": "siapa",
+          "Arti_kata_en": "(to) whom",
+          "Text_Latin": "man"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "يَشَآءُۚ",
+          "Arti_kata_in": "Dia kehendaki",
+          "Arti_kata_en": "He wills",
+          "Text_Latin": "yashau"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata_in": "dan Allah",
+          "Arti_kata_en": "And Allah",
+          "Text_Latin": "wal-lahu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "ذُو",
+          "Arti_kata_in": "memiliki/mempunyai",
+          "Arti_kata_en": "(is the) Possessor",
+          "Text_Latin": "dhu"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلۡفَضۡلِ",
+          "Arti_kata_in": "karunia",
+          "Arti_kata_en": "(of) Bounty",
+          "Text_Latin": "al-fadli"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "ٱلۡعَظِيمِ",
+          "Arti_kata_in": "besar",
+          "Arti_kata_en": "the Great",
+          "Text_Latin": "al-'azimi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5182,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مَثَلُ",
+          "Arti_kata_in": "perumpamaan",
+          "Arti_kata_en": "(The) likeness",
+          "Text_Latin": "mathalu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "(of) those who",
+          "Text_Latin": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "حُمِّلُواْ",
+          "Arti_kata_in": "(mereka) dipikulkan",
+          "Arti_kata_en": "were entrusted",
+          "Text_Latin": "hummilu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلتَّوۡرَىٰةَ",
+          "Arti_kata_in": "taurat",
+          "Arti_kata_en": "(with) the Taurat",
+          "Text_Latin": "at-tawrata"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata_in": "kemudian",
+          "Arti_kata_en": "then",
+          "Text_Latin": "thumma"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "لَمۡ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "not",
+          "Text_Latin": "lam"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "يَحۡمِلُوهَا",
+          "Arti_kata_in": "mereka memikulnya",
+          "Arti_kata_en": "they bore it",
+          "Text_Latin": "yahmiluha"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "كَمَثَلِ",
+          "Arti_kata_in": "seperti",
+          "Arti_kata_en": "(is) like",
+          "Text_Latin": "kamathali"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلۡحِمَارِ",
+          "Arti_kata_in": "keledai",
+          "Arti_kata_en": "the donkey",
+          "Text_Latin": "al-himari"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "يَحۡمِلُ",
+          "Arti_kata_in": "memikul/membawa",
+          "Arti_kata_en": "who carries",
+          "Text_Latin": "yahmilu"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "أَسۡفَارَۢاۚ",
+          "Arti_kata_in": "kitab yang tebal",
+          "Arti_kata_en": "books",
+          "Text_Latin": "asfaran"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "بِئۡسَ",
+          "Arti_kata_in": "sangat buruk",
+          "Arti_kata_en": "Wretched is",
+          "Text_Latin": "bi'sa"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "مَثَلُ",
+          "Arti_kata_in": "perumpamaan",
+          "Arti_kata_en": "(the) example",
+          "Text_Latin": "mathalu"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "ٱلۡقَوۡمِ",
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "(of) the people",
+          "Text_Latin": "al-qawmi"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "who",
+          "Text_Latin": "alladhina"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "كَذَّبُواْ",
+          "Arti_kata_in": "(mereka) mendustakan",
+          "Arti_kata_en": "deny",
+          "Text_Latin": "kadhabu"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "بَِٔايَٰتِ",
+          "Arti_kata_in": "pada ayat-ayat",
+          "Arti_kata_en": "(the) Signs",
+          "Text_Latin": "biayati"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_Arabic": "ٱللَّهِۚ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 19,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata_in": "dan Allah",
+          "Arti_kata_en": "And Allah",
+          "Text_Latin": "wal-lahu"
+        },
+        {
+          "Nomor_kata": 20,
+          "Kata_Arabic": "لَا",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "(does) not",
+          "Text_Latin": "la"
+        },
+        {
+          "Nomor_kata": 21,
+          "Kata_Arabic": "يَهۡدِي",
+          "Arti_kata_in": "memberi petunjuk",
+          "Arti_kata_en": "guide",
+          "Text_Latin": "yahdi"
+        },
+        {
+          "Nomor_kata": 22,
+          "Kata_Arabic": "ٱلۡقَوۡمَ",
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "the people",
+          "Text_Latin": "al-qawma"
+        },
+        {
+          "Nomor_kata": 23,
+          "Kata_Arabic": "ٱلظَّٰلِمِينَ",
+          "Arti_kata_in": "orang-orang yang zalim",
+          "Arti_kata_en": "the wrongdoers",
+          "Text_Latin": "az-zalimina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5183,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_Latin": "qul"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَٰٓأَيُّهَا",
+          "Arti_kata_in": "wahai",
+          "Arti_kata_en": "O",
+          "Text_Latin": "yaayyuha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "you (who)",
+          "Text_Latin": "alladhina"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "هَادُوٓاْ",
+          "Arti_kata_in": "(mereka) beragama Yahudi",
+          "Arti_kata_en": "(are) Jews",
+          "Text_Latin": "hadu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "إِن",
+          "Arti_kata_in": "jika",
+          "Arti_kata_en": "If",
+          "Text_Latin": "in"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "زَعَمۡتُمۡ",
+          "Arti_kata_in": "kamu mengira",
+          "Arti_kata_en": "you claim",
+          "Text_Latin": "za'amtum"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "أَنَّكُمۡ",
+          "Arti_kata_in": "bahwa sesungguhnya kamu",
+          "Arti_kata_en": "that you",
+          "Text_Latin": "annakum"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "أَوۡلِيَآءُ",
+          "Arti_kata_in": "kekasih",
+          "Arti_kata_en": "(are) allies",
+          "Text_Latin": "awliyau"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "لِلَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "of Allah",
+          "Text_Latin": "lillahi"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_Latin": "min"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "دُونِ",
+          "Arti_kata_in": "selain/bukan",
+          "Arti_kata_en": "excluding",
+          "Text_Latin": "duni"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "ٱلنَّاسِ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "the people",
+          "Text_Latin": "an-nasi"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "فَتَمَنَّوُاْ",
+          "Arti_kata_in": "maka harapkanlah",
+          "Arti_kata_en": "then wish",
+          "Text_Latin": "fatamannawu"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "ٱلۡمَوۡتَ",
+          "Arti_kata_in": "kematian",
+          "Arti_kata_en": "(for) the death",
+          "Text_Latin": "al-mawta"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "إِن",
+          "Arti_kata_in": "jika",
+          "Arti_kata_en": "if",
+          "Text_Latin": "in"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "كُنتُمۡ",
+          "Arti_kata_in": "kalian adalah",
+          "Arti_kata_en": "you are",
+          "Text_Latin": "kuntum"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "صَٰدِقِينَ",
+          "Arti_kata_in": "orang-orang yang benar",
+          "Arti_kata_en": "truthful",
+          "Text_Latin": "sadiqina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5184,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "But not",
+          "Text_Latin": "wala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَتَمَنَّوۡنَهُۥٓ",
+          "Arti_kata_in": "mereka mengharapkannya",
+          "Arti_kata_en": "they will wish for it",
+          "Text_Latin": "yatamannawnahu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَبَدَۢا",
+          "Arti_kata_in": "selama-lamanya",
+          "Arti_kata_en": "ever",
+          "Text_Latin": "abadan"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "بِمَا",
+          "Arti_kata_in": "dengan apa/disebabkan",
+          "Arti_kata_en": "for what",
+          "Text_Latin": "bima"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "قَدَّمَتۡ",
+          "Arti_kata_in": "mendahulukan/memperbuat",
+          "Arti_kata_en": "have sent forth",
+          "Text_Latin": "qaddamat"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "أَيۡدِيهِمۡۚ",
+          "Arti_kata_in": "tangan-tangan mereka",
+          "Arti_kata_en": "their hands",
+          "Text_Latin": "aydihim"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata_in": "dan Allah",
+          "Arti_kata_en": "And Allah",
+          "Text_Latin": "wal-lahu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "عَلِيمُۢ",
+          "Arti_kata_in": "Maha Mengetahui",
+          "Arti_kata_en": "(is) All-Knowing",
+          "Text_Latin": "alimun"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "بِٱلظَّٰلِمِينَ",
+          "Arti_kata_in": "pada orang-orang yang zalim",
+          "Arti_kata_en": "of the wrongdoers",
+          "Text_Latin": "bil-zalimina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5185,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_Latin": "qul"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_Latin": "inna"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمَوۡتَ",
+          "Arti_kata_in": "kematian",
+          "Arti_kata_en": "the death",
+          "Text_Latin": "al-mawta"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلَّذِي",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "which",
+          "Text_Latin": "alladhi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "تَفِرُّونَ",
+          "Arti_kata_in": "kamu lari",
+          "Arti_kata_en": "you flee",
+          "Text_Latin": "tafirruna"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "مِنۡهُ",
+          "Arti_kata_in": "dari padanya",
+          "Arti_kata_en": "from it",
+          "Text_Latin": "min'hu"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "فَإِنَّهُۥ",
+          "Arti_kata_in": "maka sesungguhnya ia",
+          "Arti_kata_en": "then surely it",
+          "Text_Latin": "fa-innahu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "مُلَٰقِيكُمۡۖ",
+          "Arti_kata_in": "menemui kamu",
+          "Arti_kata_en": "(will) meet you",
+          "Text_Latin": "mulaqikum"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ثُمَّ",
+          "Arti_kata_in": "kemudian",
+          "Arti_kata_en": "Then",
+          "Text_Latin": "thumma"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "تُرَدُّونَ",
+          "Arti_kata_in": "kamu dikembalikan",
+          "Arti_kata_en": "you will be sent back",
+          "Text_Latin": "turadduna"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "إِلَىٰ",
+          "Arti_kata_in": "kepada",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "عَٰلِمِ",
+          "Arti_kata_in": "yang mengetahui",
+          "Arti_kata_en": "(the) All-Knower",
+          "Text_Latin": "alimi"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "ٱلۡغَيۡبِ",
+          "Arti_kata_in": "yang gaib",
+          "Arti_kata_en": "(of) the unseen",
+          "Text_Latin": "al-ghaybi"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "وَٱلشَّهَٰدَةِ",
+          "Arti_kata_in": "dan yang nyata",
+          "Arti_kata_en": "and the witnessed",
+          "Text_Latin": "was-shahadati"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "فَيُنَبِّئُكُم",
+          "Arti_kata_in": "lalu Dia menerangkan kepadamu",
+          "Arti_kata_en": "and He will inform you",
+          "Text_Latin": "fayunabbi-ukum"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "بِمَا",
+          "Arti_kata_in": "terhadap apa",
+          "Arti_kata_en": "of what",
+          "Text_Latin": "bima"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "كُنتُمۡ",
+          "Arti_kata_in": "kalian adalah",
+          "Arti_kata_en": "you used (to)",
+          "Text_Latin": "kuntum"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_Arabic": "تَعۡمَلُونَ",
+          "Arti_kata_in": "kamu kerjakan",
+          "Arti_kata_en": "do",
+          "Text_Latin": "ta'maluna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5186,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "يَٰٓأَيُّهَا",
+          "Arti_kata_in": "wahai",
+          "Arti_kata_en": "O",
+          "Text_Latin": "yaayyuha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "(you) who",
+          "Text_Latin": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ءَامَنُوٓاْ",
+          "Arti_kata_in": "beriman",
+          "Arti_kata_en": "believe",
+          "Text_Latin": "amanu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "When",
+          "Text_Latin": "idha"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "نُودِيَ",
+          "Arti_kata_in": "diseru/dipanggil",
+          "Arti_kata_en": "(the) call is made",
+          "Text_Latin": "nudiya"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "لِلصَّلَوٰةِ",
+          "Arti_kata_in": "untuk menunaikan sholat",
+          "Arti_kata_en": "for (the) prayer",
+          "Text_Latin": "lilssalati"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "on",
+          "Text_Latin": "min"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "يَوۡمِ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(the) day",
+          "Text_Latin": "yawmi"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلۡجُمُعَةِ",
+          "Arti_kata_in": "jum'at",
+          "Arti_kata_en": "(of) Friday",
+          "Text_Latin": "al-jumu'ati"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "فَٱسۡعَوۡاْ",
+          "Arti_kata_in": "maka berjalanlah kamu",
+          "Arti_kata_en": "then hasten",
+          "Text_Latin": "fa-is'aw"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "إِلَىٰ",
+          "Arti_kata_in": "kepada/untuk",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "ذِكۡرِ",
+          "Arti_kata_in": "mengingat",
+          "Arti_kata_en": "(the) remembrance",
+          "Text_Latin": "dhik'ri"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "وَذَرُواْ",
+          "Arti_kata_in": "dan tinggalkanlah",
+          "Arti_kata_en": "and leave",
+          "Text_Latin": "wadharu"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "ٱلۡبَيۡعَۚ",
+          "Arti_kata_in": "jual beli/perdagangan",
+          "Arti_kata_en": "the business",
+          "Text_Latin": "al-bay'a"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "ذَٰلِكُمۡ",
+          "Arti_kata_in": "demikian itu",
+          "Arti_kata_en": "That",
+          "Text_Latin": "dhalikum"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "خَيۡرٞ",
+          "Arti_kata_in": "lebih baik",
+          "Arti_kata_en": "(is) better",
+          "Text_Latin": "khayrun"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_Arabic": "لَّكُمۡ",
+          "Arti_kata_in": "bagi kalian",
+          "Arti_kata_en": "for you",
+          "Text_Latin": "lakum"
+        },
+        {
+          "Nomor_kata": 19,
+          "Kata_Arabic": "إِن",
+          "Arti_kata_in": "jika",
+          "Arti_kata_en": "if",
+          "Text_Latin": "in"
+        },
+        {
+          "Nomor_kata": 20,
+          "Kata_Arabic": "كُنتُمۡ",
+          "Arti_kata_in": "kalian adalah",
+          "Arti_kata_en": "you",
+          "Text_Latin": "kuntum"
+        },
+        {
+          "Nomor_kata": 21,
+          "Kata_Arabic": "تَعۡلَمُونَ",
+          "Arti_kata_in": "(kalian) mengetahui",
+          "Arti_kata_en": "know",
+          "Text_Latin": "ta'lamuna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5187,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَإِذَا",
+          "Arti_kata_in": "maka apabila",
+          "Arti_kata_en": "Then when",
+          "Text_Latin": "fa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "قُضِيَتِ",
+          "Arti_kata_in": "telah diselesaikan",
+          "Arti_kata_en": "is concluded",
+          "Text_Latin": "qudiyati"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلصَّلَوٰةُ",
+          "Arti_kata_in": "sholat",
+          "Arti_kata_en": "the prayer",
+          "Text_Latin": "as-salatu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "فَٱنتَشِرُواْ",
+          "Arti_kata_in": "maka bertebaranlah kamu",
+          "Arti_kata_en": "then disperse",
+          "Text_Latin": "fa-intashiru"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "in",
+          "Text_Latin": "fi"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱلۡأَرۡضِ",
+          "Arti_kata_in": "muka bumi",
+          "Arti_kata_en": "the land",
+          "Text_Latin": "al-ardi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "وَٱبۡتَغُواْ",
+          "Arti_kata_in": "dan carilah",
+          "Arti_kata_en": "and seek",
+          "Text_Latin": "wa-ib'taghu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_Latin": "min"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "فَضۡلِ",
+          "Arti_kata_in": "karunia",
+          "Arti_kata_en": "(the) Bounty",
+          "Text_Latin": "fadli"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "وَٱذۡكُرُواْ",
+          "Arti_kata_in": "dan ingatlah",
+          "Arti_kata_en": "and remember",
+          "Text_Latin": "wa-udh'kuru"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "ٱللَّهَ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-laha"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "كَثِيرٗا",
+          "Arti_kata_in": "banyak",
+          "Arti_kata_en": "much",
+          "Text_Latin": "kathiran"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "لَّعَلَّكُمۡ",
+          "Arti_kata_in": "agar kalian",
+          "Arti_kata_en": "so that you may",
+          "Text_Latin": "la'allakum"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "تُفۡلِحُونَ",
+          "Arti_kata_in": "kamu beruntung",
+          "Arti_kata_en": "succeed",
+          "Text_Latin": "tuf'lihuna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5188,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "وَإِذَا",
+          "Arti_kata_in": "dan apabila",
+          "Arti_kata_en": "And when",
+          "Text_Latin": "wa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "رَأَوۡاْ",
+          "Arti_kata_in": "mereka melihat",
+          "Arti_kata_en": "they saw",
+          "Text_Latin": "ra-aw"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "تِجَٰرَةً",
+          "Arti_kata_in": "perniagaan",
+          "Arti_kata_en": "a transaction",
+          "Text_Latin": "tijaratan"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "أَوۡ",
+          "Arti_kata_in": "atau",
+          "Arti_kata_en": "or",
+          "Text_Latin": "aw"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "لَهۡوًا",
+          "Arti_kata_in": "permainan",
+          "Arti_kata_en": "a sport",
+          "Text_Latin": "lahwan"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱنفَضُّوٓاْ",
+          "Arti_kata_in": "mereka menuju",
+          "Arti_kata_en": "they rushed",
+          "Text_Latin": "infaddu"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "إِلَيۡهَا",
+          "Arti_kata_in": "kepadanya",
+          "Arti_kata_en": "to it",
+          "Text_Latin": "ilayha"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَتَرَكُوكَ",
+          "Arti_kata_in": "dan mereka meninggalkan kamu",
+          "Arti_kata_en": "and left you",
+          "Text_Latin": "watarakuka"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "قَآئِمٗاۚ",
+          "Arti_kata_in": "berdiri",
+          "Arti_kata_en": "standing",
+          "Text_Latin": "qaiman"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_Arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_Latin": "qul"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_Arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "What",
+          "Text_Latin": "ma"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_Arabic": "عِندَ",
+          "Arti_kata_in": "disisi",
+          "Arti_kata_en": "(is) with",
+          "Text_Latin": "inda"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_Arabic": "خَيۡرٞ",
+          "Arti_kata_in": "lebih baik",
+          "Arti_kata_en": "(is) better",
+          "Text_Latin": "khayrun"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_Arabic": "مِّنَ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "than",
+          "Text_Latin": "mina"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_Arabic": "ٱللَّهۡوِ",
+          "Arti_kata_in": "permainan",
+          "Arti_kata_en": "the sport",
+          "Text_Latin": "al-lahwi"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_Arabic": "وَمِنَ",
+          "Arti_kata_in": "dan dari",
+          "Arti_kata_en": "and from",
+          "Text_Latin": "wamina"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_Arabic": "ٱلتِّجَٰرَةِۚ",
+          "Arti_kata_in": "perniagaan",
+          "Arti_kata_en": "(any) transaction",
+          "Text_Latin": "at-tijarati"
+        },
+        {
+          "Nomor_kata": 19,
+          "Kata_Arabic": "وَٱللَّهُ",
+          "Arti_kata_in": "dan Allah",
+          "Arti_kata_en": "And Allah",
+          "Text_Latin": "wal-lahu"
+        },
+        {
+          "Nomor_kata": 20,
+          "Kata_Arabic": "خَيۡرُ",
+          "Arti_kata_in": "sebaik-baik",
+          "Arti_kata_en": "(is the) Best",
+          "Text_Latin": "khayru"
+        },
+        {
+          "Nomor_kata": 21,
+          "Kata_Arabic": "ٱلرَّٰزِقِينَ",
+          "Arti_kata_in": "pemberi rizki/imbalan",
+          "Arti_kata_en": "(of) the Providers",
+          "Text_Latin": "ar-raziqina"
+        }
+      ]
+    }
+  ]
+}
