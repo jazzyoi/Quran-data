@@ -1,0 +1,244 @@
+{
+  "Nomor_surat": 1,
+  "Nama_surat": "Al-Fatihah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "بِسۡمِ",
+          "Arti_kata_in": "dengan nama",
+          "Arti_kata_en": "In (the) name",
+          "Text_Latin": "bis'mi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_Latin": "al-lahi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلرَّحۡمَٰنِ",
+          "Arti_kata_in": "Maha Pengasih",
+          "Arti_kata_en": "the Most Gracious",
+          "Text_Latin": "ar-rahmani"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلرَّحِيمِ",
+          "Arti_kata_in": "Maha Penyayang",
+          "Arti_kata_en": "the Most Merciful",
+          "Text_Latin": "ar-rahimi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلۡحَمۡدُ",
+          "Arti_kata_in": "pujian",
+          "Arti_kata_en": "All praises and thanks",
+          "Text_Latin": "al-hamdu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِلَّهِ",
+          "Arti_kata_in": "bagi Allah",
+          "Arti_kata_en": "(be) to Allah",
+          "Text_Latin": "lillahi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "رَبِّ",
+          "Arti_kata_in": "Tuhan",
+          "Arti_kata_en": "(the) Lord",
+          "Text_Latin": "rabbi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡعَٰلَمِينَ",
+          "Arti_kata_in": "alam semesta",
+          "Arti_kata_en": "(of all) the worlds",
+          "Text_Latin": "al-'alamina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱلرَّحۡمَٰنِ",
+          "Arti_kata_in": "Maha Pengasih",
+          "Arti_kata_en": "The Most Gracious",
+          "Text_Latin": "ar-rahmani"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلرَّحِيمِ",
+          "Arti_kata_in": "Maha Penyayang",
+          "Arti_kata_en": "the Most Merciful",
+          "Text_Latin": "ar-rahimi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "مَٰلِكِ",
+          "Arti_kata_in": "Penguasa",
+          "Arti_kata_en": "Master",
+          "Text_Latin": "maliki"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "يَوۡمِ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(of the) Day",
+          "Text_Latin": "yawmi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلدِّينِ",
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "(of) [the] Judgment",
+          "Text_Latin": "ad-dini"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِيَّاكَ",
+          "Arti_kata_in": "hanya kepadaMu",
+          "Arti_kata_en": "You Alone",
+          "Text_Latin": "iyyaka"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "نَعۡبُدُ",
+          "Arti_kata_in": "kami menyembah",
+          "Arti_kata_en": "we worship",
+          "Text_Latin": "na'budu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَإِيَّاكَ",
+          "Arti_kata_in": "dan hanya kepadaMu",
+          "Arti_kata_en": "and You Alone",
+          "Text_Latin": "wa-iyyaka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "نَسۡتَعِينُ",
+          "Arti_kata_in": "kami mohon pertolongan",
+          "Arti_kata_en": "we ask for help",
+          "Text_Latin": "nasta'inu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "ٱهۡدِنَا",
+          "Arti_kata_in": "tunjukkan kami",
+          "Arti_kata_en": "Guide us",
+          "Text_Latin": "ih'dina"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلصِّرَٰطَ",
+          "Arti_kata_in": "jalan",
+          "Arti_kata_en": "(to) the path",
+          "Text_Latin": "as-sirata"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡمُسۡتَقِيمَ",
+          "Arti_kata_in": "lurus",
+          "Arti_kata_en": "the straight",
+          "Text_Latin": "al-mus'taqima"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "صِرَٰطَ",
+          "Arti_kata_in": "jalan",
+          "Arti_kata_en": "(The) path",
+          "Text_Latin": "sirata"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "(of) those",
+          "Text_Latin": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "أَنۡعَمۡتَ",
+          "Arti_kata_in": "diberi nikmat",
+          "Arti_kata_en": "You have bestowed (Your) Favors",
+          "Text_Latin": "an'amta"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "kepadanya",
+          "Arti_kata_en": "on them",
+          "Text_Latin": "alayhim"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_Arabic": "غَيۡرِ",
+          "Arti_kata_in": "bukan",
+          "Arti_kata_en": "not (of)",
+          "Text_Latin": "ghayri"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_Arabic": "ٱلۡمَغۡضُوبِ",
+          "Arti_kata_in": "orang yang dimurkai",
+          "Arti_kata_en": "those who earned (Your) wrath",
+          "Text_Latin": "al-maghdubi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_Arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "kepadanya",
+          "Arti_kata_en": "on themselves",
+          "Text_Latin": "alayhim"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_Arabic": "وَلَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "and not",
+          "Text_Latin": "wala"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_Arabic": "ٱلضَّآلِّينَ",
+          "Arti_kata_in": "orang-orang yang sesat",
+          "Arti_kata_en": "(of) those who go astray",
+          "Text_Latin": "ad-dalina"
+        }
+      ]
+    }
+  ]
+}
