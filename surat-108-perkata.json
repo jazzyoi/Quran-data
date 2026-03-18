@@ -1,0 +1,91 @@
+{
+  "Nomor_surat": 108,
+  "Nama_surat": "Al-Kautsar",
+  "Ayat": [
+    {
+      "Nomor_ayat": 6205,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّآ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed, We",
+          "Text_Latin": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "أَعۡطَيۡنَٰكَ",
+          "Arti_kata_in": "Aku telah memberikan",
+          "Arti_kata_en": "have given you",
+          "Text_Latin": "a'taynaka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "ٱلۡكَوۡثَرَ",
+          "Arti_kata_in": "nikmat yang banyak",
+          "Arti_kata_en": "Al-Kauthar",
+          "Text_Latin": "al-kawthara"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6206,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "فَصَلِّ",
+          "Arti_kata_in": "maka dirikanlah sholat",
+          "Arti_kata_en": "So pray",
+          "Text_Latin": "fasalli"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "لِرَبِّكَ",
+          "Arti_kata_in": "karena Tuhanmu",
+          "Arti_kata_en": "to your Lord",
+          "Text_Latin": "lirabbika"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "وَٱنۡحَرۡ",
+          "Arti_kata_in": "dan berkurbanlah",
+          "Arti_kata_en": "and sacrifice",
+          "Text_Latin": "wa-in'har"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6207,
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_Arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_Latin": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_Arabic": "شَانِئَكَ",
+          "Arti_kata_in": "orang yang membencimu",
+          "Arti_kata_en": "your enemy",
+          "Text_Latin": "shani-aka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_Arabic": "هُوَ",
+          "Arti_kata_in": "dia",
+          "Arti_kata_en": "he (is)",
+          "Text_Latin": "huwa"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_Arabic": "ٱلۡأَبۡتَرُ",
+          "Arti_kata_in": "terputus",
+          "Arti_kata_en": "the one cut off",
+          "Text_Latin": "al-abtaru"
+        }
+      ]
+    }
+  ]
+}
