@@ -1,0 +1,36 @@
+{
+  "level": "iqra",
+  "jilid": 2,
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Fathah",
+      "items": [
+        {"id": 1, "text": "بَ"},
+        {"id": 2, "text": "تَ"},
+        {"id": 3, "text": "ثَ"},
+        {"id": 4, "text": "جَ"}
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Kasrah",
+      "items": [
+        {"id": 1, "text": "بِ"},
+        {"id": 2, "text": "تِ"},
+        {"id": 3, "text": "ثِ"},
+        {"id": 4, "text": "جِ"}
+      ]
+    },
+    {
+      "lesson_id": 3,
+      "title": "Dhammah",
+      "items": [
+        {"id": 1, "text": "بُ"},
+        {"id": 2, "text": "تُ"},
+        {"id": 3, "text": "ثُ"},
+        {"id": 4, "text": "جُ"}
+      ]
+    }
+  ]
+}

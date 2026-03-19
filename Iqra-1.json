@@ -1,0 +1,59 @@
+{
+  "level": "iqra",
+  "jilid": 1,
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Huruf Hijaiyah (1)",
+      "items": [
+        {"id": 1, "text": "ا"},
+        {"id": 2, "text": "ب"},
+        {"id": 3, "text": "ت"},
+        {"id": 4, "text": "ث"},
+        {"id": 5, "text": "ج"},
+        {"id": 6, "text": "ح"},
+        {"id": 7, "text": "خ"}
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Huruf Hijaiyah (2)",
+      "items": [
+        {"id": 1, "text": "د"},
+        {"id": 2, "text": "ذ"},
+        {"id": 3, "text": "ر"},
+        {"id": 4, "text": "ز"},
+        {"id": 5, "text": "س"},
+        {"id": 6, "text": "ش"}
+      ]
+    },
+    {
+      "lesson_id": 3,
+      "title": "Huruf Hijaiyah (3)",
+      "items": [
+        {"id": 1, "text": "ص"},
+        {"id": 2, "text": "ض"},
+        {"id": 3, "text": "ط"},
+        {"id": 4, "text": "ظ"},
+        {"id": 5, "text": "ع"},
+        {"id": 6, "text": "غ"}
+      ]
+    },
+    {
+      "lesson_id": 4,
+      "title": "Huruf Hijaiyah (4)",
+      "items": [
+        {"id": 1, "text": "ف"},
+        {"id": 2, "text": "ق"},
+        {"id": 3, "text": "ك"},
+        {"id": 4, "text": "ل"},
+        {"id": 5, "text": "م"},
+        {"id": 6, "text": "ن"},
+        {"id": 7, "text": "و"},
+        {"id": 8, "text": "ه"},
+        {"id": 9, "text": "ء"},
+        {"id": 10, "text": "ي"}
+      ]
+    }
+  ]
+}

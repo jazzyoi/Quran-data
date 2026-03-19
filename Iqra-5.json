@@ -1,0 +1,23 @@
+{
+  "level": "iqra",
+  "jilid": 5,
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Tanwin",
+      "items": [
+        {"id": 1, "text": "بً"},
+        {"id": 2, "text": "بٍ"},
+        {"id": 3, "text": "بٌ"}
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Sukun",
+      "items": [
+        {"id": 1, "text": "بْ"},
+        {"id": 2, "text": "تْ"}
+      ]
+    }
+  ]
+}

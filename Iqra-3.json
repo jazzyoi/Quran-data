@@ -1,0 +1,25 @@
+{
+  "level": "iqra",
+  "jilid": 3,
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Gabungan Huruf",
+      "items": [
+        {"id": 1, "text": "با"},
+        {"id": 2, "text": "تا"},
+        {"id": 3, "text": "ثا"},
+        {"id": 4, "text": "جا"}
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Gabungan + Harakat",
+      "items": [
+        {"id": 1, "text": "بَتَ"},
+        {"id": 2, "text": "تِبِ"},
+        {"id": 3, "text": "بُتُ"}
+      ]
+    }
+  ]
+}
