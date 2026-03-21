@@ -6,14 +6,13 @@
       "lesson_id": 1,
       "title": "Huruf Hijaiyah (1)",
       "items": [
-        {"id": 1, "text": "بِسْمِاللّٰهِ ", "IN": "Bismillah", "EN": "bismillah"},
-        {"id": 2, "text": "ا", "IN": "Alif", "EN": "a"},
-        {"id": 3, "text": "ب", "IN": "Ba", "EN": "b"},
-        {"id": 4, "text": "ت", "IN": "Ta", "EN": "t"},
-        {"id": 5, "text": "ث", "IN": "Tha", "EN": "th"},
-        {"id": 6, "text": "ج", "IN": "Jim", "EN": "j"},
-        {"id": 7, "text": "ح", "IN": "Ha", "EN": "h"},
-        {"id": 8, "text": "خ", "IN": "Ho", "EN": "kh"}
+        {"id": 1, "text": "ا", "IN": "Alif", "EN": "a"},
+        {"id": 2, "text": "ب", "IN": "Ba", "EN": "b"},
+        {"id": 3, "text": "ت", "IN": "Ta", "EN": "t"},
+        {"id": 4, "text": "ث", "IN": "Tha", "EN": "th"},
+        {"id": 5, "text": "ج", "IN": "Jim", "EN": "j"},
+        {"id": 6, "text": "ح", "IN": "Ha", "EN": "h"},
+        {"id": 7, "text": "خ", "IN": "Ho", "EN": "kh"}
       ]
     },
     {
