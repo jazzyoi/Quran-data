@@ -1,0 +1,692 @@
+{
+  "Nomor_surat": 92,
+  "Nama_surat": "Al-Lail",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+      "Ayat_latin": "wal-laili iza yagsya",
+      "Terjemah_in": "Demi malam apabila menutupi (cahaya siang),",
+      "Terjemah_en": "By the night as it covers.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلَّيۡلِ",
+          "Arti_kata_in": "demi malam",
+          "Arti_kata_en": "By the night",
+          "Text_latin  ": "wa-al-layli"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "يَغۡشَىٰ",
+          "Arti_kata_in": "ia menutup",
+          "Arti_kata_en": "it covers",
+          "Text_latin  ": "yaghsha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+      "Ayat_latin": "wan-nahari iza tajalla",
+      "Terjemah_in": "demi siang apabila terang benderang,",
+      "Terjemah_en": "And the day as it reveals.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلنَّهَارِ",
+          "Arti_kata_in": "dan siang",
+          "Arti_kata_en": "And the day",
+          "Text_latin  ": "wan-nahari"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تَجَلَّىٰ",
+          "Arti_kata_in": "terang benderang",
+          "Arti_kata_en": "it shines in brightness",
+          "Text_latin  ": "tajalla"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+      "Ayat_latin": "wa ma khalaqaz-zakara wal-unsa",
+      "Terjemah_in": "dan demi penciptaan laki-laki dan perempuan,",
+      "Terjemah_en": "And He who created the male and the female.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "And He Who",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "خَلَقَ",
+          "Arti_kata_in": "ciptakan",
+          "Arti_kata_en": "created",
+          "Text_latin  ": "khalaqa"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلذَّكَرَ",
+          "Arti_kata_in": "laki-laki",
+          "Arti_kata_en": "the male",
+          "Text_latin  ": "ad-dhakara"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَٱلۡأُنثَىٰٓ",
+          "Arti_kata_in": "dan perempuan",
+          "Arti_kata_en": "and the female",
+          "Text_latin  ": "wal-untha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+      "Ayat_latin": "inna sa'yakum lasyatta",
+      "Terjemah_in": "sesungguhnya usahamu benar-benar beraneka ragam.",
+      "Terjemah_en": "Your endeavors are indeed diverse.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "سَعۡيَكُمۡ",
+          "Arti_kata_in": "usahamu",
+          "Arti_kata_en": "your efforts",
+          "Text_latin  ": "sa'yakum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَشَتَّىٰ",
+          "Arti_kata_in": "sungguh berbeda-beda",
+          "Arti_kata_en": "(are) surely diverse",
+          "Text_latin  ": "lashatta"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+      "Ayat_latin": "fa amma man a'ta wattaqa",
+      "Terjemah_in": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa",
+      "Terjemah_en": "As for him who gives and is righteous.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَمَّا",
+          "Arti_kata_in": "maka adapun",
+          "Arti_kata_en": "Then as for",
+          "Text_latin  ": "fa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَنۡ",
+          "Arti_kata_in": "orang",
+          "Arti_kata_en": "(him) who",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَعۡطَىٰ",
+          "Arti_kata_in": "ia memberikan",
+          "Arti_kata_en": "gives",
+          "Text_latin  ": "a'ta"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَٱتَّقَىٰ",
+          "Arti_kata_in": "dan bertaqwa",
+          "Arti_kata_en": "and fears",
+          "Text_latin  ": "wa-ittaqa"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+      "Ayat_latin": "wa saddaqa bil-husna",
+      "Terjemah_in": "serta membenarkan adanya (balasan) yang terbaik (surga),",
+      "Terjemah_en": "And confirms goodness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَصَدَّقَ",
+          "Arti_kata_in": "dan ia membenarkan/akui",
+          "Arti_kata_en": "And believes",
+          "Text_latin  ": "wasaddaqa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِٱلۡحُسۡنَىٰ",
+          "Arti_kata_in": "dengan kebaikan",
+          "Arti_kata_en": "in the best",
+          "Text_latin  ": "bil-hus'na"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+      "Ayat_latin": "fa sanuyassiruhu lil-yusra",
+      "Terjemah_in": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan).",
+      "Terjemah_en": "We will ease his way towards ease.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَسَنُيَسِّرُهُۥ",
+          "Arti_kata_in": "maka Kami akan memudahkannya",
+          "Arti_kata_en": "Then We will ease him",
+          "Text_latin  ": "fasanuyassiruhu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لِلۡيُسۡرَىٰ",
+          "Arti_kata_in": "pada yang mudah",
+          "Arti_kata_en": "towards [the] ease",
+          "Text_latin  ": "lil'yus'ra"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+      "Ayat_latin": "wa amma mam bakhila wastagna",
+      "Terjemah_in": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)",
+      "Terjemah_en": "But as for him who is stingy and complacent.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَمَّا",
+          "Arti_kata_in": "dan adapun",
+          "Arti_kata_en": "But as for",
+          "Text_latin  ": "wa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَنۢ",
+          "Arti_kata_in": "orang",
+          "Arti_kata_en": "(him) who",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بَخِلَ",
+          "Arti_kata_in": "ia kikir",
+          "Arti_kata_en": "withholds",
+          "Text_latin  ": "bakhila"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَٱسۡتَغۡنَىٰ",
+          "Arti_kata_in": "dan ia merasa cukup",
+          "Arti_kata_en": "and considers himself free from need",
+          "Text_latin  ": "wa-is'taghna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+      "Ayat_latin": "wa kazzaba bil-husna",
+      "Terjemah_in": "serta mendustakan (balasan) yang terbaik,",
+      "Terjemah_en": "And denies goodness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَكَذَّبَ",
+          "Arti_kata_in": "dan ia mendustakan",
+          "Arti_kata_en": "And denies",
+          "Text_latin  ": "wakadhaba"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِٱلۡحُسۡنَىٰ",
+          "Arti_kata_in": "dengan kebaikan",
+          "Arti_kata_en": "the best",
+          "Text_latin  ": "bil-hus'na"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+      "Ayat_latin": "fa sanuyassiruhu lil-'usra",
+      "Terjemah_in": "Kami akan memudahkannya menuju jalan kesengsaraan.",
+      "Terjemah_en": "We will ease his way towards difficulty.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَسَنُيَسِّرُهُۥ",
+          "Arti_kata_in": "maka Kami akan memudahkan",
+          "Arti_kata_en": "Then We will ease him",
+          "Text_latin  ": "fasanuyassiruhu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لِلۡعُسۡرَىٰ",
+          "Arti_kata_in": "pada yang sukar",
+          "Arti_kata_en": "towards [the] difficulty",
+          "Text_latin  ": "lil'us'ra"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+      "Ayat_latin": "wa ma yugni 'an-hu maluhu iza taradda",
+      "Terjemah_in": "Hartanya tidak bermanfaat baginya apabila dia telah binasa.",
+      "Terjemah_en": "And his money will not avail him when he plummets.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يُغۡنِي",
+          "Arti_kata_in": "mencukupi/berguna",
+          "Arti_kata_en": "will avail",
+          "Text_latin  ": "yugh'ni"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَنۡهُ",
+          "Arti_kata_in": "dari padanya/baginya",
+          "Arti_kata_en": "him",
+          "Text_latin  ": "anhu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَالُهُۥٓ",
+          "Arti_kata_in": "hartanya",
+          "Arti_kata_en": "his wealth",
+          "Text_latin  ": "maluhu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "تَرَدَّىٰٓ",
+          "Arti_kata_in": "ia telah binasa",
+          "Arti_kata_en": "he falls",
+          "Text_latin  ": "taradda"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 12,
+      "Ayat_arabic ": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+      "Ayat_latin": "inna 'alaina lal-huda",
+      "Terjemah_in": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk.",
+      "Terjemah_en": "It is upon Us to guide.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَلَيۡنَا",
+          "Arti_kata_in": "bagi Kami",
+          "Arti_kata_en": "upon Us",
+          "Text_latin  ": "alayna"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَلۡهُدَىٰ",
+          "Arti_kata_in": "kesudahan/akherat",
+          "Arti_kata_en": "(is) the guidance",
+          "Text_latin  ": "lalhuda"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 13,
+      "Ayat_arabic ": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+      "Ayat_latin": "wa inna lana lal-akhirata wal-ula",
+      "Terjemah_in": "Sesungguhnya milik Kamilah akhirat dan dunia.",
+      "Terjemah_en": "And to Us belong the Last and the First.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِنَّ",
+          "Arti_kata_in": "dan sesungguhnya",
+          "Arti_kata_en": "And indeed",
+          "Text_latin  ": "wa-inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لَنَا",
+          "Arti_kata_in": "milik Kamilah",
+          "Arti_kata_en": "for Us",
+          "Text_latin  ": "lana"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَلۡأٓخِرَةَ",
+          "Arti_kata_in": "akhirat",
+          "Arti_kata_en": "(is) the Hereafter",
+          "Text_latin  ": "lalakhirata"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَٱلۡأُولَىٰ",
+          "Arti_kata_in": "dan dunia itu",
+          "Arti_kata_en": "and the first (life)",
+          "Text_latin  ": "wal-ula"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 14,
+      "Ayat_arabic ": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+      "Ayat_latin": "fa anzartukum naran talazza",
+      "Terjemah_in": "Aku memperingatkanmu dengan neraka yang menyala-nyala.",
+      "Terjemah_en": "I have warned you of a Fierce Blaze.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَنذَرۡتُكُمۡ",
+          "Arti_kata_in": "maka peringatkanlah",
+          "Arti_kata_en": "So I warn you",
+          "Text_latin  ": "fa-andhartukum"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَارٗا",
+          "Arti_kata_in": "api neraka",
+          "Arti_kata_en": "(of) a Fire",
+          "Text_latin  ": "naran"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تَلَظَّىٰ",
+          "Arti_kata_in": "menyala-nyala",
+          "Arti_kata_en": "blazing",
+          "Text_latin  ": "talazza"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 15,
+      "Ayat_arabic ": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+      "Ayat_latin": "la yaslaha illal-asyqa",
+      "Terjemah_in": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,",
+      "Terjemah_en": "None will burn in it except the very wicked.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَا",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "la"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَصۡلَىٰهَآ",
+          "Arti_kata_in": "masuk kedalamnya",
+          "Arti_kata_en": "will burn (in) it",
+          "Text_latin  ": "yaslaha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "إِلَّا",
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "except",
+          "Text_latin  ": "illa"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡأَشۡقَى",
+          "Arti_kata_in": "paling celaka",
+          "Arti_kata_en": "the most wretched",
+          "Text_latin  ": "al-ashqa"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 16,
+      "Ayat_arabic ": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+      "Ayat_latin": "allazi kazzaba wa tawalla",
+      "Terjemah_in": "yang mendustakan (kebenaran) dan berpaling (dari keimanan).",
+      "Terjemah_en": "He who denies and turns away.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلَّذِي",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "The one who",
+          "Text_latin  ": "alladhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كَذَّبَ",
+          "Arti_kata_in": "mendustakan",
+          "Arti_kata_en": "denied",
+          "Text_latin  ": "kadhaba"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَتَوَلَّىٰ",
+          "Arti_kata_in": "dan berpaling",
+          "Arti_kata_en": "and turned away",
+          "Text_latin  ": "watawalla"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 17,
+      "Ayat_arabic ": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+      "Ayat_latin": "wa sayujannabuhal-atqa",
+      "Terjemah_in": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,",
+      "Terjemah_en": "But the devout will avoid it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَسَيُجَنَّبُهَا",
+          "Arti_kata_in": "dan akan dijauhkan-dia",
+          "Arti_kata_en": "But will be removed from it",
+          "Text_latin  ": "wasayujannabuha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡأَتۡقَى",
+          "Arti_kata_in": "berbakti",
+          "Arti_kata_en": "the righteous",
+          "Text_latin  ": "al-atqa"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 18,
+      "Ayat_arabic ": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+      "Ayat_latin": "allazi yu'ti malahu yatazakka",
+      "Terjemah_in": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak).",
+      "Terjemah_en": "He who gives his money to become pure.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلَّذِي",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "The one who",
+          "Text_latin  ": "alladhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يُؤۡتِي",
+          "Arti_kata_in": "mendermakan",
+          "Arti_kata_en": "gives",
+          "Text_latin  ": "yu'ti"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَالَهُۥ",
+          "Arti_kata_in": "apa yang dia miliki (hartanya)",
+          "Arti_kata_en": "his wealth",
+          "Text_latin  ": "malahu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَتَزَكَّىٰ",
+          "Arti_kata_in": "mensucikan",
+          "Arti_kata_en": "purifying himself",
+          "Text_latin  ": "yatazakka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 19,
+      "Ayat_arabic ": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+      "Ayat_latin": "wa ma li'ahadin 'indahu min ni'matin tujza",
+      "Terjemah_in": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,758)",
+      "Terjemah_en": "Seeking no favor in return.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لِأَحَدٍ",
+          "Arti_kata_in": "satupun",
+          "Arti_kata_en": "for anyone",
+          "Text_latin  ": "li-ahadin"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عِندَهُۥ",
+          "Arti_kata_in": "pada sisinya",
+          "Arti_kata_en": "with him",
+          "Text_latin  ": "indahu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "any",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "نِّعۡمَةٖ",
+          "Arti_kata_in": "nikmat",
+          "Arti_kata_en": "favor",
+          "Text_latin  ": "ni'matin"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "تُجۡزَىٰٓ",
+          "Arti_kata_in": "patut dibalas",
+          "Arti_kata_en": "to be recompensed",
+          "Text_latin  ": "tuj'za"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 20,
+      "Ayat_arabic ": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+      "Ayat_latin": "illabtiga'a waj-hi rabbihil-a'la",
+      "Terjemah_in": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Maha Tinggi.",
+      "Terjemah_en": "Only seeking the acceptance of his Lord, the Most High.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِلَّا",
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "Except",
+          "Text_latin  ": "illa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱبۡتِغَآءَ",
+          "Arti_kata_in": "mencari",
+          "Arti_kata_en": "seeking",
+          "Text_latin  ": "ib'tighaa"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَجۡهِ",
+          "Arti_kata_in": "keridhaan",
+          "Arti_kata_en": "(the) Countenance",
+          "Text_latin  ": "wajhi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "رَبِّهِ",
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "(of) his Lord",
+          "Text_latin  ": "rabbihi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡأَعۡلَىٰ",
+          "Arti_kata_in": "yang Maha Tinggi",
+          "Arti_kata_en": "the Most High",
+          "Text_latin  ": "al-a'la"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 21,
+      "Ayat_arabic ": "وَلَسَوْفَ يَرْضٰى ࣖ",
+      "Ayat_latin": "wa lasaufa yarda",
+      "Terjemah_in": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya).",
+      "Terjemah_en": "And he will be satisfied.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَسَوۡفَ",
+          "Arti_kata_in": "dan kelak",
+          "Arti_kata_en": "And soon surely",
+          "Text_latin  ": "walasawfa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَرۡضَىٰ",
+          "Arti_kata_in": "ridha",
+          "Arti_kata_en": "he will be pleased",
+          "Text_latin  ": "yarda"
+        }
+      ]
+    }
+  ]
+}

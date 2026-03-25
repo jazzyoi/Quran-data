@@ -1,0 +1,103 @@
+{
+  "Nomor_surat": 108,
+  "Nama_surat": "Al-Kautsar",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+      "Ayat_latin": "inna a'tainakal-kausar",
+      "Terjemah_in": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak.",
+      "Terjemah_en": "We have given you plenty.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّآ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed, We",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَعۡطَيۡنَٰكَ",
+          "Arti_kata_in": "Aku telah memberikan",
+          "Arti_kata_en": "have given you",
+          "Text_latin  ": "a'taynaka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡكَوۡثَرَ",
+          "Arti_kata_in": "nikmat yang banyak",
+          "Arti_kata_en": "Al-Kauthar",
+          "Text_latin  ": "al-kawthara"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+      "Ayat_latin": "fa salli lirabbika wan-har",
+      "Terjemah_in": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!",
+      "Terjemah_en": "So pray to your Lord and sacrifice.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَصَلِّ",
+          "Arti_kata_in": "maka dirikanlah sholat",
+          "Arti_kata_en": "So pray",
+          "Text_latin  ": "fasalli"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لِرَبِّكَ",
+          "Arti_kata_in": "karena Tuhanmu",
+          "Arti_kata_en": "to your Lord",
+          "Text_latin  ": "lirabbika"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَٱنۡحَرۡ",
+          "Arti_kata_in": "dan berkurbanlah",
+          "Arti_kata_en": "and sacrifice",
+          "Text_latin  ": "wa-in'har"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+      "Ayat_latin": "inna syani'aka huwal-abtar",
+      "Terjemah_in": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah).",
+      "Terjemah_en": "He who hates you is the loser.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "شَانِئَكَ",
+          "Arti_kata_in": "orang yang membencimu",
+          "Arti_kata_en": "your enemy",
+          "Text_latin  ": "shani-aka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "هُوَ",
+          "Arti_kata_in": "dia",
+          "Arti_kata_en": "he (is)",
+          "Text_latin  ": "huwa"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡأَبۡتَرُ",
+          "Arti_kata_in": "terputus",
+          "Arti_kata_en": "the one cut off",
+          "Text_latin  ": "al-abtaru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "Nomor_surat": 90,
+  "Nama_surat": "Al-Balad",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "لَآ اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+      "Ayat_latin": "la uqsimu bihazal-balad",
+      "Terjemah_in": "Aku bersumpah demi negeri ini (Makkah),",
+      "Terjemah_en": "I swear by this land.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَآ",
+          "Arti_kata_in": "sungguh",
+          "Arti_kata_en": "Nay!",
+          "Text_latin  ": "la"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أُقۡسِمُ",
+          "Arti_kata_in": "Aku bersumpah",
+          "Arti_kata_en": "I swear",
+          "Text_latin  ": "uq'simu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بِهَٰذَا",
+          "Arti_kata_in": "dengan ini",
+          "Arti_kata_en": "by this",
+          "Text_latin  ": "bihadha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡبَلَدِ",
+          "Arti_kata_in": "negeri",
+          "Arti_kata_en": "city",
+          "Text_latin  ": "al-baladi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَاَنْتَ حِلٌّۢ بِهٰذَا الْبَلَدِۙ",
+      "Ayat_latin": "wa anta hillum bihazal-balad",
+      "Terjemah_in": "sedangkan engkau (Nabi Muhammad) bertempat tinggal di negeri (Makkah) ini.",
+      "Terjemah_en": "And you are a resident of this land.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَنتَ",
+          "Arti_kata_in": "dan kamu",
+          "Arti_kata_en": "And you",
+          "Text_latin  ": "wa-anta"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "حِلُّۢ",
+          "Arti_kata_in": "halal/bertempat",
+          "Arti_kata_en": "(are) free (to dwell)",
+          "Text_latin  ": "hillun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بِهَٰذَا",
+          "Arti_kata_in": "dengan ini",
+          "Arti_kata_en": "in this",
+          "Text_latin  ": "bihadha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡبَلَدِ",
+          "Arti_kata_in": "negeri",
+          "Arti_kata_en": "city",
+          "Text_latin  ": "al-baladi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَوَالِدٍ وَّمَا وَلَدَۙ",
+      "Ayat_latin": "wa walidiw wa ma walad",
+      "Terjemah_in": "(Aku juga bersumpah) demi bapak dan anaknya,",
+      "Terjemah_en": "And by a father and what he fathered.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَوَالِدٖ",
+          "Arti_kata_in": "demi bapak",
+          "Arti_kata_en": "And the begetter",
+          "Text_latin  ": "wawalidin"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَلَدَ",
+          "Arti_kata_in": "ia lahirkan (anak)",
+          "Arti_kata_en": "he begot",
+          "Text_latin  ": "walada"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْ كَبَدٍۗ",
+      "Ayat_latin": "laqad khalaqnal-insana fi kabad",
+      "Terjemah_in": "sungguh, Kami benar-benar telah menciptakan manusia dalam keadaan susah payah.",
+      "Terjemah_en": "We created man in distress.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَقَدۡ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Certainly",
+          "Text_latin  ": "laqad"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "خَلَقۡنَا",
+          "Arti_kata_in": "Kami telah menciptakan",
+          "Arti_kata_en": "We have created",
+          "Text_latin  ": "khalaqna"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "man",
+          "Text_latin  ": "al-insana"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(to be) in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "كَبَدٍ",
+          "Arti_kata_in": "susah payah",
+          "Arti_kata_en": "hardship",
+          "Text_latin  ": "kabadin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "اَيَحْسَبُ اَنْ لَّنْ يَّقْدِرَ عَلَيْهِ اَحَدٌ ۘ",
+      "Ayat_latin": "a yahsabu al lay yaqdira 'alaihi ahad",
+      "Terjemah_in": "Apakah dia (manusia) itu mengira bahwa tidak ada seorang pun yang berkuasa atasnya?",
+      "Terjemah_en": "Does he think that no one has power over him?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَيَحۡسَبُ",
+          "Arti_kata_in": "apakah (manusia) menyangka",
+          "Arti_kata_en": "Does he think",
+          "Text_latin  ": "ayahsabu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَن",
+          "Arti_kata_in": "bahwa",
+          "Arti_kata_en": "that",
+          "Text_latin  ": "an"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَّن",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "not",
+          "Text_latin  ": "lan"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَقۡدِرَ",
+          "Arti_kata_in": "berkuasa",
+          "Arti_kata_en": "has power",
+          "Text_latin  ": "yaqdira"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "عَلَيۡهِ",
+          "Arti_kata_in": "atasnya",
+          "Arti_kata_en": "over him",
+          "Text_latin  ": "alayhi"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "أَحَدٞ",
+          "Arti_kata_in": "seseorang/satu",
+          "Arti_kata_en": "anyone",
+          "Text_latin  ": "ahadun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "يَقُوْلُ اَهْلَكْتُ مَالًا لُّبَدًاۗ",
+      "Ayat_latin": "yaqulu ahlaktu malal lubada",
+      "Terjemah_in": "Dia mengatakan, “Aku telah menghabiskan harta yang banyak.”",
+      "Terjemah_en": "He says, “I have used up so much money.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَقُولُ",
+          "Arti_kata_in": "ia berkata",
+          "Arti_kata_en": "He will say",
+          "Text_latin  ": "yaqulu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَهۡلَكۡتُ",
+          "Arti_kata_in": "aku telah binasakan/habiskan",
+          "Arti_kata_en": "I have squandered",
+          "Text_latin  ": "ahlaktu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَالٗا",
+          "Arti_kata_in": "harta",
+          "Arti_kata_en": "wealth",
+          "Text_latin  ": "malan"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لُّبَدًا",
+          "Arti_kata_in": "banyak",
+          "Arti_kata_en": "abundant",
+          "Text_latin  ": "lubadan"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "اَيَحْسَبُ اَنْ لَّمْ يَرَهٗٓ اَحَدٌۗ",
+      "Ayat_latin": "a yahsabu al lam yarahu ahad",
+      "Terjemah_in": "Apakah dia mengira bahwa tidak ada seorang pun yang melihatnya?",
+      "Terjemah_en": "Does he think that no one sees him?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَيَحۡسَبُ",
+          "Arti_kata_in": "apakah ia menyangka",
+          "Arti_kata_en": "Does he think",
+          "Text_latin  ": "ayahsabu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَن",
+          "Arti_kata_in": "bahwa",
+          "Arti_kata_en": "that",
+          "Text_latin  ": "an"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَّمۡ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "not",
+          "Text_latin  ": "lam"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَرَهُۥٓ",
+          "Arti_kata_in": "berkuasa",
+          "Arti_kata_en": "sees him",
+          "Text_latin  ": "yarahu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَحَدٌ",
+          "Arti_kata_in": "seorang/satu",
+          "Arti_kata_en": "anyone",
+          "Text_latin  ": "ahadun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "اَلَمْ نَجْعَلْ لَّهٗ عَيْنَيْنِۙ",
+      "Ayat_latin": "a lam naj'al lahu 'ainain",
+      "Terjemah_in": "Bukankah Kami telah menjadikan untuknya sepasang mata,",
+      "Terjemah_en": "Did We not give him two eyes?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَلَمۡ",
+          "Arti_kata_in": "bukankah",
+          "Arti_kata_en": "Have not",
+          "Text_latin  ": "alam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَجۡعَل",
+          "Arti_kata_in": "Kami jadikan",
+          "Arti_kata_en": "We made",
+          "Text_latin  ": "naj'al"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَّهُۥ",
+          "Arti_kata_in": "baginya",
+          "Arti_kata_en": "for him",
+          "Text_latin  ": "lahu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "عَيۡنَيۡنِ",
+          "Arti_kata_in": "dua buah mata",
+          "Arti_kata_en": "two eyes",
+          "Text_latin  ": "aynayni"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "وَلِسَانًا وَّشَفَتَيْنِۙ",
+      "Ayat_latin": "wa lisanaw wa syafatain",
+      "Terjemah_in": "lidah, dan sepasang bibir,",
+      "Terjemah_en": "And a tongue, and two lips?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلِسَانٗا",
+          "Arti_kata_in": "dan lisan/lidah",
+          "Arti_kata_en": "And a tongue",
+          "Text_latin  ": "walisanan"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَشَفَتَيۡنِ",
+          "Arti_kata_in": "dan dua buah bibir",
+          "Arti_kata_en": "and two lips",
+          "Text_latin  ": "washafatayni"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَهَدَيْنٰهُ النَّجْدَيْنِۙ",
+      "Ayat_latin": "wa hadainahun-najdain",
+      "Terjemah_in": "serta Kami juga telah menunjukkan kepadanya dua jalan (kebajikan dan kejahatan)?",
+      "Terjemah_en": "And We showed him the two ways?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَهَدَيۡنَٰهُ",
+          "Arti_kata_in": "dan Kami telah tunjukannya",
+          "Arti_kata_en": "And shown him",
+          "Text_latin  ": "wahadaynahu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلنَّجۡدَيۡنِ",
+          "Arti_kata_in": "dua jalan",
+          "Arti_kata_en": "the two ways",
+          "Text_latin  ": "an-najdayni"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "فَلَا اقْتَحَمَ الْعَقَبَةَ ۖ",
+      "Ayat_latin": "fa laqtahamal-'aqabah",
+      "Terjemah_in": "Maka, tidakkah sebaiknya dia menempuh jalan (kebajikan) yang mendaki dan sukar?",
+      "Terjemah_en": "But he did not brave the ascent.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَلَا",
+          "Arti_kata_in": "maka/tetapi tidak",
+          "Arti_kata_en": "But not",
+          "Text_latin  ": "fala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱقۡتَحَمَ",
+          "Arti_kata_in": "ia menempuh",
+          "Arti_kata_en": "he has attempted",
+          "Text_latin  ": "iq'tahama"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡعَقَبَةَ",
+          "Arti_kata_in": "pendakian/mendaki",
+          "Arti_kata_en": "the steep path",
+          "Text_latin  ": "al-'aqabata"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 12,
+      "Ayat_arabic ": "وَمَآ اَدْرٰىكَ مَا الْعَقَبَةُ ۗ",
+      "Ayat_latin": "wa ma adraka mal-'aqabah",
+      "Terjemah_in": "Tahukah kamu apakah jalan yang mendaki dan sukar itu?",
+      "Terjemah_en": "And what will explain to you what the ascent is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "da apakah",
+          "Arti_kata_en": "And what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu tahu",
+          "Arti_kata_en": "can make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡعَقَبَةُ",
+          "Arti_kata_in": "pendakian itu",
+          "Arti_kata_en": "the steep path is",
+          "Text_latin  ": "al-'aqabatu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 13,
+      "Ayat_arabic ": "فَكُّ رَقَبَةٍۙ",
+      "Ayat_latin": "fakku raqabah",
+      "Terjemah_in": "(Itulah upaya) melepaskan perbudakan",
+      "Terjemah_en": "The freeing of a slave.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَكُّ",
+          "Arti_kata_in": "memerdekakan",
+          "Arti_kata_en": "(It is) freeing",
+          "Text_latin  ": "fakku"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "رَقَبَةٍ",
+          "Arti_kata_in": "budak",
+          "Arti_kata_en": "a neck",
+          "Text_latin  ": "raqabatin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 14,
+      "Ayat_arabic ": "اَوْ اِطْعَامٌ فِيْ يَوْمٍ ذِيْ مَسْغَبَةٍۙ",
+      "Ayat_latin": "au it'amun fi yaumin zi masgabah",
+      "Terjemah_in": "atau memberi makan pada hari terjadi kelaparan",
+      "Terjemah_en": "Or the feeding on a day of hunger.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَوۡ",
+          "Arti_kata_in": "atau",
+          "Arti_kata_en": "Or",
+          "Text_latin  ": "aw"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِطۡعَٰمٞ",
+          "Arti_kata_in": "memberi makan",
+          "Arti_kata_en": "feeding",
+          "Text_latin  ": "it'amun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَوۡمٖ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "a day",
+          "Text_latin  ": "yawmin"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ذِي",
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "dhi"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "مَسۡغَبَةٖ",
+          "Arti_kata_in": "kelaparan",
+          "Arti_kata_en": "severe hunger",
+          "Text_latin  ": "masghabatin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 15,
+      "Ayat_arabic ": "يَّتِيْمًا ذَا مَقْرَبَةٍۙ",
+      "Ayat_latin": "yatiman za maqrabah",
+      "Terjemah_in": "(kepada) anak yatim yang memiliki hubungan kekerabatan",
+      "Terjemah_en": "An orphan near of kin.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَتِيمٗا",
+          "Arti_kata_in": "anak yatim",
+          "Arti_kata_en": "An orphan",
+          "Text_latin  ": "yatiman"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ذَا",
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "dha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَقۡرَبَةٍ",
+          "Arti_kata_in": "dekat/kerabat",
+          "Arti_kata_en": "near relationship",
+          "Text_latin  ": "maqrabatin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 16,
+      "Ayat_arabic ": "اَوْ مِسْكِيْنًا ذَا مَتْرَبَةٍۗ",
+      "Ayat_latin": "au miskinan za matrabah",
+      "Terjemah_in": "atau orang miskin yang sangat membutuhkan.",
+      "Terjemah_en": "Or a destitute in the dust.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَوۡ",
+          "Arti_kata_in": "atau",
+          "Arti_kata_en": "Or",
+          "Text_latin  ": "aw"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مِسۡكِينٗا",
+          "Arti_kata_in": "orang miskin",
+          "Arti_kata_en": "a needy person",
+          "Text_latin  ": "mis'kinan"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ذَا",
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "in",
+          "Text_latin  ": "dha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَتۡرَبَةٖ",
+          "Arti_kata_in": "sangat payah/melarat",
+          "Arti_kata_en": "misery",
+          "Text_latin  ": "matrabatin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 17,
+      "Ayat_arabic ": "ثُمَّ كَانَ مِنَ الَّذِيْنَ اٰمَنُوْا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۗ",
+      "Ayat_latin": "summa kana minallazina amanu wa tawasau bis-sabri wa tawasau bil-mar-hamah",
+      "Terjemah_in": "Kemudian, dia juga termasuk orang-orang yang beriman dan saling berpesan untuk bersabar serta saling berpesan untuk berkasih sayang.",
+      "Terjemah_en": "Then he becomes of those who believe, and advise one another to patience, and advise one another to kindness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ثُمَّ",
+          "Arti_kata_in": "kemudian",
+          "Arti_kata_en": "Then",
+          "Text_latin  ": "thumma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كَانَ",
+          "Arti_kata_in": "adalah ia",
+          "Arti_kata_en": "he is",
+          "Text_latin  ": "kana"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مِنَ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "mina"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ءَامَنُواْ",
+          "Arti_kata_in": "beriman",
+          "Arti_kata_en": "believe",
+          "Text_latin  ": "amanu"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata_in": "dan mereka saling berwasiat/berpesan",
+          "Arti_kata_en": "and enjoin each other",
+          "Text_latin  ": "watawasaw"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "بِٱلصَّبۡرِ",
+          "Arti_kata_in": "dengan kesabaran",
+          "Arti_kata_en": "to patience",
+          "Text_latin  ": "bil-sabri"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata_in": "dan mereka saling berwasiat/berpesan",
+          "Arti_kata_en": "and enjoin each other",
+          "Text_latin  ": "watawasaw"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "بِٱلۡمَرۡحَمَةِ",
+          "Arti_kata_in": "dengan kasih-sayang",
+          "Arti_kata_en": "to compassion",
+          "Text_latin  ": "bil-marhamati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 18,
+      "Ayat_arabic ": "اُولٰۤىِٕكَ اَصْحٰبُ الْمَيْمَنَةِۗ",
+      "Ayat_latin": "ula'ika as-habul-maimanah",
+      "Terjemah_in": "Mereka itulah golongan kanan.",
+      "Terjemah_en": "These are the people of happiness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أُوْلَٰٓئِكَ",
+          "Arti_kata_in": "mereka itu",
+          "Arti_kata_en": "Those",
+          "Text_latin  ": "ulaika"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَصۡحَٰبُ",
+          "Arti_kata_in": "golongan",
+          "Arti_kata_en": "(are the) companions",
+          "Text_latin  ": "ashabu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡمَيۡمَنَةِ",
+          "Arti_kata_in": "kanan",
+          "Arti_kata_en": "(of) the right hand",
+          "Text_latin  ": "al-maymanati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 19,
+      "Ayat_arabic ": "وَالَّذِيْنَ كَفَرُوْا بِاٰيٰتِنَا هُمْ اَصْحٰبُ الْمَشْـَٔمَةِۗ",
+      "Ayat_latin": "wallazina kafaru bi'ayatina hum as-habul-masy'amah",
+      "Terjemah_in": "Adapun orang-orang yang kufur pada ayat-ayat Kami, merekalah golongan kiri.",
+      "Terjemah_en": "But as for those who defy Our revelations—these are the people of misery.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلَّذِينَ",
+          "Arti_kata_in": "dan orang-orang yang",
+          "Arti_kata_en": "But those who",
+          "Text_latin  ": "wa-alladhina"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كَفَرُواْ",
+          "Arti_kata_in": "kafir/ingkar",
+          "Arti_kata_en": "disbelieve",
+          "Text_latin  ": "kafaru"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بَِٔايَٰتِنَا",
+          "Arti_kata_in": "dengan ayat-ayat Kami",
+          "Arti_kata_en": "in Our Verses",
+          "Text_latin  ": "biayatina"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "هُمۡ",
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_latin  ": "hum"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَصۡحَٰبُ",
+          "Arti_kata_in": "golongan",
+          "Arti_kata_en": "(are the) companions",
+          "Text_latin  ": "ashabu"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "ٱلۡمَشَۡٔمَةِ",
+          "Arti_kata_in": "kiri",
+          "Arti_kata_en": "(of) the left hand",
+          "Text_latin  ": "al-mashamati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 20,
+      "Ayat_arabic ": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ ࣖ",
+      "Ayat_latin": "'alaihim narum mu'sadah",
+      "Terjemah_in": "Mereka berada dalam neraka yang ditutup rapat.",
+      "Terjemah_en": "Upon them is a padlocked Fire.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "atas/untuk mereka",
+          "Arti_kata_en": "Over them",
+          "Text_latin  ": "alayhim"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَارٞ",
+          "Arti_kata_in": "api/neraka",
+          "Arti_kata_en": "(will be the) Fire",
+          "Text_latin  ": "narun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مُّؤۡصَدَةُۢ",
+          "Arti_kata_in": "tertutup rapat",
+          "Arti_kata_en": "closed in",
+          "Text_latin  ": "mu'sadatun"
+        }
+      ]
+    }
+  ]
+}

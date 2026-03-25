@@ -1,0 +1,737 @@
+{
+  "Nomor_surat": 82,
+  "Nama_surat": "Al-Infithar",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اِذَا السَّمَاۤءُ انْفَطَرَتْۙ",
+      "Ayat_latin": "izas-sama'unfatarat",
+      "Terjemah_in": "Apabila langit terbelah,",
+      "Terjemah_en": "When the sky breaks apart.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "When",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلسَّمَآءُ",
+          "Arti_kata_in": "langit",
+          "Arti_kata_en": "the sky",
+          "Text_latin  ": "as-samau"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱنفَطَرَتۡ",
+          "Arti_kata_in": "terbelah",
+          "Arti_kata_en": "(is) cleft asunder",
+          "Text_latin  ": "infatarat"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَاِذَا الْكَوَاكِبُ انْتَثَرَتْۙ",
+      "Ayat_latin": "wa izal-kawakibuntasarat",
+      "Terjemah_in": "apabila bintang-bintang jatuh berserakan,",
+      "Terjemah_en": "When the planets are scattered.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِذَا",
+          "Arti_kata_in": "dan apabila",
+          "Arti_kata_en": "And when",
+          "Text_latin  ": "wa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡكَوَاكِبُ",
+          "Arti_kata_in": "bintang-bintang",
+          "Arti_kata_en": "the stars",
+          "Text_latin  ": "al-kawakibu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱنتَثَرَتۡ",
+          "Arti_kata_in": "jatuh bertaburan",
+          "Arti_kata_en": "scatter",
+          "Text_latin  ": "intatharat"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+      "Ayat_latin": "wa izal-biharu fujjirat",
+      "Terjemah_in": "apabila lautan diluapkan,",
+      "Terjemah_en": "When the oceans are exploded.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِذَا",
+          "Arti_kata_in": "dan apabila",
+          "Arti_kata_en": "And when",
+          "Text_latin  ": "wa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡبِحَارُ",
+          "Arti_kata_in": "lautan",
+          "Arti_kata_en": "the seas",
+          "Text_latin  ": "al-biharu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فُجِّرَتۡ",
+          "Arti_kata_in": "dijadikan meluap",
+          "Arti_kata_en": "are made to gush forth",
+          "Text_latin  ": "fujjirat"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَاِذَا الْقُبُوْرُ بُعْثِرَتْۙ",
+      "Ayat_latin": "wa izal-quburu bu'sirat",
+      "Terjemah_in": "dan apabila kuburan-kuburan dibongkar,",
+      "Terjemah_en": "When the tombs are strewn around.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِذَا",
+          "Arti_kata_in": "dan apabila",
+          "Arti_kata_en": "And when",
+          "Text_latin  ": "wa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡقُبُورُ",
+          "Arti_kata_in": "kuburan-kuburan",
+          "Arti_kata_en": "the graves",
+          "Text_latin  ": "al-quburu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بُعۡثِرَتۡ",
+          "Arti_kata_in": "di bongkar",
+          "Arti_kata_en": "are overturned",
+          "Text_latin  ": "bu'thirat"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَاَخَّرَتْۗ",
+      "Ayat_latin": "'alimat nafsum ma qaddamat wa akhkharat",
+      "Terjemah_in": "setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(-nya).",
+      "Terjemah_en": "Each soul will know what it has advanced, and what it has deferred.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "عَلِمَتۡ",
+          "Arti_kata_in": "mengetahui",
+          "Arti_kata_en": "Will know",
+          "Text_latin  ": "alimat"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَفۡسٞ",
+          "Arti_kata_in": "jiwa",
+          "Arti_kata_en": "a soul",
+          "Text_latin  ": "nafsun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَّا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "قَدَّمَتۡ",
+          "Arti_kata_in": "diusahakan",
+          "Arti_kata_en": "it has sent forth",
+          "Text_latin  ": "qaddamat"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "وَأَخَّرَتۡ",
+          "Arti_kata_in": "dan ditinggalkan",
+          "Arti_kata_en": "and left behind",
+          "Text_latin  ": "wa-akharat"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "يٰٓاَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيْمِۙ",
+      "Ayat_latin": "ya ayyuhal-insanu ma garraka birabbikal-karim",
+      "Terjemah_in": "Wahai manusia, apakah yang telah memperdayakanmu (berbuat durhaka) terhadap Tuhanmu Yang Maha Mulia,",
+      "Terjemah_en": "O man! What deluded you concerning your Lord, the Most Generous?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَٰٓأَيُّهَا",
+          "Arti_kata_in": "wahai",
+          "Arti_kata_en": "O",
+          "Text_latin  ": "yaayyuha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡإِنسَٰنُ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "man!",
+          "Text_latin  ": "al-insanu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "What",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "غَرَّكَ",
+          "Arti_kata_in": "yang menipu kamu",
+          "Arti_kata_en": "has deceived you",
+          "Text_latin  ": "gharraka"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "بِرَبِّكَ",
+          "Arti_kata_in": "terhadap Tuhanmu",
+          "Arti_kata_en": "concerning your Lord",
+          "Text_latin  ": "birabbika"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "ٱلۡكَرِيمِ",
+          "Arti_kata_in": "Mulia/Pemurah",
+          "Arti_kata_en": "the Most Noble",
+          "Text_latin  ": "al-karimi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "الَّذِيْ خَلَقَكَ فَسَوّٰىكَ فَعَدَلَكَۙ",
+      "Ayat_latin": "allazi khalaqaka fa sawwaka fa 'adalak",
+      "Terjemah_in": "yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)-mu seimbang?",
+      "Terjemah_en": "He Who created you, and formed you, and proportioned you?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلَّذِي",
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "Who",
+          "Text_latin  ": "alladhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "خَلَقَكَ",
+          "Arti_kata_in": "telah menciptakan kamu",
+          "Arti_kata_en": "created you",
+          "Text_latin  ": "khalaqaka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَسَوَّىٰكَ",
+          "Arti_kata_in": "lalu Dia menyempurnakan kamu",
+          "Arti_kata_en": "then fashioned you",
+          "Text_latin  ": "fasawwaka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فَعَدَلَكَ",
+          "Arti_kata_in": "lalu Dia menjadikan kamu seimbang",
+          "Arti_kata_en": "then balanced you",
+          "Text_latin  ": "fa'adalaka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "فِيْٓ اَيِّ صُوْرَةٍ مَّا شَاۤءَ رَكَّبَكَۗ",
+      "Ayat_latin": "fi ayyi suratim ma sya'a rakkabak",
+      "Terjemah_in": "Dalam bentuk apa saja yang dikehendaki, Dia menyusun (tubuh)-mu.",
+      "Terjemah_en": "In whatever shape He willed, He assembled you.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فِيٓ",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "In",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَيِّ",
+          "Arti_kata_in": "apa saja",
+          "Arti_kata_en": "whatever",
+          "Text_latin  ": "ayyi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "صُورَةٖ",
+          "Arti_kata_in": "gambar/bentuk",
+          "Arti_kata_en": "form",
+          "Text_latin  ": "suratin"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَّا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "that",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "شَآءَ",
+          "Arti_kata_in": "yang Dia kehendaki",
+          "Arti_kata_en": "He willed",
+          "Text_latin  ": "shaa"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "رَكَّبَكَ",
+          "Arti_kata_in": "Dia menyusunmu",
+          "Arti_kata_en": "He assembled you",
+          "Text_latin  ": "rakkabaka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "كَلَّا بَلْ تُكَذِّبُوْنَ بِالدِّيْنِۙ",
+      "Ayat_latin": "kalla bal tukazzibuna bid-din",
+      "Terjemah_in": "Jangan sekali-kali begitu! Bahkan, kamu mendustakan hari Pembalasan.",
+      "Terjemah_en": "But you reject the religion.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "كَلَّا",
+          "Arti_kata_in": "sekali-kali jangan",
+          "Arti_kata_en": "Nay!",
+          "Text_latin  ": "kalla"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بَلۡ",
+          "Arti_kata_in": "tetap/bahkan",
+          "Arti_kata_en": "But",
+          "Text_latin  ": "bal"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تُكَذِّبُونَ",
+          "Arti_kata_in": "kamu mendustakan",
+          "Arti_kata_en": "you deny",
+          "Text_latin  ": "tukadhibuna"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "بِٱلدِّينِ",
+          "Arti_kata_in": "pada hari pembalasan",
+          "Arti_kata_en": "the Judgment",
+          "Text_latin  ": "bil-dini"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَاِنَّ عَلَيْكُمْ لَحٰفِظِيْنَۙ",
+      "Ayat_latin": "wa inna 'alaikum lahafizin",
+      "Terjemah_in": "Sesungguhnya bagi kamu ada (malaikat-malaikat) pengawas",
+      "Terjemah_en": "Though over you are watchers.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِنَّ",
+          "Arti_kata_in": "dan sesungguhnya",
+          "Arti_kata_en": "And indeed",
+          "Text_latin  ": "wa-inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَلَيۡكُمۡ",
+          "Arti_kata_in": "atas kalian",
+          "Arti_kata_en": "over you",
+          "Text_latin  ": "alaykum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَحَٰفِظِينَ",
+          "Arti_kata_in": "sungguh ada penjaga",
+          "Arti_kata_en": "(are) surely guardians",
+          "Text_latin  ": "lahafizina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "كِرَامًا كٰتِبِيْنَۙ",
+      "Ayat_latin": "kiramang katibin",
+      "Terjemah_in": "yang mulia (di sisi Allah) dan mencatat (amal perbuatanmu).",
+      "Terjemah_en": "Honest recorders.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "كِرَامٗا",
+          "Arti_kata_in": "yang mulia",
+          "Arti_kata_en": "Noble",
+          "Text_latin  ": "kiraman"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كَٰتِبِينَ",
+          "Arti_kata_in": "yang mencatat",
+          "Arti_kata_en": "recording",
+          "Text_latin  ": "katibina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 12,
+      "Ayat_arabic ": "يَعْلَمُوْنَ مَا تَفْعَلُوْنَ",
+      "Ayat_latin": "ya'lamuna ma taf'alun",
+      "Terjemah_in": "Mereka mengetahui apa yang kamu kerjakan.",
+      "Terjemah_en": "They know everything you do.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَعۡلَمُونَ",
+          "Arti_kata_in": "mereka mengetahui",
+          "Arti_kata_en": "They know",
+          "Text_latin  ": "ya'lamuna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "whatever",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تَفۡعَلُونَ",
+          "Arti_kata_in": "kamu kerjakan",
+          "Arti_kata_en": "you do",
+          "Text_latin  ": "taf 'aluna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 13,
+      "Ayat_arabic ": "اِنَّ الْاَبْرَارَ لَفِيْ نَعِيْمٍۙ",
+      "Ayat_latin": "innal-abrara lafi na'im",
+      "Terjemah_in": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan.",
+      "Terjemah_en": "The virtuous will be in bliss.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡأَبۡرَارَ",
+          "Arti_kata_in": "orang-orang yang baik",
+          "Arti_kata_en": "the righteous",
+          "Text_latin  ": "al-abrara"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَفِي",
+          "Arti_kata_in": "benar-benar dalam",
+          "Arti_kata_en": "(will be) surely in",
+          "Text_latin  ": "lafi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "نَعِيمٖ",
+          "Arti_kata_in": "kesenangan/kenikmatan",
+          "Arti_kata_en": "bliss",
+          "Text_latin  ": "na'imin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 14,
+      "Ayat_arabic ": "وَّاِنَّ الْفُجَّارَ لَفِيْ جَحِيْمٍ",
+      "Ayat_latin": "wa innal-fujjara lafi jahim",
+      "Terjemah_in": "Sesungguhnya orang-orang yang durhaka benar-benar berada dalam (neraka) Jahim.",
+      "Terjemah_en": "While the wicked will be in Hell.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِنَّ",
+          "Arti_kata_in": "dan sesungguhnya",
+          "Arti_kata_en": "And indeed",
+          "Text_latin  ": "wa-inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡفُجَّارَ",
+          "Arti_kata_in": "orang-orang durhaka",
+          "Arti_kata_en": "the wicked",
+          "Text_latin  ": "al-fujara"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَفِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(will be) surely in",
+          "Text_latin  ": "lafi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "جَحِيمٖ",
+          "Arti_kata_in": "neraka",
+          "Arti_kata_en": "Hellfire",
+          "Text_latin  ": "jahimin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 15,
+      "Ayat_arabic ": "يَصْلَوْنَهَا يَوْمَ الدِّيْنِ",
+      "Ayat_latin": "yaslaunaha yaumad-din",
+      "Terjemah_in": "Mereka memasukinya pada hari Pembalasan.",
+      "Terjemah_en": "They will enter it on the Day of Justice.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَصۡلَوۡنَهَا",
+          "Arti_kata_in": "mereka masuk kedalamnya",
+          "Arti_kata_en": "They will burn (in) it",
+          "Text_latin  ": "yaslawnaha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَوۡمَ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(on the) Day",
+          "Text_latin  ": "yawma"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلدِّينِ",
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "(of) the Judgment",
+          "Text_latin  ": "ad-dini"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 16,
+      "Ayat_arabic ": "وَمَا هُمْ عَنْهَا بِغَاۤىِٕبِيْنَۗ",
+      "Ayat_latin": "wa ma hum 'an-ha biga'ibin",
+      "Terjemah_in": "Mereka tidak mungkin keluar dari (neraka) itu.",
+      "Terjemah_en": "And they will not be absent from it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan tidaklah",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "هُمۡ",
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_latin  ": "hum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَنۡهَا",
+          "Arti_kata_in": "dari padanya",
+          "Arti_kata_en": "from it",
+          "Text_latin  ": "anha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "بِغَآئِبِينَ",
+          "Arti_kata_in": "dengan gaib/meloloskan diri",
+          "Arti_kata_en": "(will be) absent",
+          "Text_latin  ": "bighaibina"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 17,
+      "Ayat_arabic ": "وَمَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۙ",
+      "Ayat_latin": "wa ma adraka ma yaumud-din",
+      "Terjemah_in": "Tahukah engkau apakah hari Pembalasan itu?",
+      "Terjemah_en": "But what will convey to you what the Day of Justice is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "dan apakah",
+          "Arti_kata_en": "And what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu melihat",
+          "Arti_kata_en": "can make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَوۡمُ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(is the) Day",
+          "Text_latin  ": "yawmu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلدِّينِ",
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "(of) the Judgment",
+          "Text_latin  ": "ad-dini"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 18,
+      "Ayat_arabic ": "ثُمَّ مَآ اَدْرٰىكَ مَا يَوْمُ الدِّيْنِۗ",
+      "Ayat_latin": "summa ma adraka ma yaumud-din",
+      "Terjemah_in": "Kemudian, tahukah engkau apakah hari Pembalasan itu?",
+      "Terjemah_en": "Then again, what will convey to you what the Day of Justice is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ثُمَّ",
+          "Arti_kata_in": "kemudian",
+          "Arti_kata_en": "Then",
+          "Text_latin  ": "thumma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَآ",
+          "Arti_kata_in": "apakah",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu melihat",
+          "Arti_kata_en": "can make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "يَوۡمُ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(is the) Day",
+          "Text_latin  ": "yawmu"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "ٱلدِّينِ",
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "(of) the Judgment",
+          "Text_latin  ": "ad-dini"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 19,
+      "Ayat_arabic ": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۗوَالْاَمْرُ يَوْمَىِٕذٍ لِّلّٰهِ ࣖ",
+      "Ayat_latin": "yauma la tamliku nafsul linafsin syai'a, wal-amru yauma'izil lillah",
+      "Terjemah_in": "(Itulah) hari (ketika) seseorang tidak berdaya (menolong) orang lain sedikit pun. Segala urusan pada hari itu adalah milik Allah.",
+      "Terjemah_en": "The Day when no soul will avail another soul anything; and the decision on that Day is God’s.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَوۡمَ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(The) Day",
+          "Text_latin  ": "yawma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لَا",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "not",
+          "Text_latin  ": "la"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تَمۡلِكُ",
+          "Arti_kata_in": "berdaya/berkuasa",
+          "Arti_kata_en": "will have power",
+          "Text_latin  ": "tamliku"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "نَفۡسٞ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "a soul",
+          "Text_latin  ": "nafsun"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "لِّنَفۡسٖ",
+          "Arti_kata_in": "bagi diri/seseorang",
+          "Arti_kata_en": "for a soul",
+          "Text_latin  ": "linafsin"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "شَيۡٔٗاۖ",
+          "Arti_kata_in": "sesuatu/sedikitpun",
+          "Arti_kata_en": "anything",
+          "Text_latin  ": "shayan"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "وَٱلۡأَمۡرُ",
+          "Arti_kata_in": "dan urusan",
+          "Arti_kata_en": "and the Command",
+          "Text_latin  ": "wal-amru"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "يَوۡمَئِذٖ",
+          "Arti_kata_in": "pada hari itu",
+          "Arti_kata_en": "that Day",
+          "Text_latin  ": "yawma-idhin"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "لِّلَّهِ",
+          "Arti_kata_in": "bagi Allah",
+          "Arti_kata_en": "(will be) with Allah",
+          "Text_latin  ": "lillahi"
+        }
+      ]
+    }
+  ]
+}

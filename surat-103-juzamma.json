@@ -1,0 +1,131 @@
+{
+  "Nomor_surat": 103,
+  "Nama_surat": "Al-'Ashr",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "وَالْعَصْرِۙ",
+      "Ayat_latin": "wal-'asr",
+      "Terjemah_in": "Demi masa,",
+      "Terjemah_en": "By time.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلۡعَصۡرِ",
+          "Arti_kata_in": "demi waktu",
+          "Arti_kata_en": "By the time",
+          "Text_latin  ": "wal-'asri"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+      "Ayat_latin": "innal-insana lafi khusr",
+      "Terjemah_in": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+      "Terjemah_en": "The human being is in loss.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "mankind",
+          "Text_latin  ": "al-insana"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَفِي",
+          "Arti_kata_in": "benar-benar dalam",
+          "Arti_kata_en": "(is) surely in",
+          "Text_latin  ": "lafi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "خُسۡرٍ",
+          "Arti_kata_in": "kerugian",
+          "Arti_kata_en": "loss",
+          "Text_latin  ": "khus'rin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+      "Ayat_latin": "illallazina amanu wa 'amilus-salihati wa tawasau bil-haqqi wa tawasau bis-sabr",
+      "Terjemah_in": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.",
+      "Terjemah_en": "Except those who believe, and do good works, and encourage truth, and recommend patience.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِلَّا",
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "Except",
+          "Text_latin  ": "illa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ءَامَنُواْ",
+          "Arti_kata_in": "beriman",
+          "Arti_kata_en": "believe",
+          "Text_latin  ": "amanu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَعَمِلُواْ",
+          "Arti_kata_in": "dan mereka berbuat/beramal",
+          "Arti_kata_en": "and do",
+          "Text_latin  ": "wa'amilu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلصَّٰلِحَٰتِ",
+          "Arti_kata_in": "kebajikan/sholeh",
+          "Arti_kata_en": "righteous deeds",
+          "Text_latin  ": "as-salihati"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata_in": "dan mereka saling berwasiat/menasehati",
+          "Arti_kata_en": "and enjoin each other",
+          "Text_latin  ": "watawasaw"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "بِٱلۡحَقِّ",
+          "Arti_kata_in": "dengan kebenaran",
+          "Arti_kata_en": "to the truth",
+          "Text_latin  ": "bil-haqi"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "وَتَوَاصَوۡاْ",
+          "Arti_kata_in": "dan mereka saling berwasiat/menasehati",
+          "Arti_kata_en": "and enjoin each other",
+          "Text_latin  ": "watawasaw"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "بِٱلصَّبۡرِ",
+          "Arti_kata_in": "dengan kesabaran",
+          "Arti_kata_en": "to [the] patience",
+          "Text_latin  ": "bil-sabri"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "Nomor_surat": 93,
+  "Nama_surat": "Adh-Dhuha",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "وَالضُّحٰىۙ",
+      "Ayat_latin": "wad-duha",
+      "Terjemah_in": "Demi waktu duha",
+      "Terjemah_en": "By the morning light.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلضُّحَىٰ",
+          "Arti_kata_in": "demi matahari naik",
+          "Arti_kata_en": "By the morning brightness",
+          "Text_latin  ": "wad-duha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَالَّيْلِ اِذَا سَجٰىۙ",
+      "Ayat_latin": "wal-laili iza saja",
+      "Terjemah_in": "dan demi waktu malam apabila telah sunyi,",
+      "Terjemah_en": "And the night as it settles.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلَّيۡلِ",
+          "Arti_kata_in": "dan malam",
+          "Arti_kata_en": "And the night",
+          "Text_latin  ": "wa-al-layli"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "سَجَىٰ",
+          "Arti_kata_in": "telah sunyi",
+          "Arti_kata_en": "it covers with darkness",
+          "Text_latin  ": "saja"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۗ",
+      "Ayat_latin": "ma wadda'aka rabbuka wa ma qala",
+      "Terjemah_in": "Tuhanmu (Nabi Muhammad) tidak meninggalkan dan tidak (pula) membencimu.",
+      "Terjemah_en": "Your Lord did not abandon you, nor did He forget.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَدَّعَكَ",
+          "Arti_kata_in": "meninggalkan kamu",
+          "Arti_kata_en": "has forsaken you",
+          "Text_latin  ": "wadda'aka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "رَبُّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_latin  ": "rabbuka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "and not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "قَلَىٰ",
+          "Arti_kata_in": "marah/benci",
+          "Arti_kata_en": "He is displeased",
+          "Text_latin  ": "qala"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَلَلْاٰخِرَةُ خَيْرٌ لَّكَ مِنَ الْاُوْلٰىۗ",
+      "Ayat_latin": "wa lal-akhiratu khairul laka minal-ula",
+      "Terjemah_in": "Sungguh, akhirat itu lebih baik bagimu daripada yang permulaan (dunia).",
+      "Terjemah_en": "The Hereafter is better for you than the First.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَلۡأٓخِرَةُ",
+          "Arti_kata_in": "dan sungguh kesudahan/akhirat",
+          "Arti_kata_en": "And surely the Hereafter",
+          "Text_latin  ": "walalakhiratu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "خَيۡرٞ",
+          "Arti_kata_in": "lebih baik",
+          "Arti_kata_en": "(is) better",
+          "Text_latin  ": "khayrun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَّكَ",
+          "Arti_kata_in": "bagimu",
+          "Arti_kata_en": "for you",
+          "Text_latin  ": "laka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مِنَ",
+          "Arti_kata_in": "dari pada",
+          "Arti_kata_en": "than",
+          "Text_latin  ": "mina"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡأُولَىٰ",
+          "Arti_kata_in": "permulaan/dunia",
+          "Arti_kata_en": "the first",
+          "Text_latin  ": "al-ula"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "وَلَسَوْفَ يُعْطِيْكَ رَبُّكَ فَتَرْضٰىۗ",
+      "Ayat_latin": "wa lasaufa yu'tika rabbuka fa tarda",
+      "Terjemah_in": "Sungguh, kelak (di akhirat nanti) Tuhanmu pasti memberikan karunia-Nya kepadamu sehingga engkau rida.",
+      "Terjemah_en": "And your Lord will give you, and you will be satisfied.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَسَوۡفَ",
+          "Arti_kata_in": "dan sungguh kelak",
+          "Arti_kata_en": "And soon",
+          "Text_latin  ": "walasawfa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يُعۡطِيكَ",
+          "Arti_kata_in": "memberikan kepadamu",
+          "Arti_kata_en": "will give you",
+          "Text_latin  ": "yu'tika"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "رَبُّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_latin  ": "rabbuka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فَتَرۡضَىٰٓ",
+          "Arti_kata_in": "maka kamu jadi puas",
+          "Arti_kata_en": "then you will be satisfied",
+          "Text_latin  ": "fatarda"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "اَلَمْ يَجِدْكَ يَتِيْمًا فَاٰوٰىۖ",
+      "Ayat_latin": "a lam yajidka yatiman fa awa",
+      "Terjemah_in": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(-mu);",
+      "Terjemah_en": "Did He not find you orphaned, and sheltered you?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَلَمۡ",
+          "Arti_kata_in": "apakah tidak/bukanlah",
+          "Arti_kata_en": "Did not",
+          "Text_latin  ": "alam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَجِدۡكَ",
+          "Arti_kata_in": "Dia mendapatimu",
+          "Arti_kata_en": "He find you",
+          "Text_latin  ": "yajid'ka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "يَتِيمٗا",
+          "Arti_kata_in": "seorang yatim",
+          "Arti_kata_en": "an orphan",
+          "Text_latin  ": "yatiman"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فََٔاوَىٰ",
+          "Arti_kata_in": "lalu Dia melindungi",
+          "Arti_kata_en": "and gave shelter",
+          "Text_latin  ": "faawa"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "وَوَجَدَكَ ضَاۤلًّا فَهَدٰىۖ",
+      "Ayat_latin": "wa wajadaka dallan fa hada",
+      "Terjemah_in": "mendapatimu sebagai seorang yang tidak tahu (tentang syariat), lalu Dia memberimu petunjuk (wahyu);",
+      "Terjemah_en": "And found you wandering, and guided you.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَوَجَدَكَ",
+          "Arti_kata_in": "dan Dia mendapatimu",
+          "Arti_kata_en": "And He found you",
+          "Text_latin  ": "wawajadaka"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ضَآلّٗا",
+          "Arti_kata_in": "sesat/bingung",
+          "Arti_kata_en": "lost",
+          "Text_latin  ": "dallan"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَهَدَىٰ",
+          "Arti_kata_in": "lalu Dia memberi petunjuk",
+          "Arti_kata_en": "so He guided",
+          "Text_latin  ": "fahada"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَوَجَدَكَ عَاۤىِٕلًا فَاَغْنٰىۗ",
+      "Ayat_latin": "wa wajadaka 'a'ilan fa agna",
+      "Terjemah_in": "dan mendapatimu sebagai seorang yang fakir, lalu Dia memberimu kecukupan?",
+      "Terjemah_en": "And found you in need, and enriched you?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَوَجَدَكَ",
+          "Arti_kata_in": "dan Dia mendapatimu",
+          "Arti_kata_en": "And He found you",
+          "Text_latin  ": "wawajadaka"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَآئِلٗا",
+          "Arti_kata_in": "miskin/kekurangan",
+          "Arti_kata_en": "in need",
+          "Text_latin  ": "ailan"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَأَغۡنَىٰ",
+          "Arti_kata_in": "lalu Dia memberi kecukupan",
+          "Arti_kata_en": "so He made self-sufficient",
+          "Text_latin  ": "fa-aghna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "فَاَمَّا الْيَتِيْمَ فَلَا تَقْهَرْۗ",
+      "Ayat_latin": "fa ammal-yatima fa la taq-har",
+      "Terjemah_in": "Terhadap anak yatim, janganlah engkau berlaku sewenang-wenang.",
+      "Terjemah_en": "Therefore, do not mistreat the orphan.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَمَّا",
+          "Arti_kata_in": "maka adapun",
+          "Arti_kata_en": "So as for",
+          "Text_latin  ": "fa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡيَتِيمَ",
+          "Arti_kata_in": "anak yatim",
+          "Arti_kata_en": "the orphan",
+          "Text_latin  ": "al-yatima"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَلَا",
+          "Arti_kata_in": "maka jangan",
+          "Arti_kata_en": "then (do) not",
+          "Text_latin  ": "fala"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "تَقۡهَرۡ",
+          "Arti_kata_in": "kamu paksa/bersikap bengis",
+          "Arti_kata_en": "oppress",
+          "Text_latin  ": "taqhar"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَاَمَّا السَّاۤىِٕلَ فَلَا تَنْهَرْ",
+      "Ayat_latin": "wa ammas-sa'ila fa la tan-har",
+      "Terjemah_in": "Terhadap orang yang meminta-minta, janganlah engkau menghardik.",
+      "Terjemah_en": "Nor rebuff the seeker.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَمَّا",
+          "Arti_kata_in": "dan adapun",
+          "Arti_kata_en": "And as for",
+          "Text_latin  ": "wa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلسَّآئِلَ",
+          "Arti_kata_in": "orang minta-minta",
+          "Arti_kata_en": "him who asks",
+          "Text_latin  ": "as-saila"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَلَا",
+          "Arti_kata_in": "maka jangan",
+          "Arti_kata_en": "then (do) not",
+          "Text_latin  ": "fala"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "تَنۡهَرۡ",
+          "Arti_kata_in": "kamu menghardik",
+          "Arti_kata_en": "repel",
+          "Text_latin  ": "tanhar"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ࣖ",
+      "Ayat_latin": "wa amma bini'mati rabbika fa haddis",
+      "Terjemah_in": "Terhadap nikmat Tuhanmu, nyatakanlah (dengan bersyukur).",
+      "Terjemah_en": "But proclaim the blessings of your Lord.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَمَّا",
+          "Arti_kata_in": "dan adapun",
+          "Arti_kata_en": "But as for",
+          "Text_latin  ": "wa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِنِعۡمَةِ",
+          "Arti_kata_in": "dengan/terhadap nikmat",
+          "Arti_kata_en": "(the) Favor",
+          "Text_latin  ": "bini'mati"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "رَبِّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "(of) your Lord",
+          "Text_latin  ": "rabbika"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فَحَدِّثۡ",
+          "Arti_kata_in": "maka hendaklah kamu ceritakan",
+          "Arti_kata_en": "narrate",
+          "Text_latin  ": "fahaddith"
+        }
+      ]
+    }
+  ]
+}

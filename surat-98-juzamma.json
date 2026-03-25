@@ -1,0 +1,736 @@
+{
+  "Nomor_surat": 98,
+  "Nama_surat": "Al-Bayyinah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "لَمْ يَكُنِ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ مُنْفَكِّيْنَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ",
+      "Ayat_latin": "lam yakunillazina kafaru min ahlil-kitabi wal-musyrikina munfakkina hatta ta'tiyahumul-bayyinah",
+      "Terjemah_in": "Orang-orang yang kufur dari golongan Ahlulkitab dan orang-orang musyrik tidak akan meninggalkan (kekufuran mereka) sampai datang kepada mereka bukti yang nyata,",
+      "Terjemah_en": "Those who disbelieved among the People of the Scripture, and the Polytheists, were not apart, until the Clear Evidence came to them.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَمۡ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "lam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَكُنِ",
+          "Arti_kata_in": "ada",
+          "Arti_kata_en": "were",
+          "Text_latin  ": "yakuni"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "كَفَرُواْ",
+          "Arti_kata_in": "kafir/ingkar",
+          "Arti_kata_en": "disbelieved",
+          "Text_latin  ": "kafaru"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "مِنۡ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "أَهۡلِ",
+          "Arti_kata_in": "ahli",
+          "Arti_kata_en": "(the) People",
+          "Text_latin  ": "ahli"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "ٱلۡكِتَٰبِ",
+          "Arti_kata_in": "kitab",
+          "Arti_kata_en": "of the Book",
+          "Text_latin  ": "al-kitabi"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "وَٱلۡمُشۡرِكِينَ",
+          "Arti_kata_in": "dan orang-orang musyrik",
+          "Arti_kata_en": "and the polytheists",
+          "Text_latin  ": "wal-mush'rikina"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "مُنفَكِّينَ",
+          "Arti_kata_in": "melepaskan/meninggalkan",
+          "Arti_kata_en": "to be abandoned",
+          "Text_latin  ": "munfakkina"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_arabic": "حَتَّىٰ",
+          "Arti_kata_in": "sehingga",
+          "Arti_kata_en": "until",
+          "Text_latin  ": "hatta"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_arabic": "تَأۡتِيَهُمُ",
+          "Arti_kata_in": "datang kepada mereka",
+          "Arti_kata_en": "(there) comes to them",
+          "Text_latin  ": "tatiyahumu"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_arabic": "ٱلۡبَيِّنَةُ",
+          "Arti_kata_in": "bukti nyata",
+          "Arti_kata_en": "the clear evidence",
+          "Text_latin  ": "al-bayinatu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "رَسُوْلٌ مِّنَ اللّٰهِ يَتْلُوْا صُحُفًا مُّطَهَّرَةًۙ",
+      "Ayat_latin": "rasulum minallahi yatlu suhufam mutahharah",
+      "Terjemah_in": "(yaitu) seorang Rasul dari Allah (Nabi Muhammad) yang membacakan lembaran-lembaran suci (Al-Qur’an)",
+      "Terjemah_en": "A messenger from God reciting purified scripts.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "رَسُولٞ",
+          "Arti_kata_in": "seorang rasul",
+          "Arti_kata_en": "A Messenger",
+          "Text_latin  ": "rasulun"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مِّنَ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_latin  ": "mina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_latin  ": "al-lahi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَتۡلُواْ",
+          "Arti_kata_in": "dia membacakan",
+          "Arti_kata_en": "reciting",
+          "Text_latin  ": "yatlu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "صُحُفٗا",
+          "Arti_kata_in": "lebaran-lembaran",
+          "Arti_kata_en": "pages",
+          "Text_latin  ": "suhufan"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "مُّطَهَّرَةٗ",
+          "Arti_kata_in": "suci",
+          "Arti_kata_en": "purified",
+          "Text_latin  ": "mutahharatan"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "فِيْهَا كُتُبٌ قَيِّمَةٌ  ۗ",
+      "Ayat_latin": "fiha kutubung qayyimah",
+      "Terjemah_in": "yang di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).",
+      "Terjemah_en": "In them are valuable writings.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فِيهَا",
+          "Arti_kata_in": "di dalamnya",
+          "Arti_kata_en": "Wherein",
+          "Text_latin  ": "fiha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كُتُبٞ",
+          "Arti_kata_in": "kitab-kitab",
+          "Arti_kata_en": "(are) writings",
+          "Text_latin  ": "kutubun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "قَيِّمَةٞ",
+          "Arti_kata_in": "yang lurus",
+          "Arti_kata_en": "correct",
+          "Text_latin  ": "qayyimatun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَمَا تَفَرَّقَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَتْهُمُ الْبَيِّنَةُ ۗ",
+      "Ayat_latin": "wa ma tafarraqallazina utul-kitaba illa mim ba'di ma ja'at-humul-bayyinah",
+      "Terjemah_in": "Tidaklah terpecah-belah orang-orang Ahlulkitab, melainkan setelah datang kepada mereka bukti yang nyata.",
+      "Terjemah_en": "Those who were given the Scripture did not splinter, except after the Clear Evidence came to them.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "تَفَرَّقَ",
+          "Arti_kata_in": "berpecah-belah",
+          "Arti_kata_en": "became divided",
+          "Text_latin  ": "tafarraqa"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "أُوتُواْ",
+          "Arti_kata_in": "mereka diberi",
+          "Arti_kata_en": "were given",
+          "Text_latin  ": "utu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡكِتَٰبَ",
+          "Arti_kata_in": "Al Kitab",
+          "Arti_kata_en": "the Book",
+          "Text_latin  ": "al-kitaba"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "إِلَّا",
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "until",
+          "Text_latin  ": "illa"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "مِنۢ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "بَعۡدِ",
+          "Arti_kata_in": "setelah",
+          "Arti_kata_en": "after",
+          "Text_latin  ": "ba'di"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_arabic": "جَآءَتۡهُمُ",
+          "Arti_kata_in": "datang kepada mereka",
+          "Arti_kata_en": "came (to) them",
+          "Text_latin  ": "jaathumu"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_arabic": "ٱلۡبَيِّنَةُ",
+          "Arti_kata_in": "bukti nyata",
+          "Arti_kata_en": "(of) the clear evidence",
+          "Text_latin  ": "al-bayinatu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "وَمَآ اُمِرُوْٓا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِصِيْنَ لَهُ الدِّيْنَ ەۙ حُنَفَاۤءَ وَيُقِيْمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ دِيْنُ الْقَيِّمَةِۗ",
+      "Ayat_latin": "wa ma umiru illa liya'budullaha mukhlisina lahud-dina hunafa'a wa yuqimus-salata wa yu'tuz-zakata wa zalika dinul-qayyimah",
+      "Terjemah_in": "Mereka tidak diperintah, kecuali untuk menyembah Allah dengan mengikhlaskan ketaatan kepada-Nya lagi hanif (istikamah), melaksanakan salat, dan menunaikan zakat. Itulah agama yang lurus (benar).",
+      "Terjemah_en": "They were commanded only to worship God, devoting their faith to Him alone, and to practice regular prayer, and to give alms. That is the upright religion.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أُمِرُوٓاْ",
+          "Arti_kata_in": "diperintahkan",
+          "Arti_kata_en": "they were commanded",
+          "Text_latin  ": "umiru"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "إِلَّا",
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "except",
+          "Text_latin  ": "illa"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لِيَعۡبُدُواْ",
+          "Arti_kata_in": "supaya mereka menyembah",
+          "Arti_kata_en": "to worship",
+          "Text_latin  ": "liya'budu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱللَّهَ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_latin  ": "al-laha"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "مُخۡلِصِينَ",
+          "Arti_kata_in": "mengikhlaskan/memurnikan",
+          "Arti_kata_en": "(being) sincere",
+          "Text_latin  ": "mukh'lisina"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "لَهُ",
+          "Arti_kata_in": "bagiNya",
+          "Arti_kata_en": "to Him",
+          "Text_latin  ": "lahu"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "ٱلدِّينَ",
+          "Arti_kata_in": "agama",
+          "Arti_kata_en": "(in) the religion",
+          "Text_latin  ": "ad-dina"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "حُنَفَآءَ",
+          "Arti_kata_in": "ikhlas/lurus",
+          "Arti_kata_en": "upright",
+          "Text_latin  ": "hunafaa"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_arabic": "وَيُقِيمُواْ",
+          "Arti_kata_in": "dan mereka mendirikan",
+          "Arti_kata_en": "and to establish",
+          "Text_latin  ": "wayuqimu"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_arabic": "ٱلصَّلَوٰةَ",
+          "Arti_kata_in": "sholat",
+          "Arti_kata_en": "the prayer",
+          "Text_latin  ": "as-salata"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_arabic": "وَيُؤۡتُواْ",
+          "Arti_kata_in": "dan mereka menunaikan",
+          "Arti_kata_en": "and to give",
+          "Text_latin  ": "wayu'tu"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_arabic": "ٱلزَّكَوٰةَۚ",
+          "Arti_kata_in": "zakat",
+          "Arti_kata_en": "the Zakah",
+          "Text_latin  ": "az-zakata"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_arabic": "وَذَٰلِكَ",
+          "Arti_kata_in": "dan demikian itu",
+          "Arti_kata_en": "And that",
+          "Text_latin  ": "wadhalika"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_arabic": "دِينُ",
+          "Arti_kata_in": "agama",
+          "Arti_kata_en": "(is the) religion",
+          "Text_latin  ": "dinu"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_arabic": "ٱلۡقَيِّمَةِ",
+          "Arti_kata_in": "betul/lurus",
+          "Arti_kata_en": "the correct",
+          "Text_latin  ": "al-qayimati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "اِنَّ الَّذِيْنَ كَفَرُوْا مِنْ اَهْلِ الْكِتٰبِ وَالْمُشْرِكِيْنَ فِيْ نَارِ جَهَنَّمَ خٰلِدِيْنَ فِيْهَاۗ اُولٰۤىِٕكَ هُمْ شَرُّ الْبَرِيَّةِۗ",
+      "Ayat_latin": "innallazina kafaru min ahlil-kitabi wal-musyrikina fi nari jahannama khalidina fiha, ula'ika hum syarrul-bariyyah",
+      "Terjemah_in": "Sesungguhnya orang-orang yang kufur dari golongan Ahlulkitab dan orang-orang musyrik (akan masuk) neraka Jahanam. Mereka kekal di dalamnya. Mereka itulah seburuk-buruk makhluk.",
+      "Terjemah_en": "Those who disbelieve among the People of the Scripture, and the Polytheists, will be in the Fire of Hell, where they will abide forever. These are the worst of creatures.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "كَفَرُواْ",
+          "Arti_kata_in": "kafir/ingkar",
+          "Arti_kata_en": "disbelieve",
+          "Text_latin  ": "kafaru"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مِنۡ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَهۡلِ",
+          "Arti_kata_in": "ahli",
+          "Arti_kata_en": "(the) People",
+          "Text_latin  ": "ahli"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "ٱلۡكِتَٰبِ",
+          "Arti_kata_in": "kitab",
+          "Arti_kata_en": "(of) the Book",
+          "Text_latin  ": "al-kitabi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "وَٱلۡمُشۡرِكِينَ",
+          "Arti_kata_in": "dan orang-orang musyrik",
+          "Arti_kata_en": "and the polytheists",
+          "Text_latin  ": "wal-mush'rikina"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(will be) in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "نَارِ",
+          "Arti_kata_in": "neraka",
+          "Arti_kata_en": "(the) Fire",
+          "Text_latin  ": "nari"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_arabic": "جَهَنَّمَ",
+          "Arti_kata_in": "jahanam",
+          "Arti_kata_en": "(of) Hell",
+          "Text_latin  ": "jahannama"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_arabic": "خَٰلِدِينَ",
+          "Arti_kata_in": "mereka kekal",
+          "Arti_kata_en": "abiding eternally",
+          "Text_latin  ": "khalidina"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_arabic": "فِيهَآۚ",
+          "Arti_kata_in": "di dalammnya",
+          "Arti_kata_en": "therein",
+          "Text_latin  ": "fiha"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_arabic": "أُوْلَٰٓئِكَ",
+          "Arti_kata_in": "mereka itu",
+          "Arti_kata_en": "Those",
+          "Text_latin  ": "ulaika"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_arabic": "هُمۡ",
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_latin  ": "hum"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_arabic": "شَرُّ",
+          "Arti_kata_in": "seburuk-buruk",
+          "Arti_kata_en": "(are the) worst",
+          "Text_latin  ": "sharru"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_arabic": "ٱلۡبَرِيَّةِ",
+          "Arti_kata_in": "makhluk",
+          "Arti_kata_en": "(of) the creatures",
+          "Text_latin  ": "al-bariyati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ اُولٰۤىِٕكَ هُمْ خَيْرُ الْبَرِيَّةِۗ",
+      "Ayat_latin": "innallazina amanu wa 'amilus-salihati ula'ika hum khairul-bariyyah",
+      "Terjemah_in": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, mereka itulah sebaik-baik makhluk.",
+      "Terjemah_en": "As for those who believe and lead a righteous life—these are the best of creatures.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلَّذِينَ",
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "those who",
+          "Text_latin  ": "alladhina"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ءَامَنُواْ",
+          "Arti_kata_in": "beriman",
+          "Arti_kata_en": "believe",
+          "Text_latin  ": "amanu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "وَعَمِلُواْ",
+          "Arti_kata_in": "dan mereka berbuat/beramal",
+          "Arti_kata_en": "and do",
+          "Text_latin  ": "wa'amilu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلصَّٰلِحَٰتِ",
+          "Arti_kata_in": "kebajikan/saleh",
+          "Arti_kata_en": "righteous deeds",
+          "Text_latin  ": "as-salihati"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "أُوْلَٰٓئِكَ",
+          "Arti_kata_in": "mereka itu",
+          "Arti_kata_en": "those",
+          "Text_latin  ": "ulaika"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "هُمۡ",
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_latin  ": "hum"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "خَيۡرُ",
+          "Arti_kata_in": "sebaik-baik",
+          "Arti_kata_en": "(are the) best",
+          "Text_latin  ": "khayru"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "ٱلۡبَرِيَّةِ",
+          "Arti_kata_in": "makhluk",
+          "Arti_kata_en": "(of) the creatures",
+          "Text_latin  ": "al-bariyati"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "جَزَاۤؤُهُمْ عِنْدَ رَبِّهِمْ جَنّٰتُ عَدْنٍ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَآ اَبَدًا ۗرَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوْا عَنْهُ ۗ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهٗ ࣖ",
+      "Ayat_latin": "jaza'uhum 'inda rabbihim jannatu 'adnin tajri min tahtihal-an-haru khalidina fiha abada, radiyallahu 'an-hum wa radu 'an-h, zalika liman khasyiya rabbah",
+      "Terjemah_in": "Balasan mereka di sisi Tuhannya adalah surga ‘Adn yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya selama-lamanya. Allah rida terhadap mereka dan mereka pun rida kepada-Nya. Itu adalah (balasan) bagi orang yang takut kepada Tuhannya.",
+      "Terjemah_en": "Their reward is with their Lord: Gardens of Eternity beneath which rivers flow, where they will abide forever. God is pleased with them, and they are pleased with Him. That is for whoever fears His Lord.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "جَزَآؤُهُمۡ",
+          "Arti_kata_in": "balasan mereka",
+          "Arti_kata_en": "Their reward",
+          "Text_latin  ": "jazauhum"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عِندَ",
+          "Arti_kata_in": "disisi",
+          "Arti_kata_en": "(is) with",
+          "Text_latin  ": "inda"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "رَبِّهِمۡ",
+          "Arti_kata_in": "Tuhan mereka",
+          "Arti_kata_en": "their Lord",
+          "Text_latin  ": "rabbihim"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "جَنَّٰتُ",
+          "Arti_kata_in": "surga",
+          "Arti_kata_en": "Gardens",
+          "Text_latin  ": "jannatu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "عَدۡنٖ",
+          "Arti_kata_in": "'Adn",
+          "Arti_kata_en": "(of) Eternity",
+          "Text_latin  ": "adnin"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "تَجۡرِي",
+          "Arti_kata_in": "mengalir",
+          "Arti_kata_en": "flow",
+          "Text_latin  ": "tajri"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "تَحۡتِهَا",
+          "Arti_kata_in": "bawah",
+          "Arti_kata_en": "underneath them",
+          "Text_latin  ": "tahtiha"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "ٱلۡأَنۡهَٰرُ",
+          "Arti_kata_in": "sungai",
+          "Arti_kata_en": "the rivers",
+          "Text_latin  ": "al-anharu"
+        },
+        {
+          "Nomor_kata": 10,
+          "Kata_arabic": "خَٰلِدِينَ",
+          "Arti_kata_in": "mereka kekal",
+          "Arti_kata_en": "will abide",
+          "Text_latin  ": "khalidina"
+        },
+        {
+          "Nomor_kata": 11,
+          "Kata_arabic": "فِيهَآ",
+          "Arti_kata_in": "didalamnya",
+          "Arti_kata_en": "therein",
+          "Text_latin  ": "fiha"
+        },
+        {
+          "Nomor_kata": 12,
+          "Kata_arabic": "أَبَدٗاۖ",
+          "Arti_kata_in": "selamanya",
+          "Arti_kata_en": "forever",
+          "Text_latin  ": "abadan"
+        },
+        {
+          "Nomor_kata": 13,
+          "Kata_arabic": "رَّضِيَ",
+          "Arti_kata_in": "suka/rida/puas",
+          "Arti_kata_en": "(will be) pleased",
+          "Text_latin  ": "radiya"
+        },
+        {
+          "Nomor_kata": 14,
+          "Kata_arabic": "ٱللَّهُ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_latin  ": "al-lahu"
+        },
+        {
+          "Nomor_kata": 15,
+          "Kata_arabic": "عَنۡهُمۡ",
+          "Arti_kata_in": "terhadap mereka",
+          "Arti_kata_en": "with them",
+          "Text_latin  ": "anhum"
+        },
+        {
+          "Nomor_kata": 16,
+          "Kata_arabic": "وَرَضُواْ",
+          "Arti_kata_in": "dan mereka suka/rida/puas",
+          "Arti_kata_en": "and they (will be) pleased",
+          "Text_latin  ": "waradu"
+        },
+        {
+          "Nomor_kata": 17,
+          "Kata_arabic": "عَنۡهُۚ",
+          "Arti_kata_in": "dari pada-Nya/kepada-Nya",
+          "Arti_kata_en": "with Him",
+          "Text_latin  ": "anhu"
+        },
+        {
+          "Nomor_kata": 18,
+          "Kata_arabic": "ذَٰلِكَ",
+          "Arti_kata_in": "demikian itu",
+          "Arti_kata_en": "That",
+          "Text_latin  ": "dhalika"
+        },
+        {
+          "Nomor_kata": 19,
+          "Kata_arabic": "لِمَنۡ",
+          "Arti_kata_in": "bagi orang",
+          "Arti_kata_en": "(is) for whoever",
+          "Text_latin  ": "liman"
+        },
+        {
+          "Nomor_kata": 20,
+          "Kata_arabic": "خَشِيَ",
+          "Arti_kata_in": "ia takut",
+          "Arti_kata_en": "feared",
+          "Text_latin  ": "khashiya"
+        },
+        {
+          "Nomor_kata": 21,
+          "Kata_arabic": "رَبَّهُۥ",
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "his Lord",
+          "Text_latin  ": "rabbahu"
+        }
+      ]
+    }
+  ]
+}

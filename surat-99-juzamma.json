@@ -1,0 +1,330 @@
+{
+  "Nomor_surat": 99,
+  "Nama_surat": "Al-Zalzalah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+      "Ayat_latin": "iza zulzilatil-ardu zilzalaha",
+      "Terjemah_in": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
+      "Terjemah_en": "When the earth is shaken with its quake.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "When",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "زُلۡزِلَتِ",
+          "Arti_kata_in": "digoncangkan",
+          "Arti_kata_en": "is shaken",
+          "Text_latin  ": "zul'zilati"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡأَرۡضُ",
+          "Arti_kata_in": "bumi",
+          "Arti_kata_en": "the earth",
+          "Text_latin  ": "al-ardu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "زِلۡزَالَهَا",
+          "Arti_kata_in": "goncangan",
+          "Arti_kata_en": "with its earthquake",
+          "Text_latin  ": "zil'zalaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+      "Ayat_latin": "wa akhrajatil-ardu asqalaha",
+      "Terjemah_in": "bumi mengeluarkan isi perutnya,",
+      "Terjemah_en": "And the earth brings out its loads.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَخۡرَجَتِ",
+          "Arti_kata_in": "dan mengeluarkan",
+          "Arti_kata_en": "And brings forth",
+          "Text_latin  ": "wa-akhrajati"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡأَرۡضُ",
+          "Arti_kata_in": "bumi",
+          "Arti_kata_en": "the earth",
+          "Text_latin  ": "al-ardu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَثۡقَالَهَا",
+          "Arti_kata_in": "beban beratnya",
+          "Arti_kata_en": "its burdens",
+          "Text_latin  ": "athqalaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+      "Ayat_latin": "wa qalal-insanu ma laha",
+      "Terjemah_in": "dan manusia bertanya, “Apa yang terjadi dengannya (bumi)?”",
+      "Terjemah_en": "And man says, “What is the matter with it?”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَقَالَ",
+          "Arti_kata_in": "dan berkata",
+          "Arti_kata_en": "And says",
+          "Text_latin  ": "waqala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡإِنسَٰنُ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "man",
+          "Text_latin  ": "al-insanu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "What",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَهَا",
+          "Arti_kata_in": "ia",
+          "Arti_kata_en": "(is) with it",
+          "Text_latin  ": "laha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+      "Ayat_latin": "yauma'izin tuhaddisu akhbaraha",
+      "Terjemah_in": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)",
+      "Terjemah_en": "On that Day, it will tell its tales.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَوۡمَئِذٖ",
+          "Arti_kata_in": "pada hari itu",
+          "Arti_kata_en": "That Day",
+          "Text_latin  ": "yawma-idhin"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "تُحَدِّثُ",
+          "Arti_kata_in": "ia menceritakan",
+          "Arti_kata_en": "it will report",
+          "Text_latin  ": "tuhaddithu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَخۡبَارَهَا",
+          "Arti_kata_in": "beritanya",
+          "Arti_kata_en": "its news",
+          "Text_latin  ": "akhbaraha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+      "Ayat_latin": "bi'anna rabbaka auha laha",
+      "Terjemah_in": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya.",
+      "Terjemah_en": "For your Lord will have inspired it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "بِأَنَّ",
+          "Arti_kata_in": "karena sesungguhnya",
+          "Arti_kata_en": "Because",
+          "Text_latin  ": "bi-anna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "رَبَّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_latin  ": "rabbaka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَوۡحَىٰ",
+          "Arti_kata_in": "talah mewahyukan/memerintahkan",
+          "Arti_kata_en": "inspired",
+          "Text_latin  ": "awha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَهَا",
+          "Arti_kata_in": "padanya",
+          "Arti_kata_en": "[to] it",
+          "Text_latin  ": "laha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+      "Ayat_latin": "yauma'iziy yasdurun-nasu asytatal liyurau a'malahum",
+      "Terjemah_in": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka.",
+      "Terjemah_en": "On that Day, the people will emerge in droves, to be shown their works.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَوۡمَئِذٖ",
+          "Arti_kata_in": "pada hari itu",
+          "Arti_kata_en": "That Day",
+          "Text_latin  ": "yawma-idhin"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَصۡدُرُ",
+          "Arti_kata_in": "keluar",
+          "Arti_kata_en": "will proceed",
+          "Text_latin  ": "yasduru"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلنَّاسُ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "the mankind",
+          "Text_latin  ": "an-nasu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "أَشۡتَاتٗا",
+          "Arti_kata_in": "bermacam-macam",
+          "Arti_kata_en": "(in) scattered groups",
+          "Text_latin  ": "ashtatan"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "لِّيُرَوۡاْ",
+          "Arti_kata_in": "untuk mereka lihat",
+          "Arti_kata_en": "to be shown",
+          "Text_latin  ": "liyuraw"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "أَعۡمَٰلَهُمۡ",
+          "Arti_kata_in": "amal-amal mereka",
+          "Arti_kata_en": "their deeds",
+          "Text_latin  ": "a'malahum"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+      "Ayat_latin": "fa may ya'mal misqala zarratin khairay yarah",
+      "Terjemah_in": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya.",
+      "Terjemah_en": "Whoever has done an atom's weight of good will see it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَمَن",
+          "Arti_kata_in": "maka barang siapa",
+          "Arti_kata_en": "So whoever",
+          "Text_latin  ": "faman"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَعۡمَلۡ",
+          "Arti_kata_in": "dia mengerjakan/beramal",
+          "Arti_kata_en": "does",
+          "Text_latin  ": "ya'mal"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مِثۡقَالَ",
+          "Arti_kata_in": "seberat",
+          "Arti_kata_en": "(equal to the) weight",
+          "Text_latin  ": "mith'qala"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ذَرَّةٍ",
+          "Arti_kata_in": "zarrah/atom",
+          "Arti_kata_en": "(of) an atom",
+          "Text_latin  ": "dharratin"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "خَيۡرٗا",
+          "Arti_kata_in": "kebaikan",
+          "Arti_kata_en": "good",
+          "Text_latin  ": "khayran"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "يَرَهُۥ",
+          "Arti_kata_in": "dia melihatnya",
+          "Arti_kata_en": "will see it",
+          "Text_latin  ": "yarahu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+      "Ayat_latin": "wa may ya'mal misqala zarratin syarray yarah",
+      "Terjemah_in": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya.",
+      "Terjemah_en": "And whoever has done an atom's weight of evil will see it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَن",
+          "Arti_kata_in": "dan barang siapa",
+          "Arti_kata_en": "And whoever",
+          "Text_latin  ": "waman"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَعۡمَلۡ",
+          "Arti_kata_in": "dia mengerjakan/beramal",
+          "Arti_kata_en": "does",
+          "Text_latin  ": "ya'mal"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مِثۡقَالَ",
+          "Arti_kata_in": "seberat",
+          "Arti_kata_en": "(equal to the) weight",
+          "Text_latin  ": "mith'qala"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ذَرَّةٖ",
+          "Arti_kata_in": "zarrah/atom",
+          "Arti_kata_en": "(of) an atom",
+          "Text_latin  ": "dharratin"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "شَرّٗا",
+          "Arti_kata_in": "kejahatan",
+          "Arti_kata_en": "evil",
+          "Text_latin  ": "sharran"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "يَرَهُۥ",
+          "Arti_kata_in": "dia melihatnya",
+          "Arti_kata_en": "will see it",
+          "Text_latin  ": "yarahu"
+        }
+      ]
+    }
+  ]
+}

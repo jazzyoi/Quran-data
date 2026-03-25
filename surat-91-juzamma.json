@@ -1,0 +1,519 @@
+{
+  "Nomor_surat": 91,
+  "Nama_surat": "Asy-Syams",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+      "Ayat_latin": "wasy-syamsi wa duhaha",
+      "Terjemah_in": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),",
+      "Terjemah_en": "By the sun and its radiance.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلشَّمۡسِ",
+          "Arti_kata_in": "demi matahari",
+          "Arti_kata_en": "By the sun",
+          "Text_latin  ": "was-shamsi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَضُحَىٰهَا",
+          "Arti_kata_in": "dan cahayanya pagi hari",
+          "Arti_kata_en": "and its brightness",
+          "Text_latin  ": "waduhaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+      "Ayat_latin": "wal-qamari iza talaha",
+      "Terjemah_in": "demi bulan saat mengiringinya,",
+      "Terjemah_en": "And the moon as it follows it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلۡقَمَرِ",
+          "Arti_kata_in": "dan bulan",
+          "Arti_kata_en": "And the moon",
+          "Text_latin  ": "wal-qamari"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "تَلَىٰهَا",
+          "Arti_kata_in": "mengiringinya",
+          "Arti_kata_en": "it follows it",
+          "Text_latin  ": "talaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+      "Ayat_latin": "wan-nahari iza jallaha",
+      "Terjemah_in": "demi siang saat menampakkannya,",
+      "Terjemah_en": "And the day as it reveals it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلنَّهَارِ",
+          "Arti_kata_in": "dan siang",
+          "Arti_kata_en": "And the day",
+          "Text_latin  ": "wan-nahari"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "جَلَّىٰهَا",
+          "Arti_kata_in": "menampakkannya",
+          "Arti_kata_en": "it displays it",
+          "Text_latin  ": "jallaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+      "Ayat_latin": "wal-laili iza yagsyaha",
+      "Terjemah_in": "demi malam saat menutupinya (gelap gulita),",
+      "Terjemah_en": "And the night as it conceals it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلَّيۡلِ",
+          "Arti_kata_in": "dan malam",
+          "Arti_kata_en": "And the night",
+          "Text_latin  ": "wa-al-layli"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "يَغۡشَىٰهَا",
+          "Arti_kata_in": "menutupinya",
+          "Arti_kata_en": "it covers it",
+          "Text_latin  ": "yaghshaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+      "Ayat_latin": "was-sama'i wa ma banaha",
+      "Terjemah_in": "demi langit serta pembuatannya,",
+      "Terjemah_en": "And the sky and He who built it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلسَّمَآءِ",
+          "Arti_kata_in": "dan langit",
+          "Arti_kata_en": "And the heaven",
+          "Text_latin  ": "was-samai"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and He Who",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بَنَىٰهَا",
+          "Arti_kata_in": "pembinaannya",
+          "Arti_kata_en": "constructed it",
+          "Text_latin  ": "banaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+      "Ayat_latin": "wal-ardi wa ma tahaha",
+      "Terjemah_in": "demi bumi serta penghamparannya,",
+      "Terjemah_en": "And the earth and He who spread it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلۡأَرۡضِ",
+          "Arti_kata_in": "dan bumi",
+          "Arti_kata_en": "And the earth",
+          "Text_latin  ": "wal-ardi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and He Who",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "طَحَىٰهَا",
+          "Arti_kata_in": "penghamparannya",
+          "Arti_kata_en": "spread it",
+          "Text_latin  ": "tahaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+      "Ayat_latin": "wa nafsiw wa ma sawwaha",
+      "Terjemah_in": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,",
+      "Terjemah_en": "And the soul and He who proportioned it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَنَفۡسٖ",
+          "Arti_kata_in": "dan manusia/jiwa",
+          "Arti_kata_en": "And (the) soul",
+          "Text_latin  ": "wanafsin"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and He Who",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "سَوَّىٰهَا",
+          "Arti_kata_in": "penyempurnaanya",
+          "Arti_kata_en": "proportioned it",
+          "Text_latin  ": "sawwaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+      "Ayat_latin": "fa al-hamaha fujuraha wa taqwaha",
+      "Terjemah_in": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+      "Terjemah_en": "And inspired it with its wickedness and its righteousness.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَلۡهَمَهَا",
+          "Arti_kata_in": "maka Dia mengilhamkan padanya",
+          "Arti_kata_en": "And He inspired it",
+          "Text_latin  ": "fa-alhamaha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "فُجُورَهَا",
+          "Arti_kata_in": "kedurhakaanya",
+          "Arti_kata_en": "(to understand) what is wrong for it",
+          "Text_latin  ": "fujuraha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَتَقۡوَىٰهَا",
+          "Arti_kata_in": "dan ketaqwaannya",
+          "Arti_kata_en": "and what is right for it",
+          "Text_latin  ": "wataqwaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+      "Ayat_latin": "qad aflaha man zakkaha",
+      "Terjemah_in": "sungguh beruntung orang yang menyucikannya (jiwa itu)",
+      "Terjemah_en": "Successful is he who purifies it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "قَدۡ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "qad"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَفۡلَحَ",
+          "Arti_kata_in": "beruntung",
+          "Arti_kata_en": "he succeeds",
+          "Text_latin  ": "aflaha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَن",
+          "Arti_kata_in": "siapa/orang",
+          "Arti_kata_en": "who",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "زَكَّىٰهَا",
+          "Arti_kata_in": "mensucikannya",
+          "Arti_kata_en": "purifies it",
+          "Text_latin  ": "zakkaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+      "Ayat_latin": "wa qad khaba man dassaha",
+      "Terjemah_in": "dan sungguh rugi orang yang mengotorinya.",
+      "Terjemah_en": "Failing is he who corrupts it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَقَدۡ",
+          "Arti_kata_in": "dan sesungguhnya",
+          "Arti_kata_en": "And indeed",
+          "Text_latin  ": "waqad"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "خَابَ",
+          "Arti_kata_in": "celaka/rugi",
+          "Arti_kata_en": "he fails",
+          "Text_latin  ": "khaba"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَن",
+          "Arti_kata_in": "orang",
+          "Arti_kata_en": "who",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "دَسَّىٰهَا",
+          "Arti_kata_in": "mengotorinya",
+          "Arti_kata_en": "corrupts it",
+          "Text_latin  ": "dassaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ  ۖ",
+      "Ayat_latin": "kazzabas samudu bitagwaha",
+      "Terjemah_in": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas",
+      "Terjemah_en": "Thamood denied in its pride.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "كَذَّبَتۡ",
+          "Arti_kata_in": "telah mendustakan",
+          "Arti_kata_en": "Denied",
+          "Text_latin  ": "kadhabat"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ثَمُودُ",
+          "Arti_kata_in": "Samud",
+          "Arti_kata_en": "Thamud",
+          "Text_latin  ": "thamudu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بِطَغۡوَىٰهَآ",
+          "Arti_kata_in": "dan melampui batas",
+          "Arti_kata_en": "by their transgression",
+          "Text_latin  ": "bitaghwaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 12,
+      "Ayat_arabic ": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+      "Ayat_latin": "izimba'asa asyqaha",
+      "Terjemah_in": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah).",
+      "Terjemah_en": "When it followed its most wicked.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِذِ",
+          "Arti_kata_in": "ketika",
+          "Arti_kata_en": "When",
+          "Text_latin  ": "idhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱنۢبَعَثَ",
+          "Arti_kata_in": "bangkit",
+          "Arti_kata_en": "(was) sent forth",
+          "Text_latin  ": "inba'atha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَشۡقَىٰهَا",
+          "Arti_kata_in": "orang yang lebih celaka diantaranya",
+          "Arti_kata_en": "(the) most wicked of them",
+          "Text_latin  ": "ashqaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 13,
+      "Ayat_arabic ": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+      "Ayat_latin": "fa qala lahum rasulullahi naqatallahi wa suqyaha",
+      "Terjemah_in": "Rasul Allah (Saleh) lalu berkata kepada mereka, “(Biarkanlah) unta betina Allah ini beserta minumannya.”",
+      "Terjemah_en": "The messenger of God said to them, “This is the she-camel of God, so let her drink.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَقَالَ",
+          "Arti_kata_in": "dan berkata",
+          "Arti_kata_en": "But said",
+          "Text_latin  ": "faqala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لَهُمۡ",
+          "Arti_kata_in": "kepada mereka",
+          "Arti_kata_en": "to them",
+          "Text_latin  ": "lahum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "رَسُولُ",
+          "Arti_kata_in": "rasul",
+          "Arti_kata_en": "(the) Messenger",
+          "Text_latin  ": "rasulu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_latin  ": "al-lahi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "نَاقَةَ",
+          "Arti_kata_in": "unta betina",
+          "Arti_kata_en": "(It is the) she-camel",
+          "Text_latin  ": "naqata"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "ٱللَّهِ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(of) Allah",
+          "Text_latin  ": "al-lahi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "وَسُقۡيَٰهَا",
+          "Arti_kata_in": "dan minumannya",
+          "Arti_kata_en": "and her drink",
+          "Text_latin  ": "wasuq'yaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 14,
+      "Ayat_arabic ": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+      "Ayat_latin": "fa kazzabuhu fa 'aqaruha fa damdama 'alaihim rabbuhum bizambihim fa sawwaha",
+      "Terjemah_in": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah).",
+      "Terjemah_en": "But they called him a liar, and hamstrung her. So their Lord crushed them for their sin, and leveled it.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَكَذَّبُوهُ",
+          "Arti_kata_in": "dan mendustakan",
+          "Arti_kata_en": "But they denied him",
+          "Text_latin  ": "fakadhabuhu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "فَعَقَرُوهَا",
+          "Arti_kata_in": "maka mereka melukai/menyembelih",
+          "Arti_kata_en": "and they hamstrung her",
+          "Text_latin  ": "fa'aqaruha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَدَمۡدَمَ",
+          "Arti_kata_in": "maka menurunkan azab/membinasakan",
+          "Arti_kata_en": "So destroyed",
+          "Text_latin  ": "fadamdama"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "atas mereka",
+          "Arti_kata_en": "them",
+          "Text_latin  ": "alayhim"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "رَبُّهُم",
+          "Arti_kata_in": "Tuhan mereka",
+          "Arti_kata_en": "their Lord",
+          "Text_latin  ": "rabbuhum"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "بِذَنۢبِهِمۡ",
+          "Arti_kata_in": "dengan dosa-dosa mereka",
+          "Arti_kata_en": "for their sin",
+          "Text_latin  ": "bidhanbihim"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "فَسَوَّىٰهَا",
+          "Arti_kata_in": "dan Dia meratakannya",
+          "Arti_kata_en": "and leveled them",
+          "Text_latin  ": "fasawwaha"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 15,
+      "Ayat_arabic ": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+      "Ayat_latin": "wa la yakhafu 'uqbaha",
+      "Terjemah_in": "Dia tidak takut terhadap akibatnya.",
+      "Terjemah_en": "And He does not fear its sequel.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَا",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَخَافُ",
+          "Arti_kata_in": "takut",
+          "Arti_kata_en": "He fears",
+          "Text_latin  ": "yakhafu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عُقۡبَٰهَا",
+          "Arti_kata_in": "akibatnya",
+          "Arti_kata_en": "its consequences",
+          "Text_latin  ": "uq'baha"
+        }
+      ]
+    }
+  ]
+}

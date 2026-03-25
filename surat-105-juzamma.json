@@ -1,0 +1,212 @@
+{
+  "Nomor_surat": 105,
+  "Nama_surat": "Al-Fil",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ",
+      "Ayat_latin": "a lam tara kaifa fa'ala rabbuka bi'as-habil-fil",
+      "Terjemah_in": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
+      "Terjemah_en": "Have you not considered how your Lord dealt with the People of the Elephant?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَلَمۡ",
+          "Arti_kata_in": "apakah tidak",
+          "Arti_kata_en": "Have not",
+          "Text_latin  ": "alam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "تَرَ",
+          "Arti_kata_in": "kamu perhatikan",
+          "Arti_kata_en": "you seen",
+          "Text_latin  ": "tara"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "كَيۡفَ",
+          "Arti_kata_in": "bagaimana",
+          "Arti_kata_en": "how",
+          "Text_latin  ": "kayfa"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فَعَلَ",
+          "Arti_kata_in": "berbuat/bertindak",
+          "Arti_kata_en": "dealt",
+          "Text_latin  ": "fa'ala"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "رَبُّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_latin  ": "rabbuka"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "بِأَصۡحَٰبِ",
+          "Arti_kata_in": "terhadap golongan (tentara)",
+          "Arti_kata_en": "with (the) Companions",
+          "Text_latin  ": "bi-ashabi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "ٱلۡفِيلِ",
+          "Arti_kata_in": "gajah",
+          "Arti_kata_en": "(of the) Elephant",
+          "Text_latin  ": "al-fili"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ",
+      "Ayat_latin": "a lam yaj'al kaidahum fi tadlil",
+      "Terjemah_in": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?",
+      "Terjemah_en": "Did He not make their plan go wrong?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَلَمۡ",
+          "Arti_kata_in": "apakah tidak",
+          "Arti_kata_en": "Did not",
+          "Text_latin  ": "alam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَجۡعَلۡ",
+          "Arti_kata_in": "Dia jadikan",
+          "Arti_kata_en": "He make",
+          "Text_latin  ": "yaj'al"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "كَيۡدَهُمۡ",
+          "Arti_kata_in": "tipu daya mereka",
+          "Arti_kata_en": "their plan",
+          "Text_latin  ": "kaydahum"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "go",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "تَضۡلِيلٖ",
+          "Arti_kata_in": "kesesatan/sia-sia",
+          "Arti_kata_en": "astray",
+          "Text_latin  ": "tadlilin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ",
+      "Ayat_latin": "wa arsala 'alaihim tairan ababil",
+      "Terjemah_in": "Dia mengirimkan kepada mereka burung yang berbondong-bondong",
+      "Terjemah_en": "He sent against them swarms of birds.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَرۡسَلَ",
+          "Arti_kata_in": "dan Dia mengirimkan",
+          "Arti_kata_en": "And He sent",
+          "Text_latin  ": "wa-arsala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَلَيۡهِمۡ",
+          "Arti_kata_in": "kepada mereka",
+          "Arti_kata_en": "against them",
+          "Text_latin  ": "alayhim"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "طَيۡرًا",
+          "Arti_kata_in": "burung",
+          "Arti_kata_en": "birds",
+          "Text_latin  ": "tayran"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "أَبَابِيلَ",
+          "Arti_kata_in": "yang berbondong-bondong",
+          "Arti_kata_en": "(in) flocks",
+          "Text_latin  ": "ababila"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ",
+      "Ayat_latin": "tarmihim bihijaratim min sijjil",
+      "Terjemah_in": "yang melempari mereka dengan batu dari tanah liat yang dibakar,",
+      "Terjemah_en": "Throwing at them rocks of baked clay.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "تَرۡمِيهِم",
+          "Arti_kata_in": "yang melempari mereka",
+          "Arti_kata_en": "Striking them",
+          "Text_latin  ": "tarmihim"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِحِجَارَةٖ",
+          "Arti_kata_in": "dengan batu-batu",
+          "Arti_kata_en": "with stones",
+          "Text_latin  ": "bihijaratin"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مِّن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "سِجِّيلٖ",
+          "Arti_kata_in": "tanah keras/terbakar",
+          "Arti_kata_en": "baked clay",
+          "Text_latin  ": "sijjilin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ ࣖ",
+      "Ayat_latin": "fa ja'alahum ka'asfim ma'kul",
+      "Terjemah_in": "sehingga Dia menjadikan mereka seperti daun-daun yang dimakan (ulat).",
+      "Terjemah_en": "Leaving them like chewed-up leaves.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَجَعَلَهُمۡ",
+          "Arti_kata_in": "lalu Dia menjadikan mereka",
+          "Arti_kata_en": "Then He made them",
+          "Text_latin  ": "faja'alahum"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "كَعَصۡفٖ",
+          "Arti_kata_in": "seperti daun",
+          "Arti_kata_en": "like straw",
+          "Text_latin  ": "ka'asfin"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَّأۡكُولِۭ",
+          "Arti_kata_in": "dimakan",
+          "Arti_kata_en": "eaten up",
+          "Text_latin  ": "makulin"
+        }
+      ]
+    }
+  ]
+}

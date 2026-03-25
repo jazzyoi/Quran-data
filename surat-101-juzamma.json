@@ -1,0 +1,357 @@
+{
+  "Nomor_surat": 101,
+  "Nama_surat": "Al-Qari'ah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اَلْقَارِعَةُۙ",
+      "Ayat_latin": "al-qari'ah",
+      "Terjemah_in": "Al-Qāri‘ah (hari Kiamat yang menggetarkan).",
+      "Terjemah_en": "The Shocker.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلۡقَارِعَةُ",
+          "Arti_kata_in": "hari kiamat",
+          "Arti_kata_en": "The Striking Calamity!",
+          "Text_latin  ": "al-qari'atu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "مَا الْقَارِعَةُ ۚ",
+      "Ayat_latin": "mal-qari'ah",
+      "Terjemah_in": "Apakah al-Qāri‘ah itu?",
+      "Terjemah_en": "What is the Shocker?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apakah",
+          "Arti_kata_en": "What",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡقَارِعَةُ",
+          "Arti_kata_in": "hari kiamat",
+          "Arti_kata_en": "(is) the Striking Calamity",
+          "Text_latin  ": "al-qari'atu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَمَآ اَدْرٰىكَ مَا الْقَارِعَةُ ۗ",
+      "Ayat_latin": "wa ma adraka mal-qari'ah",
+      "Terjemah_in": "Tahukah kamu apakah al-Qāri‘ah itu?",
+      "Terjemah_en": "What will explain to you what the Shocker is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "dan apakah",
+          "Arti_kata_en": "And what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu tahu",
+          "Arti_kata_en": "will make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡقَارِعَةُ",
+          "Arti_kata_in": "hari kiamat",
+          "Arti_kata_en": "(is) the Striking Calamity",
+          "Text_latin  ": "al-qari'atu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ",
+      "Ayat_latin": "yauma yakunun-nasu kal-farasyil-mabsus",
+      "Terjemah_in": "Pada hari itu manusia seperti laron yang beterbangan",
+      "Terjemah_en": "The Day when the people will be like scattered moths.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "يَوۡمَ",
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(The) Day",
+          "Text_latin  ": "yawma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَكُونُ",
+          "Arti_kata_in": "adalah",
+          "Arti_kata_en": "will be",
+          "Text_latin  ": "yakunu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلنَّاسُ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "the mankind",
+          "Text_latin  ": "an-nasu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "كَٱلۡفَرَاشِ",
+          "Arti_kata_in": "seperti anai-anai",
+          "Arti_kata_en": "like moths",
+          "Text_latin  ": "kal-farashi"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡمَبۡثُوثِ",
+          "Arti_kata_in": "bertebaran",
+          "Arti_kata_en": "scattered",
+          "Text_latin  ": "al-mabthuthi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "وَتَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِۗ",
+      "Ayat_latin": "wa takunul-jibalu kal-'ihnil-manfusy",
+      "Terjemah_in": "dan gunung-gunung seperti bulu yang berhamburan.",
+      "Terjemah_en": "And the mountains will be like tufted wool.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَتَكُونُ",
+          "Arti_kata_in": "dan adalah",
+          "Arti_kata_en": "And will be",
+          "Text_latin  ": "watakunu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡجِبَالُ",
+          "Arti_kata_in": "gunung-gunung",
+          "Arti_kata_en": "the mountains",
+          "Text_latin  ": "al-jibalu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "كَٱلۡعِهۡنِ",
+          "Arti_kata_in": "seperti bulu",
+          "Arti_kata_en": "like wool",
+          "Text_latin  ": "kal-'ih'ni"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡمَنفُوشِ",
+          "Arti_kata_in": "dihambur-hamburkan",
+          "Arti_kata_en": "fluffed up",
+          "Text_latin  ": "al-manfushi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِينُهٗۙ",
+      "Ayat_latin": "fa amma man saqulat mawazinuh",
+      "Terjemah_in": "Siapa yang berat timbangan (kebaikan)-nya,",
+      "Terjemah_en": "As for he whose scales are heavy.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَمَّا",
+          "Arti_kata_in": "maka adapun",
+          "Arti_kata_en": "Then as for",
+          "Text_latin  ": "fa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَن",
+          "Arti_kata_in": "siapa/orang",
+          "Arti_kata_en": "(him) whose",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ثَقُلَتۡ",
+          "Arti_kata_in": "berat",
+          "Arti_kata_en": "are heavy",
+          "Text_latin  ": "thaqulat"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَوَٰزِينُهُۥ",
+          "Arti_kata_in": "timbangannya",
+          "Arti_kata_en": "his scales",
+          "Text_latin  ": "mawazinuhu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "فَهُوَ فِيْ عِيْشَةٍ رَّاضِيَةٍۗ",
+      "Ayat_latin": "fa huwa fi 'isyatir radiyah",
+      "Terjemah_in": "dia berada dalam kehidupan yang menyenangkan.",
+      "Terjemah_en": "He will be in a pleasant life.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَهُوَ",
+          "Arti_kata_in": "maka dia",
+          "Arti_kata_en": "Then he",
+          "Text_latin  ": "fahuwa"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(will be) in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عِيشَةٖ",
+          "Arti_kata_in": "kehidupan",
+          "Arti_kata_en": "a life",
+          "Text_latin  ": "ishatin"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "رَّاضِيَةٖ",
+          "Arti_kata_in": "memuaskan",
+          "Arti_kata_en": "pleasant",
+          "Text_latin  ": "radiyatin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَاَمَّا مَنْ خَفَّتْ مَوَازِيْنُهٗۙ",
+      "Ayat_latin": "wa amma man khaffat mawazinuh",
+      "Terjemah_in": "Adapun orang yang ringan timbangan (kebaikan)-nya,",
+      "Terjemah_en": "But as for he whose scales are light.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَأَمَّا",
+          "Arti_kata_in": "dan adapun",
+          "Arti_kata_en": "But as for",
+          "Text_latin  ": "wa-amma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَنۡ",
+          "Arti_kata_in": "orang",
+          "Arti_kata_en": "(him) whose",
+          "Text_latin  ": "man"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "خَفَّتۡ",
+          "Arti_kata_in": "ringan",
+          "Arti_kata_en": "are light",
+          "Text_latin  ": "khaffat"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَوَٰزِينُهُۥ",
+          "Arti_kata_in": "timbangannya",
+          "Arti_kata_en": "his scales",
+          "Text_latin  ": "mawazinuhu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "فَاُمُّهٗ هَاوِيَةٌ  ۗ",
+      "Ayat_latin": "fa ummuhu hawiyah",
+      "Terjemah_in": "tempat kembalinya adalah (neraka) Hawiyah.",
+      "Terjemah_en": "His home is the Abyss.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأُمُّهُۥ",
+          "Arti_kata_in": "maka tempat kembalinya",
+          "Arti_kata_en": "His abode",
+          "Text_latin  ": "fa-ummuhu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "هَاوِيَةٞ",
+          "Arti_kata_in": "jurang yang dalam/neraka Hawiyah",
+          "Arti_kata_en": "(will be the) Pit",
+          "Text_latin  ": "hawiyatun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَمَآ اَدْرٰىكَ مَا هِيَهْۗ",
+      "Ayat_latin": "wa ma adraka ma hiyah",
+      "Terjemah_in": "Tahukah kamu apakah (neraka Hawiyah) itu?",
+      "Terjemah_en": "Do you know what it is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "dan apakah",
+          "Arti_kata_en": "And what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu tahu",
+          "Arti_kata_en": "will make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "هِيَهۡ",
+          "Arti_kata_in": "itu",
+          "Arti_kata_en": "it is",
+          "Text_latin  ": "hiyah"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "نَارٌ حَامِيَةٌ ࣖ",
+      "Ayat_latin": "narun hamiyah",
+      "Terjemah_in": "(Ia adalah) api yang sangat panas.",
+      "Terjemah_en": "A Raging Fire.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "نَارٌ",
+          "Arti_kata_in": "api",
+          "Arti_kata_en": "A Fire",
+          "Text_latin  ": "narun"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "حَامِيَةُۢ",
+          "Arti_kata_in": "sangat panas",
+          "Arti_kata_en": "intensely hot",
+          "Text_latin  ": "hamiyatun"
+        }
+      ]
+    }
+  ]
+}

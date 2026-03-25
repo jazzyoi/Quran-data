@@ -1,0 +1,200 @@
+{
+  "Nomor_surat": 114,
+  "Nama_surat": "An-Nas",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+      "Ayat_latin": "qul a'uzu birabbin-nas",
+      "Terjemah_in": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,",
+      "Terjemah_en": "Say, “I seek refuge in the Lord of mankind.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_latin  ": "qul"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَعُوذُ",
+          "Arti_kata_in": "aku berlindung",
+          "Arti_kata_en": "I seek refuge",
+          "Text_latin  ": "a'udhu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بِرَبِّ",
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "in (the) Lord",
+          "Text_latin  ": "birabbi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلنَّاسِ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_latin  ": "an-nasi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "مَلِكِ النَّاسِۙ",
+      "Ayat_latin": "malikin-nas",
+      "Terjemah_in": "raja manusia,",
+      "Terjemah_en": "The King of mankind.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مَلِكِ",
+          "Arti_kata_in": "Rajanya",
+          "Arti_kata_en": "(The) King",
+          "Text_latin  ": "maliki"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلنَّاسِ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_latin  ": "an-nasi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "اِلٰهِ النَّاسِۙ",
+      "Ayat_latin": "ilahin-nas",
+      "Terjemah_in": "sembahan manusia",
+      "Terjemah_en": "The God of mankind.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِلَٰهِ",
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "(The) God",
+          "Text_latin  ": "ilahi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلنَّاسِ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_latin  ": "an-nasi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+      "Ayat_latin": "min syarril-waswasil-khannas",
+      "Terjemah_in": "dari kejahatan (setan) pembisik yang bersembunyi",
+      "Terjemah_en": "From the evil of the sneaky whisperer.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مِن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "From",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "شَرِّ",
+          "Arti_kata_in": "kejahatan",
+          "Arti_kata_en": "(the) evil",
+          "Text_latin  ": "sharri"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡوَسۡوَاسِ",
+          "Arti_kata_in": "bisikkan",
+          "Arti_kata_en": "(of) the whisperer",
+          "Text_latin  ": "al-waswasi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلۡخَنَّاسِ",
+          "Arti_kata_in": "menunggu-nunggu/bersembunyi",
+          "Arti_kata_en": "the one who withdraws",
+          "Text_latin  ": "al-khanasi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+      "Ayat_latin": "allazi yuwaswisu fi sudurin-nas",
+      "Terjemah_in": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+      "Terjemah_en": "Who whispers into the hearts of people.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلَّذِي",
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "The one who",
+          "Text_latin  ": "alladhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يُوَسۡوِسُ",
+          "Arti_kata_in": "membisik-bisikan",
+          "Arti_kata_en": "whispers",
+          "Text_latin  ": "yuwaswisu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "صُدُورِ",
+          "Arti_kata_in": "dada",
+          "Arti_kata_en": "(the) breasts",
+          "Text_latin  ": "suduri"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلنَّاسِ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_latin  ": "an-nasi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ",
+      "Ayat_latin": "minal-jinnati wan-nas",
+      "Terjemah_in": "dari (golongan) jin dan manusia.”",
+      "Terjemah_en": "From among jinn and among people.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مِنَ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "From",
+          "Text_latin  ": "mina"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡجِنَّةِ",
+          "Arti_kata_in": "jin",
+          "Arti_kata_en": "the jinn",
+          "Text_latin  ": "al-jinati"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَٱلنَّاسِ",
+          "Arti_kata_in": "dan manusia",
+          "Arti_kata_en": "and men",
+          "Text_latin  ": "wan-nasi"
+        }
+      ]
+    }
+  ]
+}

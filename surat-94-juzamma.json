@@ -1,0 +1,267 @@
+{
+  "Nomor_surat": 94,
+  "Nama_surat": "Al-Insyirah",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+      "Ayat_latin": "a lam nasyrah laka sadrak",
+      "Terjemah_in": "Bukankah Kami telah melapangkan dadamu (Nabi Muhammad),",
+      "Terjemah_en": "Did We not soothe your heart?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "أَلَمۡ",
+          "Arti_kata_in": "apakah tidak/bukankah",
+          "Arti_kata_en": "Have not",
+          "Text_latin  ": "alam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَشۡرَحۡ",
+          "Arti_kata_in": "Kami melapangkan",
+          "Arti_kata_en": "We expanded",
+          "Text_latin  ": "nashrah"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَكَ",
+          "Arti_kata_in": "bagimu",
+          "Arti_kata_en": "for you",
+          "Text_latin  ": "laka"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "صَدۡرَكَ",
+          "Arti_kata_in": "dadamu",
+          "Arti_kata_en": "your breast",
+          "Text_latin  ": "sadraka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+      "Ayat_latin": "wa wada'na 'angka wizrak",
+      "Terjemah_in": "meringankan beban (tugas-tugas kenabian) darimu",
+      "Terjemah_en": "And lift from you your burden.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَوَضَعۡنَا",
+          "Arti_kata_in": "dan Kami letakkan/turunkan",
+          "Arti_kata_en": "And We removed",
+          "Text_latin  ": "wawada'na"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَنكَ",
+          "Arti_kata_in": "dari kamu",
+          "Arti_kata_en": "from you",
+          "Text_latin  ": "anka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وِزۡرَكَ",
+          "Arti_kata_in": "bebanmu",
+          "Arti_kata_en": "your burden",
+          "Text_latin  ": "wiz'raka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+      "Ayat_latin": "allazi angqada zahrak",
+      "Terjemah_in": "yang memberatkan punggungmu,",
+      "Terjemah_en": "Which weighed down your back?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱلَّذِيٓ",
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "Which",
+          "Text_latin  ": "alladhi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَنقَضَ",
+          "Arti_kata_in": "memberatkan",
+          "Arti_kata_en": "weighed upon",
+          "Text_latin  ": "anqada"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ظَهۡرَكَ",
+          "Arti_kata_in": "punggungmu",
+          "Arti_kata_en": "your back",
+          "Text_latin  ": "zahraka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+      "Ayat_latin": "wa rafa'na laka zikrak",
+      "Terjemah_in": "dan meninggikan (derajat)-mu (dengan selalu) menyebut-nyebut (nama)-mu?",
+      "Terjemah_en": "And raised for you your reputation?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَرَفَعۡنَا",
+          "Arti_kata_in": "dan Kami tinggikan",
+          "Arti_kata_en": "And We raised high",
+          "Text_latin  ": "warafa'na"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لَكَ",
+          "Arti_kata_in": "bagimu",
+          "Arti_kata_en": "for you",
+          "Text_latin  ": "laka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ذِكۡرَكَ",
+          "Arti_kata_in": "sebutanmu",
+          "Arti_kata_en": "your esteem",
+          "Text_latin  ": "dhik'raka"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+      "Ayat_latin": "fa inna ma'al-'usri yusra",
+      "Terjemah_in": "Maka, sesungguhnya beserta kesulitan ada kemudahan.",
+      "Terjemah_en": "With hardship comes ease.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَإِنَّ",
+          "Arti_kata_in": "maka sesungguhnya",
+          "Arti_kata_en": "So indeed",
+          "Text_latin  ": "fa-inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَعَ",
+          "Arti_kata_in": "beserta",
+          "Arti_kata_en": "with",
+          "Text_latin  ": "ma'a"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡعُسۡرِ",
+          "Arti_kata_in": "kesulitan",
+          "Arti_kata_en": "the hardship",
+          "Text_latin  ": "al-'us'ri"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يُسۡرًا",
+          "Arti_kata_in": "kemudahan",
+          "Arti_kata_en": "(is) ease",
+          "Text_latin  ": "yus'ran"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+      "Ayat_latin": "inna ma'al-'usri yusra",
+      "Terjemah_in": "Sesungguhnya beserta kesulitan ada kemudahan.",
+      "Terjemah_en": "With hardship comes ease.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَعَ",
+          "Arti_kata_in": "beserta",
+          "Arti_kata_en": "with",
+          "Text_latin  ": "ma'a"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡعُسۡرِ",
+          "Arti_kata_in": "kesulitan",
+          "Arti_kata_en": "the hardship",
+          "Text_latin  ": "al-'us'ri"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يُسۡرٗا",
+          "Arti_kata_in": "kemudahan",
+          "Arti_kata_en": "(is) ease",
+          "Text_latin  ": "yus'ran"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+      "Ayat_latin": "fa iza faragta fansab",
+      "Terjemah_in": "Apabila engkau telah selesai (dengan suatu kebajikan), teruslah bekerja keras (untuk kebajikan yang lain)",
+      "Terjemah_en": "When your work is done, turn to devotion.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَإِذَا",
+          "Arti_kata_in": "maka apabila",
+          "Arti_kata_en": "So when",
+          "Text_latin  ": "fa-idha"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "فَرَغۡتَ",
+          "Arti_kata_in": "kamu telah selesai",
+          "Arti_kata_en": "you are free",
+          "Text_latin  ": "faraghta"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَٱنصَبۡ",
+          "Arti_kata_in": "maka kerja keraslah kamu",
+          "Arti_kata_en": "then stand up",
+          "Text_latin  ": "fa-insab"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+      "Ayat_latin": "wa ila rabbika fargab",
+      "Terjemah_in": "dan hanya kepada Tuhanmu berharaplah!",
+      "Terjemah_en": "And to your Lord turn for everything.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِلَىٰ",
+          "Arti_kata_in": "dan hanya",
+          "Arti_kata_en": "And to",
+          "Text_latin  ": "wa-ila"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "رَبِّكَ",
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_latin  ": "rabbika"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فَٱرۡغَب",
+          "Arti_kata_in": "maka kamu berharap",
+          "Arti_kata_en": "turn your attention",
+          "Text_latin  ": "fa-ir'ghab"
+        }
+      ]
+    }
+  ]
+}

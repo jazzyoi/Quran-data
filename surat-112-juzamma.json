@@ -1,0 +1,147 @@
+{
+  "Nomor_surat": 112,
+  "Nama_surat": "Al-Ikhlas",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+      "Ayat_latin": "qul huwallahu ahad",
+      "Terjemah_in": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa.",
+      "Terjemah_en": "Say, “He is God, the One.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_latin  ": "qul"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "هُوَ",
+          "Arti_kata_in": "Dia",
+          "Arti_kata_en": "He",
+          "Text_latin  ": "huwa"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱللَّهُ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(is) Allah",
+          "Text_latin  ": "al-lahu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "أَحَدٌ",
+          "Arti_kata_in": "Esa",
+          "Arti_kata_en": "the One",
+          "Text_latin  ": "ahadun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "اَللّٰهُ الصَّمَدُۚ",
+      "Ayat_latin": "allahus-samad",
+      "Terjemah_in": "Allah tempat meminta segala sesuatu.",
+      "Terjemah_en": "God, the Absolute.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "ٱللَّهُ",
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_latin  ": "al-lahu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلصَّمَدُ",
+          "Arti_kata_in": "tempat bergantung",
+          "Arti_kata_en": "the Eternal the Absolute",
+          "Text_latin  ": "as-samadu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+      "Ayat_latin": "lam yalid wa lam yulad",
+      "Terjemah_in": "Dia tidak beranak dan tidak pula diperanakkan",
+      "Terjemah_en": "He begets not, nor was He begotten.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَمۡ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "lam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَلِدۡ",
+          "Arti_kata_in": "beranak",
+          "Arti_kata_en": "He begets",
+          "Text_latin  ": "yalid"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَلَمۡ",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "and not",
+          "Text_latin  ": "walam"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يُولَدۡ",
+          "Arti_kata_in": "diperanakkan",
+          "Arti_kata_en": "He is begotten",
+          "Text_latin  ": "yulad"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+      "Ayat_latin": "wa lam yakul lahu kufuwan ahad",
+      "Terjemah_in": "serta tidak ada sesuatu pun yang setara dengan-Nya.”",
+      "Terjemah_en": "And there is nothing comparable to Him.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَمۡ",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "walam"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَكُن",
+          "Arti_kata_in": "ada",
+          "Arti_kata_en": "is",
+          "Text_latin  ": "yakun"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لَّهُۥ",
+          "Arti_kata_in": "baginya",
+          "Arti_kata_en": "for Him",
+          "Text_latin  ": "lahu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "كُفُوًا",
+          "Arti_kata_in": "menyamai/setara",
+          "Arti_kata_en": "equivalent",
+          "Text_latin  ": "kufuwan"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَحَدُۢ",
+          "Arti_kata_in": "seorang",
+          "Arti_kata_en": "any [one]",
+          "Text_latin  ": "ahadun"
+        }
+      ]
+    }
+  ]
+}

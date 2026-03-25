@@ -1,0 +1,212 @@
+{
+  "Nomor_surat": 111,
+  "Nama_surat": "Al-Lahab",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+      "Ayat_latin": "tabbat yada abi lahabiw wa tabb",
+      "Terjemah_in": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia.763)",
+      "Terjemah_en": "Condemned are the hands of Abee Lahab, and he is condemned.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "تَبَّتۡ",
+          "Arti_kata_in": "binasalah",
+          "Arti_kata_en": "Perish",
+          "Text_latin  ": "tabbat"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَدَآ",
+          "Arti_kata_in": "kedua tangan",
+          "Arti_kata_en": "(the) hands",
+          "Text_latin  ": "yada"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "أَبِي",
+          "Arti_kata_in": "Abu",
+          "Arti_kata_en": "(of) Abu",
+          "Text_latin  ": "abi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَهَبٖ",
+          "Arti_kata_in": "Lahab",
+          "Arti_kata_en": "Lahab",
+          "Text_latin  ": "lahabin"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "وَتَبَّ",
+          "Arti_kata_in": "sebenar-benar binasa",
+          "Arti_kata_en": "and perish he",
+          "Text_latin  ": "watabba"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+      "Ayat_latin": "ma agna 'an-hu maluhu wa ma kasab",
+      "Terjemah_in": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
+      "Terjemah_en": "His wealth did not avail him, nor did what he acquired.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "مَآ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَغۡنَىٰ",
+          "Arti_kata_in": "berguna",
+          "Arti_kata_en": "(will) avail",
+          "Text_latin  ": "aghna"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَنۡهُ",
+          "Arti_kata_in": "dari padanya/kepadanya",
+          "Arti_kata_en": "him",
+          "Text_latin  ": "anhu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَالُهُۥ",
+          "Arti_kata_in": "hartanya",
+          "Arti_kata_en": "his wealth",
+          "Text_latin  ": "maluhu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "وَمَا",
+          "Arti_kata_in": "dan apa",
+          "Arti_kata_en": "and what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "كَسَبَ",
+          "Arti_kata_in": "yang ia usahakan",
+          "Arti_kata_en": "he earned",
+          "Text_latin  ": "kasaba"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+      "Ayat_latin": "sayasla naran zata lahab",
+      "Terjemah_in": "Kelak dia akan memasuki api yang bergejolak (neraka),",
+      "Terjemah_en": "He will burn in a Flaming Fire.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "سَيَصۡلَىٰ",
+          "Arti_kata_in": "kelak ia akan masuk",
+          "Arti_kata_en": "He will be burnt",
+          "Text_latin  ": "sayasla"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "نَارٗا",
+          "Arti_kata_in": "api",
+          "Arti_kata_en": "(in) a Fire",
+          "Text_latin  ": "naran"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ذَاتَ",
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "dhata"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَهَبٖ",
+          "Arti_kata_in": "begejolak",
+          "Arti_kata_en": "Blazing Flames",
+          "Text_latin  ": "lahabin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+      "Ayat_latin": "wamra'atuh, hammalatal-hatab",
+      "Terjemah_in": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah).",
+      "Terjemah_en": "And his wife—the firewood carrier.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱمۡرَأَتُهُۥ",
+          "Arti_kata_in": "dan istrinya",
+          "Arti_kata_en": "And his wife",
+          "Text_latin  ": "wa-im'ra-atuhu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "حَمَّالَةَ",
+          "Arti_kata_in": "pembawa",
+          "Arti_kata_en": "(the) carrier",
+          "Text_latin  ": "hammalata"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡحَطَبِ",
+          "Arti_kata_in": "kayu bakar",
+          "Arti_kata_en": "(of) firewood",
+          "Text_latin  ": "al-hatabi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+      "Ayat_latin": "fi jidiha hablum mim masad",
+      "Terjemah_in": "Di lehernya ada tali dari sabut yang dipintal.",
+      "Terjemah_en": "Around her neck is a rope of thorns.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "Around",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "جِيدِهَا",
+          "Arti_kata_in": "lehernya",
+          "Arti_kata_en": "her neck",
+          "Text_latin  ": "jidiha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "حَبۡلٞ",
+          "Arti_kata_in": "tali",
+          "Arti_kata_en": "(will be) a rope",
+          "Text_latin  ": "hablun"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مِّن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "مَّسَدِۭ",
+          "Arti_kata_in": "sabut",
+          "Arti_kata_en": "palm-fiber",
+          "Text_latin  ": "masadin"
+        }
+      ]
+    }
+  ]
+}

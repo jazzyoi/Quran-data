@@ -1,0 +1,385 @@
+{
+  "Nomor_surat": 100,
+  "Nama_surat": "Al-'Adiyat",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "وَالْعٰدِيٰتِ ضَبْحًاۙ",
+      "Ayat_latin": "wal-'adiyati dab-ha",
+      "Terjemah_in": "Demi kuda-kuda perang yang berlari kencang terengah-engah,",
+      "Terjemah_en": "By the racers panting.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَٱلۡعَٰدِيَٰتِ",
+          "Arti_kata_in": "demi yang berlari kencang",
+          "Arti_kata_en": "By the racers",
+          "Text_latin  ": "wal-'adiyati"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ضَبۡحٗا",
+          "Arti_kata_in": "terengah-engah",
+          "Arti_kata_en": "panting",
+          "Text_latin  ": "dabhan"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+      "Ayat_latin": "fal-muriyati qad-ha",
+      "Terjemah_in": "yang memercikkan bunga api (dengan entakan kakinya),",
+      "Terjemah_en": "Igniting sparks.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَٱلۡمُورِيَٰتِ",
+          "Arti_kata_in": "lalu yang memercikkan/terbitkan",
+          "Arti_kata_en": "And the producers of sparks",
+          "Text_latin  ": "fal-muriyati"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "قَدۡحٗا",
+          "Arti_kata_in": "api",
+          "Arti_kata_en": "striking",
+          "Text_latin  ": "qadhan"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+      "Ayat_latin": "fal-mugirati sub-ha",
+      "Terjemah_in": "yang menyerang (dengan tiba-tiba) pada waktu pagi",
+      "Terjemah_en": "Raiding at dawn.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَٱلۡمُغِيرَٰتِ",
+          "Arti_kata_in": "lalu yang menyerang",
+          "Arti_kata_en": "And the chargers",
+          "Text_latin  ": "fal-mughirati"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "صُبۡحٗا",
+          "Arti_kata_in": "diwaktu subuh/pagi",
+          "Arti_kata_en": "(at) dawn",
+          "Text_latin  ": "sub'han"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+      "Ayat_latin": "fa asarna bihi naq'a",
+      "Terjemah_in": "sehingga menerbangkan debu,",
+      "Terjemah_en": "Raising clouds of dust.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَأَثَرۡنَ",
+          "Arti_kata_in": "lalu ia menerbangkan",
+          "Arti_kata_en": "Then raise",
+          "Text_latin  ": "fa-atharna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِهِۦ",
+          "Arti_kata_in": "dengannya/karenanya",
+          "Arti_kata_en": "thereby",
+          "Text_latin  ": "bihi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "نَقۡعٗا",
+          "Arti_kata_in": "debu",
+          "Arti_kata_en": "dust",
+          "Text_latin  ": "naq'an"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+      "Ayat_latin": "fa wasatna bihi jam'a",
+      "Terjemah_in": "lalu menyerbu ke tengah-tengah kumpulan musuh,",
+      "Terjemah_en": "Storming into the midst.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "فَوَسَطۡنَ",
+          "Arti_kata_in": "maka ia menyerbu ketengah",
+          "Arti_kata_en": "Then penetrate (in the) center",
+          "Text_latin  ": "fawasatna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "بِهِۦ",
+          "Arti_kata_in": "dengannya",
+          "Arti_kata_en": "thereby",
+          "Text_latin  ": "bihi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "جَمۡعًا",
+          "Arti_kata_in": "kumpulan",
+          "Arti_kata_en": "(of) troops",
+          "Text_latin  ": "jam'an"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+      "Ayat_latin": "innal-insana lirabbihi lakanud",
+      "Terjemah_in": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya.",
+      "Terjemah_en": "Indeed, the human being is ungrateful to his Lord.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sungguh",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡإِنسَٰنَ",
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "mankind",
+          "Text_latin  ": "al-insana"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "لِرَبِّهِۦ",
+          "Arti_kata_in": "kepada Tuhannya",
+          "Arti_kata_en": "to his Lord",
+          "Text_latin  ": "lirabbihi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَكَنُودٞ",
+          "Arti_kata_in": "sangat ingkar/tidak berterima kasih",
+          "Arti_kata_en": "(is) surely ungrateful",
+          "Text_latin  ": "lakanudun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 7,
+      "Ayat_arabic ": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+      "Ayat_latin": "wa innahu 'ala zalika lasyahid",
+      "Terjemah_in": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya).",
+      "Terjemah_en": "And he bears witness to that.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِنَّهُۥ",
+          "Arti_kata_in": "dan sesungguhnya ia",
+          "Arti_kata_en": "And indeed he",
+          "Text_latin  ": "wa-innahu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "عَلَىٰ",
+          "Arti_kata_in": "atas",
+          "Arti_kata_en": "to",
+          "Text_latin  ": "ala"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ذَٰلِكَ",
+          "Arti_kata_in": "yang demikian/itu",
+          "Arti_kata_en": "that",
+          "Text_latin  ": "dhalika"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَشَهِيدٞ",
+          "Arti_kata_in": "benar-benar menyaksikan",
+          "Arti_kata_en": "surely (is) a witness",
+          "Text_latin  ": "lashahidun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 8,
+      "Ayat_arabic ": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+      "Ayat_latin": "wa innahu lihubbil-khairi lasyadid",
+      "Terjemah_in": "Sesungguhnya cintanya pada harta benar-benar berlebihan.",
+      "Terjemah_en": "And he is fierce in his love of wealth.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَإِنَّهُۥ",
+          "Arti_kata_in": "dan sesungguhnya dia",
+          "Arti_kata_en": "And indeed he (is)",
+          "Text_latin  ": "wa-innahu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "لِحُبِّ",
+          "Arti_kata_in": "benar-benar cinta",
+          "Arti_kata_en": "in (the) love",
+          "Text_latin  ": "lihubbi"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡخَيۡرِ",
+          "Arti_kata_in": "kebaikan (harta)",
+          "Arti_kata_en": "(of) wealth",
+          "Text_latin  ": "al-khayri"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَشَدِيدٌ",
+          "Arti_kata_in": "sungguh sangat",
+          "Arti_kata_en": "(is) surely intense",
+          "Text_latin  ": "lashadidun"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 9,
+      "Ayat_arabic ": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+      "Ayat_latin": "a fa la ya'lamu iza bu'sira ma fil-qubur",
+      "Terjemah_in": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur",
+      "Terjemah_en": "Does he not know? When the contents of the graves are scattered around.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "۞أَفَلَا",
+          "Arti_kata_in": "maka apakah tidak",
+          "Arti_kata_en": "But does not",
+          "Text_latin  ": "afala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَعۡلَمُ",
+          "Arti_kata_in": "dia mengetahui",
+          "Arti_kata_en": "he know",
+          "Text_latin  ": "ya'lamu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "إِذَا",
+          "Arti_kata_in": "apabila",
+          "Arti_kata_en": "when",
+          "Text_latin  ": "idha"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "بُعۡثِرَ",
+          "Arti_kata_in": "dibangkitkan",
+          "Arti_kata_en": "will be scattered",
+          "Text_latin  ": "bu'thira"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(is) in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "ٱلۡقُبُورِ",
+          "Arti_kata_in": "kubur",
+          "Arti_kata_en": "the graves",
+          "Text_latin  ": "al-quburi"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 10,
+      "Ayat_arabic ": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+      "Ayat_latin": "wa hussila ma fis-sudur",
+      "Terjemah_in": "dan ditampakkan apa yang tersimpan di dalam dada?",
+      "Terjemah_en": "And the contents of the hearts are obtained.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَحُصِّلَ",
+          "Arti_kata_in": "dan dilahirkan",
+          "Arti_kata_en": "And is made apparent",
+          "Text_latin  ": "wahussila"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(is) in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "ٱلصُّدُورِ",
+          "Arti_kata_in": "dada",
+          "Arti_kata_en": "the breasts",
+          "Text_latin  ": "as-suduri"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 11,
+      "Ayat_arabic ": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+      "Ayat_latin": "inna rabbahum bihim yauma'izil lakhabir",
+      "Terjemah_in": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Maha Teliti terhadap (keadaan) mereka.",
+      "Terjemah_en": "Their Lord, on that Day, is fully informed of them.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "رَبَّهُم",
+          "Arti_kata_in": "Tuhan mereka",
+          "Arti_kata_en": "their Lord",
+          "Text_latin  ": "rabbahum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "بِهِمۡ",
+          "Arti_kata_in": "pada mereka",
+          "Arti_kata_en": "about them",
+          "Text_latin  ": "bihim"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "يَوۡمَئِذٖ",
+          "Arti_kata_in": "pada hari itu",
+          "Arti_kata_en": "that Day",
+          "Text_latin  ": "yawma-idhin"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "لَّخَبِيرُۢ",
+          "Arti_kata_in": "benar-benar Maha Mengetahui",
+          "Arti_kata_en": "(is) surely All-Aware",
+          "Text_latin  ": "lakhabirun"
+        }
+      ]
+    }
+  ]
+}

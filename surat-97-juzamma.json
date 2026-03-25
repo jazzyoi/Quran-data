@@ -1,0 +1,261 @@
+{
+  "Nomor_surat": 97,
+  "Nama_surat": "Al-Qadr",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ",
+      "Ayat_latin": "inna anzalnahu fi lailatil-qadr",
+      "Terjemah_in": "Sesungguhnya Kami telah menurunkannya (Al-Qur’an) pada Lailatulqadar.",
+      "Terjemah_en": "We sent it down on the Night of Decree.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "إِنَّآ",
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed We",
+          "Text_latin  ": "inna"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَنزَلۡنَٰهُ",
+          "Arti_kata_in": "Kami telah menurunkannya",
+          "Arti_kata_en": "revealed it",
+          "Text_latin  ": "anzalnahu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "فِي",
+          "Arti_kata_in": "pada",
+          "Arti_kata_en": "in",
+          "Text_latin  ": "fi"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَيۡلَةِ",
+          "Arti_kata_in": "malam",
+          "Arti_kata_en": "(the) Night",
+          "Text_latin  ": "laylati"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡقَدۡرِ",
+          "Arti_kata_in": "kemuliaan",
+          "Arti_kata_en": "(of) Power",
+          "Text_latin  ": "al-qadri"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "وَمَآ اَدْرٰىكَ مَا لَيْلَةُ الْقَدْرِۗ",
+      "Ayat_latin": "wa ma adraka ma lailatul-qadr",
+      "Terjemah_in": "Tahukah kamu apakah Lailatulqadar itu?",
+      "Terjemah_en": "But what will convey to you what the Night of Decree is?",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَمَآ",
+          "Arti_kata_in": "dan apakah",
+          "Arti_kata_en": "And what",
+          "Text_latin  ": "wama"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَدۡرَىٰكَ",
+          "Arti_kata_in": "kamu tahu",
+          "Arti_kata_en": "can make you know",
+          "Text_latin  ": "adraka"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "لَيۡلَةُ",
+          "Arti_kata_in": "malam",
+          "Arti_kata_en": "(the) Night",
+          "Text_latin  ": "laylatu"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡقَدۡرِ",
+          "Arti_kata_in": "kemuliaan",
+          "Arti_kata_en": "(of) Power (is)",
+          "Text_latin  ": "al-qadri"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "لَيْلَةُ الْقَدْرِ ەۙ خَيْرٌ مِّنْ اَلْفِ شَهْرٍۗ",
+      "Ayat_latin": "lailatul-qadri khairum min alfi syahr",
+      "Terjemah_in": "Lailatulqadar itu lebih baik daripada seribu bulan.",
+      "Terjemah_en": "The Night of Decree is better than a thousand months.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَيۡلَةُ",
+          "Arti_kata_in": "malam",
+          "Arti_kata_en": "(The) Night",
+          "Text_latin  ": "laylatu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡقَدۡرِ",
+          "Arti_kata_in": "kemuliaan",
+          "Arti_kata_en": "(of) Power",
+          "Text_latin  ": "al-qadri"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "خَيۡرٞ",
+          "Arti_kata_in": "lebih baik",
+          "Arti_kata_en": "(is) better",
+          "Text_latin  ": "khayrun"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مِّنۡ",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "than",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَلۡفِ",
+          "Arti_kata_in": "seribu",
+          "Arti_kata_en": "a thousand",
+          "Text_latin  ": "alfi"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "شَهۡرٖ",
+          "Arti_kata_in": "bulan",
+          "Arti_kata_en": "month(s)",
+          "Text_latin  ": "shahrin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ",
+      "Ayat_latin": "tanazzalul-mala'ikatu war-ruhu fiha bi'izni rabbihim, ming kulli amr",
+      "Terjemah_in": "Pada malam itu turun para malaikat dan Rūḥ (Jibril) dengan izin Tuhannya untuk mengatur semua urusan.",
+      "Terjemah_en": "In it descend the angels and the Spirit, by the leave of their Lord, with every command.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "تَنَزَّلُ",
+          "Arti_kata_in": "turun",
+          "Arti_kata_en": "Descend",
+          "Text_latin  ": "tanazzalu"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "ٱلۡمَلَٰٓئِكَةُ",
+          "Arti_kata_in": "para malaikat",
+          "Arti_kata_en": "the Angels",
+          "Text_latin  ": "al-malaikatu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَٱلرُّوحُ",
+          "Arti_kata_in": "dan Roh/Jibril",
+          "Arti_kata_en": "and the Spirit",
+          "Text_latin  ": "war-ruhu"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "فِيهَا",
+          "Arti_kata_in": "padanya/pada malam",
+          "Arti_kata_en": "therein",
+          "Text_latin  ": "fiha"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "بِإِذۡنِ",
+          "Arti_kata_in": "dengan izin",
+          "Arti_kata_en": "by (the) permission",
+          "Text_latin  ": "bi-idh'ni"
+        },
+        {
+          "Nomor_kata": 6,
+          "Kata_arabic": "رَبِّهِم",
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "(of) their Lord",
+          "Text_latin  ": "rabbihim"
+        },
+        {
+          "Nomor_kata": 7,
+          "Kata_arabic": "مِّن",
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "for",
+          "Text_latin  ": "min"
+        },
+        {
+          "Nomor_kata": 8,
+          "Kata_arabic": "كُلِّ",
+          "Arti_kata_in": "segala",
+          "Arti_kata_en": "every",
+          "Text_latin  ": "kulli"
+        },
+        {
+          "Nomor_kata": 9,
+          "Kata_arabic": "أَمۡرٖ",
+          "Arti_kata_in": "urusan",
+          "Arti_kata_en": "affair",
+          "Text_latin  ": "amrin"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِ ࣖ",
+      "Ayat_latin": "salamun hiya hatta matla'il-fajr",
+      "Terjemah_in": "Sejahteralah (malam) itu sampai terbit fajar.",
+      "Terjemah_en": "Peace it is; until the rise of dawn.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "سَلَٰمٌ",
+          "Arti_kata_in": "sejahtera",
+          "Arti_kata_en": "Peace",
+          "Text_latin  ": "salamun"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "هِيَ",
+          "Arti_kata_in": "ia/malam itu",
+          "Arti_kata_en": "it (is)",
+          "Text_latin  ": "hiya"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "حَتَّىٰ",
+          "Arti_kata_in": "hingga",
+          "Arti_kata_en": "until",
+          "Text_latin  ": "hatta"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَطۡلَعِ",
+          "Arti_kata_in": "terbit",
+          "Arti_kata_en": "(the) emergence",
+          "Text_latin  ": "matla'i"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "ٱلۡفَجۡرِ",
+          "Arti_kata_in": "fajar",
+          "Arti_kata_en": "(of) the dawn",
+          "Text_latin  ": "al-fajri"
+        }
+      ]
+    }
+  ]
+}

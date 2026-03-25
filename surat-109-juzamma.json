@@ -1,0 +1,242 @@
+{
+  "Nomor_surat": 109,
+  "Nama_surat": "Al-Kafirun",
+  "Ayat": [
+    {
+      "Nomor_ayat": 1,
+      "Ayat_arabic ": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+      "Ayat_latin": "qul ya ayyuhal-kafirun",
+      "Terjemah_in": "Katakanlah (Nabi Muhammad), “Wahai orang-orang kafir,",
+      "Terjemah_en": "Say, “O disbelievers.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "قُلۡ",
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_latin  ": "qul"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "يَٰٓأَيُّهَا",
+          "Arti_kata_in": "wahai",
+          "Arti_kata_en": "O",
+          "Text_latin  ": "yaayyuha"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "ٱلۡكَٰفِرُونَ",
+          "Arti_kata_in": "orang-orang kafir",
+          "Arti_kata_en": "disbelievers",
+          "Text_latin  ": "al-kafiruna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 2,
+      "Ayat_arabic ": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+      "Ayat_latin": "la a'budu ma ta'budun",
+      "Terjemah_in": "aku tidak akan menyembah apa yang kamu sembah.",
+      "Terjemah_en": "I do not worship what you worship.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَآ",
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_latin  ": "la"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَعۡبُدُ",
+          "Arti_kata_in": "aku menyembah",
+          "Arti_kata_en": "I worship",
+          "Text_latin  ": "a'budu"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "مَا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "تَعۡبُدُونَ",
+          "Arti_kata_in": "kamu sembah",
+          "Arti_kata_en": "you worship",
+          "Text_latin  ": "ta'buduna"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 3,
+      "Ayat_arabic ": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+      "Ayat_latin": "wa la antum 'abiduna ma a'bud",
+      "Terjemah_in": "Kamu juga bukan penyembah apa yang aku sembah.",
+      "Terjemah_en": "Nor do you worship what I worship.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَآ",
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَنتُمۡ",
+          "Arti_kata_in": "kamu",
+          "Arti_kata_en": "you",
+          "Text_latin  ": "antum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَٰبِدُونَ",
+          "Arti_kata_in": "menyembah",
+          "Arti_kata_en": "(are) worshippers",
+          "Text_latin  ": "abiduna"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَآ",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "(of) what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَعۡبُدُ",
+          "Arti_kata_in": "aku sembah",
+          "Arti_kata_en": "I worship",
+          "Text_latin  ": "a'budu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 4,
+      "Ayat_arabic ": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+      "Ayat_latin": "wa la ana 'abidum ma 'abattum",
+      "Terjemah_in": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah.",
+      "Terjemah_en": "Nor do I serve what you serve.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَآ",
+          "Arti_kata_in": "dan bukanlah",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَنَا۠",
+          "Arti_kata_in": "aku",
+          "Arti_kata_en": "I am",
+          "Text_latin  ": "ana"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَابِدٞ",
+          "Arti_kata_in": "menjadi penyembah",
+          "Arti_kata_en": "a worshipper",
+          "Text_latin  ": "abidun"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَّا",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "(of) what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "عَبَدتُّمۡ",
+          "Arti_kata_in": "kamu sembah",
+          "Arti_kata_en": "you worship",
+          "Text_latin  ": "abadttum"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 5,
+      "Ayat_arabic ": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+      "Ayat_latin": "wa la antum 'abiduna ma a'bud",
+      "Terjemah_in": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
+      "Terjemah_en": "Nor do you serve what I serve.",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "وَلَآ",
+          "Arti_kata_in": "dan bukanlah",
+          "Arti_kata_en": "And not",
+          "Text_latin  ": "wala"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "أَنتُمۡ",
+          "Arti_kata_in": "kamu",
+          "Arti_kata_en": "you are",
+          "Text_latin  ": "antum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "عَٰبِدُونَ",
+          "Arti_kata_in": "menyembah",
+          "Arti_kata_en": "worshippers",
+          "Text_latin  ": "abiduna"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "مَآ",
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "(of) what",
+          "Text_latin  ": "ma"
+        },
+        {
+          "Nomor_kata": 5,
+          "Kata_arabic": "أَعۡبُدُ",
+          "Arti_kata_in": "aku sembah",
+          "Arti_kata_en": "I worship",
+          "Text_latin  ": "a'budu"
+        }
+      ]
+    },
+    {
+      "Nomor_ayat": 6,
+      "Ayat_arabic ": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+      "Ayat_latin": "lakum dinukum wa liya din",
+      "Terjemah_in": "Untukmu agamamu dan untukku agamaku.”",
+      "Terjemah_en": "You have your way, and I have my way.”",
+      "Kata": [
+        {
+          "Nomor_kata": 1,
+          "Kata_arabic": "لَكُمۡ",
+          "Arti_kata_in": "bagi kalian",
+          "Arti_kata_en": "For you",
+          "Text_latin  ": "lakum"
+        },
+        {
+          "Nomor_kata": 2,
+          "Kata_arabic": "دِينُكُمۡ",
+          "Arti_kata_in": "agamamu",
+          "Arti_kata_en": "(is) your religion",
+          "Text_latin  ": "dinukum"
+        },
+        {
+          "Nomor_kata": 3,
+          "Kata_arabic": "وَلِيَ",
+          "Arti_kata_in": "bagiku",
+          "Arti_kata_en": "and for me",
+          "Text_latin  ": "waliya"
+        },
+        {
+          "Nomor_kata": 4,
+          "Kata_arabic": "دِينِ",
+          "Arti_kata_in": "agamaku",
+          "Arti_kata_en": "(is) my religion",
+          "Text_latin  ": "dini"
+        }
+      ]
+    }
+  ]
+}
