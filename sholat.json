@@ -40,9 +40,7 @@
     "It is You we worship and You we ask for help",
     "Guide us to the straight path",
     "The path of those upon whom You have bestowed favor not of those who have earned Your anger or gone astray"
-  ],
-  "voice": "https://od.lk/d/NjNfNzkwNTU3ODFf/AL-Fatihah.mp3"
-}
+  ], "voice": "https://od.lk/d/NjNfNzkwNTU3ODFf/AL-Fatihah.mp3"},
     { "key": "takbir_ruku", "stepName": "Takbir", "icon": "🙌", "arabic": "أَللهُ أَكْبَر", "latin": "Allâhu Akbar", "indonesian": "Allah Maha Besar", "english": "Allah the greatest", "voice": "https://od.lk/d/NjNfNzk3Mjk0NDFf/Takbir.mp3" },
     { "key": "ruku", "stepName": "Ruku'", "icon": "🙇", "arabic": "سُبْحَانَ رَبِّىَ الْعَظِيْمِ ", "latin": "Subhaana robbiyal 'adziimi (3x)", "indonesian": "Maha Suci Tuhanku Yang Maha Agung  (3x)", "english": "Glory be to my Lord, the Magnificent (3x)", "voice": "https://od.lk/d/NjNfNzkwNTI5MzFf/Ruku%27.mp3" },
     { "key": "itidal", "stepName": "I'tidal", "icon": "🧍", "arabic": " سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ  رَبَّنَاوَ لَكَ الْحَمْدُ", "latin": "Sami'allaahu liman hamidah. Robbanaa walakal hamdu ", "indonesian": "Allah mendengar orang yang memuji-Nya. Ya Tuhan kami, bagi-Mu segala puji", "english": "Allah hears those who praise Him. Our Lord, to You is all praise", "voice": "https://od.lk/d/NjNfNzkwNTMwNTZf/I%27tidal.mp3" },
