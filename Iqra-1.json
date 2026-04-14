@@ -6,7 +6,7 @@
       "lesson_id": 1,
       "title": "Huruf Hijaiyah (1)",
       "items": [
-        {"id": 1, "text": "ب س م =  بِسْمِ", "IN": "Alif", "EN": "a"},
+        {"id": 1, "text": "ب س م     بِسْمِ", "IN": "Bismi", "EN": "Bismi"},
         {"id": 2, "text": "ب", "IN": "Ba", "EN": "b"},
         {"id": 3, "text": "ت", "IN": "Ta", "EN": "t"},
         {"id": 4, "text": "ث", "IN": "Tha", "EN": "th"},
