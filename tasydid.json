@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "arab": "اَ بِّ تٌ",
+    "latin_in": "ab-bi tun",
+    "latin_en": "ab-bi tun",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 2,
+    "arab": "بِ تُ ثًّا",
+    "latin_in": "bi tuts-tsan",
+    "latin_en": "bi tuth-than",
+    "harakat_dominan": "Tasydid + Tanwin Fathah"
+  },
+  {
+    "id": 3,
+    "arab": "تَبَّ ثِ جٍ",
+    "latin_in": "tab-ba tsi jin",
+    "latin_en": "tab-ba thi jin",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 4,
+    "arab": "ثُ جَّ حْ",
+    "latin_in": "tsuj-ja hah",
+    "latin_en": "thuj-ja hah",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 5,
+    "arab": "جِ حُّ خَ",
+    "latin_in": "jih-hu kha",
+    "latin_en": "jih-hu kha",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 6,
+    "arab": "حَ خِّ دُ",
+    "latin_in": "hakh-khi du",
+    "latin_en": "hakh-khi du",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 7,
+    "arab": "خُ دَّ ذِ",
+    "latin_in": "khud-da dzi",
+    "latin_en": "khud-da dhi",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 8,
+    "arab": "دَ ذِّ رٌ",
+    "latin_in": "dadz-dzi run",
+    "latin_en": "dadh-dhi run",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 9,
+    "arab": "ذِ رُّ زٍ",
+    "latin_in": "dhir-ru zin",
+    "latin_en": "dhir-ru zin",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 10,
+    "arab": "رُ زَّ سْ",
+    "latin_in": "ruz-za sah",
+    "latin_en": "ruz-za sah",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 11,
+    "arab": "زَ سِّ شٌ",
+    "latin_in": "zas-si syun",
+    "latin_en": "zas-si shun",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 12,
+    "arab": "سِ شُّ صًا",
+    "latin_in": "sisy-syu shan",
+    "latin_en": "sish-shu san",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 13,
+    "arab": "شُ صَّ ضٍ",
+    "latin_in": "shush-sha dhi",
+    "latin_en": "shush-sa din",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 14,
+    "arab": "صَ ضِّ طْ",
+    "latin_in": "shadh-dhi thah",
+    "latin_en": "sad-di tah",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 15,
+    "arab": "ضِ طُّ ظٌ",
+    "latin_in": "dhith-thu zhun",
+    "latin_en": "dith-tu zun",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 16,
+    "arab": "طُ ظَّ عٍ",
+    "latin_in": "thuz-zha 'in",
+    "latin_en": "tuz-za 'in",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 17,
+    "arab": "ظَ عِّ غً",
+    "latin_in": "zha' 'i ghan",
+    "latin_en": "za' 'i ghan",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 18,
+    "arab": "عِ غُّ فْ",
+    "latin_in": "'igh-ghu fah",
+    "latin_en": "'igh-ghu fah",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 19,
+    "arab": "غُ فَّ قٌ",
+    "latin_in": "ghuf-fa qun",
+    "latin_en": "ghuf-fa kun",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 20,
+    "arab": "فَقِّ كٍ",
+    "latin_in": "faq-qi kin",
+    "latin_en": "faq-ki kin",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 21,
+    "arab": "قِ كُّ لًا",
+    "latin_in": "qik-ku lan",
+    "latin_en": "qik-ku lan",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 22,
+    "arab": "كُ لَّ مْ",
+    "latin_in": "kul-la mah",
+    "latin_en": "kul-la mah",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 23,
+    "arab": "لَ مِّ نٌ",
+    "latin_in": "lam-mi nun",
+    "latin_en": "lam-mi nun",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 24,
+    "arab": "مِ نُّ وً",
+    "latin_in": "min-nu wan",
+    "latin_en": "min-nu wan",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 25,
+    "arab": "نُ وَّ هٍ",
+    "latin_in": "nuw-wa hin",
+    "latin_en": "nuw-wa hin",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 26,
+    "arab": "وَ هِّ يْ",
+    "latin_in": "wah-hi yah",
+    "latin_en": "wah-hi yah",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 27,
+    "arab": "اِ جُّ ذً",
+    "latin_in": "ij-ju dzan",
+    "latin_en": "ij-ju dhan",
+    "harakat_dominan": "Tasydid + Dhommah"
+  },
+  {
+    "id": 28,
+    "arab": "بَ حَّ رٌ",
+    "latin_in": "bah-ha run",
+    "latin_en": "bah-ha run",
+    "harakat_dominan": "Tasydid + Fathah"
+  },
+  {
+    "id": 29,
+    "arab": "تُ خِّ زٍ",
+    "latin_in": "tukh-khi zin",
+    "latin_en": "tukh-khi zin",
+    "harakat_dominan": "Tasydid + Kasrah"
+  },
+  {
+    "id": 30,
+    "arab": "ثَ دُّ سْ",
+    "latin_in": "tsad-du sah",
+    "latin_en": "thad-du sah",
+    "harakat_dominan": "Tasydid + Dhommah"
+  }
+]

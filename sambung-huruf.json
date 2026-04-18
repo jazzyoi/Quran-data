@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "arab_kombinasi": "بِسْمِ     ب س م",
+    "latin_in": "Bismi",
+    "latin_en": "Bismi"
+  },
+  {
+    "id": 2,
+    "arab_kombinasi": "اللهِ     ا ل ل ه",
+    "latin_in": "Allāhi",
+    "latin_en": "Allāh"
+  },
+  {
+    "id": 3,
+    "arab_kombinasi": "رَبِّ     ر ب",
+    "latin_in": "Rabbi",
+    "latin_en": "Rabbi"
+  },
+  {
+    "id": 4,
+    "arab_kombinasi": "عَلِمَ     ع ل m",
+    "latin_in": "‘Alima",
+    "latin_en": "‘Alima"
+  },
+  {
+    "id": 5,
+    "arab_kombinasi": "نُوْرٌ     ن و ر",
+    "latin_in": "Nūrun",
+    "latin_en": "Nūrun"
+  },
+  {
+    "id": 6,
+    "arab_kombinasi": "قُلْ     ق ل",
+    "latin_in": "Qul",
+    "latin_en": "Qul"
+  },
+  {
+    "id": 7,
+    "arab_kombinasi": "سَلَامٌ     س ل م",
+    "latin_in": "Salāmun",
+    "latin_en": "Salāmun"
+  },
+  {
+    "id": 8,
+    "arab_kombinasi": "حَقٌّ     ح ق",
+    "latin_in": "Haqqun",
+    "latin_en": "Haqqun"
+  },
+  {
+    "id": 9,
+    "arab_kombinasi": "كَتَبَ     ك ت ب",
+    "latin_in": "Kataba",
+    "latin_en": "Kataba"
+  },
+  {
+    "id": 10,
+    "arab_kombinasi": "خَلَقَ     خ ل ق",
+    "latin_in": "Khalaqa",
+    "latin_en": "Khalaqa"
+  },
+  {
+    "id": 11,
+    "arab_kombinasi": "شَمْسٌ     ش م س",
+    "latin_in": "Syamsun",
+    "latin_en": "Shamsun"
+  },
+  {
+    "id": 12,
+    "arab_kombinasi": "قَمَرٌ     ق م ر",
+    "latin_in": "Qamarun",
+    "latin_en": "Qamarun"
+  },
+  {
+    "id": 13,
+    "arab_kombinasi": "فَجْرٌ     ف ج ر",
+    "latin_in": "Fajrun",
+    "latin_en": "Fajrun"
+  },
+  {
+    "id": 14,
+    "arab_kombinasi": "لَيْلٌ     ل ي ل",
+    "latin_in": "Lailun",
+    "latin_en": "Lailun"
+  },
+  {
+    "id": 15,
+    "arab_kombinasi": "نَهْرٌ     ن ه ر",
+    "latin_in": "Nahrun",
+    "latin_en": "Nahrun"
+  },
+  {
+    "id": 16,
+    "arab_kombinasi": "جَنَّةٌ     ج ن ة",
+    "latin_in": "Jannatun",
+    "latin_en": "Jannatun"
+  },
+  {
+    "id": 17,
+    "arab_kombinasi": "نَارٌ     ن ا ر",
+    "latin_in": "Nārun",
+    "latin_en": "Nārun"
+  },
+  {
+    "id": 18,
+    "arab_kombinasi": "حَمْدٌ     ح م د",
+    "latin_in": "Hamdun",
+    "latin_en": "Hamdun"
+  },
+  {
+    "id": 19,
+    "arab_kombinasi": "صَبْرٌ     ص ب ر",
+    "latin_in": "Shabrun",
+    "latin_en": "Sabrun"
+  },
+  {
+    "id": 20,
+    "arab_kombinasi": "رَحْمَةٌ     ر ح م ة",
+    "latin_in": "Rahmatun",
+    "latin_en": "Rahmatun"
+  },
+  {
+    "id": 21,
+    "arab_kombinasi": "مَلِكٌ     م ل ك",
+    "latin_in": "Malikun",
+    "latin_en": "Malikun"
+  },
+  {
+    "id": 22,
+    "arab_kombinasi": "كَوْثَرٌ     ك و ث ر",
+    "latin_in": "Kautsarun",
+    "latin_en": "Kawtharun"
+  },
+  {
+    "id": 23,
+    "arab_kombinasi": "عَصْرٌ     ع ص ر",
+    "latin_in": "‘Ashrun",
+    "latin_en": "‘Asrun"
+  },
+  {
+    "id": 24,
+    "arab_kombinasi": "فَلَقٌ     ف ل ق",
+    "latin_in": "Falaqun",
+    "latin_en": "Falaqun"
+  },
+  {
+    "id": 25,
+    "arab_kombinasi": "نَاسٌ     ن ا س",
+    "latin_in": "Nāsun",
+    "latin_en": "Nāsun"
+  },
+  {
+    "id": 26,
+    "arab_kombinasi": "مَسَدٌ     م س د",
+    "latin_in": "Masadun",
+    "latin_en": "Masadun"
+  },
+  {
+    "id": 27,
+    "arab_kombinasi": "فِيْلٌ     ف ي ل",
+    "latin_in": "Fīlun",
+    "latin_en": "Fīlun"
+  },
+  {
+    "id": 28,
+    "arab_kombinasi": "عَادٌ     ع ا د",
+    "latin_in": "‘Ādun",
+    "latin_en": "‘Ādun"
+  },
+  {
+    "id": 29,
+    "arab_kombinasi": "ثَمُوْدُ     ث م و د",
+    "latin_in": "Tsamūdu",
+    "latin_en": "Thamūdu"
+  },
+  {
+    "id": 30,
+    "arab_kombinasi": "فَوْزٌ     ف و ز",
+    "latin_in": "Fauzun",
+    "latin_en": "Fawzun"
+  }
+]
