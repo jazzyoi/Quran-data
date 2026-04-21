@@ -15,14 +15,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَٱلذَّٰرِيَٰتِ",
-          "Arti_kata": "demi yang menerbangkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "demi yang menerbangkan",
+          "Arti_kata_en": "By those scattering",
+          "Text_Latin": "wad-dhariyati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ذَرۡوٗا",
-          "Arti_kata": "dengan menerbangkan sekuat-kuatnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan menerbangkan sekuat-kuatnya",
+          "Arti_kata_en": "dispersing",
+          "Text_Latin": "dharwan",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -36,14 +40,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَٱلۡحَٰمِلَٰتِ",
-          "Arti_kata": "maka yang mengandung",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka yang mengandung",
+          "Arti_kata_en": "And those carrying",
+          "Text_Latin": "fal-hamilati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "وِقۡرٗا",
-          "Arti_kata": "beban berat",
-          "Jenis_kata": null
+          "Arti_kata_in": "beban berat",
+          "Arti_kata_en": "a load",
+          "Text_Latin": "wiq'ran",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -57,14 +65,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَٱلۡجَٰرِيَٰتِ",
-          "Arti_kata": "maka yang berlayar",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka yang berlayar",
+          "Arti_kata_en": "And those sailing",
+          "Text_Latin": "fal-jariyati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "يُسۡرٗا",
-          "Arti_kata": "dengan mudah",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan mudah",
+          "Arti_kata_en": "(with) ease",
+          "Text_Latin": "yus'ran",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -78,14 +90,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَٱلۡمُقَسِّمَٰتِ",
-          "Arti_kata": "maka yang membagi",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka yang membagi",
+          "Arti_kata_en": "And those distributing",
+          "Text_Latin": "fal-muqasimati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَمۡرًا",
-          "Arti_kata": "pekara/urusan",
-          "Jenis_kata": null
+          "Arti_kata_in": "pekara/urusan",
+          "Arti_kata_en": "Command",
+          "Text_Latin": "amran",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -99,20 +115,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّمَا",
-          "Arti_kata": "sesungguhnya hanyalah",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya hanyalah",
+          "Arti_kata_en": "Indeed what",
+          "Text_Latin": "innama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "تُوعَدُونَ",
-          "Arti_kata": "kamu dijanjikan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu dijanjikan",
+          "Arti_kata_en": "you are promised",
+          "Text_Latin": "tu'aduna",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "لَصَادِقٞ",
-          "Arti_kata": "pasti benar",
-          "Jenis_kata": null
+          "Arti_kata_in": "pasti benar",
+          "Arti_kata_en": "(is) surely true",
+          "Text_Latin": "lasadiqun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -126,20 +148,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَإِنَّ",
-          "Arti_kata": "dan sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan sesungguhnya",
+          "Arti_kata_en": "And indeed",
+          "Text_Latin": "wa-inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلدِّينَ",
-          "Arti_kata": "pembalasan",
-          "Jenis_kata": null
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "the Judgment",
+          "Text_Latin": "ad-dina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "لَوَٰقِعٞ",
-          "Arti_kata": "pasti terjadi",
-          "Jenis_kata": null
+          "Arti_kata_in": "pasti terjadi",
+          "Arti_kata_en": "(is) surely to occur",
+          "Text_Latin": "lawaqi'un",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -153,20 +181,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَٱلسَّمَآءِ",
-          "Arti_kata": "demi langit",
-          "Jenis_kata": null
+          "Arti_kata_in": "demi langit",
+          "Arti_kata_en": "By the heaven",
+          "Text_Latin": "was-samai",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ذَاتِ",
-          "Arti_kata": "mempunyai",
-          "Jenis_kata": null
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "full of",
+          "Text_Latin": "dhati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱلۡحُبُكِ",
-          "Arti_kata": "jalan-jalan",
-          "Jenis_kata": null
+          "Arti_kata_in": "jalan-jalan",
+          "Arti_kata_en": "pathways",
+          "Text_Latin": "al-hubuki",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -180,26 +214,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّكُمۡ",
-          "Arti_kata": "sesungguhnya kalian",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya kalian",
+          "Arti_kata_en": "Indeed you",
+          "Text_Latin": "innakum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "لَفِي",
-          "Arti_kata": "benar-benar dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "benar-benar dalam",
+          "Arti_kata_en": "(are) surely in",
+          "Text_Latin": "lafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "قَوۡلٖ",
-          "Arti_kata": "perkataan",
-          "Jenis_kata": null
+          "Arti_kata_in": "perkataan",
+          "Arti_kata_en": "a speech",
+          "Text_Latin": "qawlin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "مُّخۡتَلِفٖ",
-          "Arti_kata": "berbeda-beda",
-          "Jenis_kata": null
+          "Arti_kata_in": "berbeda-beda",
+          "Arti_kata_en": "differing",
+          "Text_Latin": "mukh'talifin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -213,26 +255,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "يُؤۡفَكُ",
-          "Arti_kata": "dipalingkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dipalingkan",
+          "Arti_kata_en": "Deluded away",
+          "Text_Latin": "yu'faku",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عَنۡهُ",
-          "Arti_kata": "darinya",
-          "Jenis_kata": null
+          "Arti_kata_in": "darinya",
+          "Arti_kata_en": "from it",
+          "Text_Latin": "anhu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مَنۡ",
-          "Arti_kata": "orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang yang",
+          "Arti_kata_en": "(is he) who",
+          "Text_Latin": "man",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أُفِكَ",
-          "Arti_kata": "dipalingkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dipalingkan",
+          "Arti_kata_en": "is deluded",
+          "Text_Latin": "ufika",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -246,14 +296,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "قُتِلَ",
-          "Arti_kata": "dibunuh",
-          "Jenis_kata": null
+          "Arti_kata_in": "dibunuh",
+          "Arti_kata_en": "Cursed be",
+          "Text_Latin": "qutila",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلۡخَرَّٰصُونَ",
-          "Arti_kata": "orang-orang yang banyak berdusta",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang banyak berdusta",
+          "Arti_kata_en": "the liars",
+          "Text_Latin": "al-kharasuna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -267,32 +321,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "ٱلَّذِينَ",
-          "Arti_kata": "orang-orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "Those who",
+          "Text_Latin": "alladhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "هُمۡ",
-          "Arti_kata": "mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "[they]",
+          "Text_Latin": "hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فِي",
-          "Arti_kata": "dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(are) in",
+          "Text_Latin": "fi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "غَمۡرَةٖ",
-          "Arti_kata": "kebodohan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kebodohan",
+          "Arti_kata_en": "flood",
+          "Text_Latin": "ghamratin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "سَاهُونَ",
-          "Arti_kata": "orang-orang yang lalai",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang lalai",
+          "Arti_kata_en": "(of) heedlessness",
+          "Text_Latin": "sahuna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -306,26 +370,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "يَسَۡٔلُونَ",
-          "Arti_kata": "mereka bertanya",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka bertanya",
+          "Arti_kata_en": "They ask",
+          "Text_Latin": "yasaluna",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَيَّانَ",
-          "Arti_kata": "kapankah",
-          "Jenis_kata": null
+          "Arti_kata_in": "kapankah",
+          "Arti_kata_en": "When",
+          "Text_Latin": "ayyana",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "يَوۡمُ",
-          "Arti_kata": "hari",
-          "Jenis_kata": null
+          "Arti_kata_in": "hari",
+          "Arti_kata_en": "(is the) Day",
+          "Text_Latin": "yawmu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلدِّينِ",
-          "Arti_kata": "pembalasan",
-          "Jenis_kata": null
+          "Arti_kata_in": "pembalasan",
+          "Arti_kata_en": "(of) Judgment",
+          "Text_Latin": "ad-dini",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -339,32 +411,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "يَوۡمَ",
-          "Arti_kata": "pada hari",
-          "Jenis_kata": null
+          "Arti_kata_in": "pada hari",
+          "Arti_kata_en": "A Day",
+          "Text_Latin": "yawma",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "هُمۡ",
-          "Arti_kata": "mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_Latin": "hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "عَلَى",
-          "Arti_kata": "di atas",
-          "Jenis_kata": null
+          "Arti_kata_in": "di atas",
+          "Arti_kata_en": "over",
+          "Text_Latin": "ala",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلنَّارِ",
-          "Arti_kata": "neraka",
-          "Jenis_kata": null
+          "Arti_kata_in": "neraka",
+          "Arti_kata_en": "the Fire",
+          "Text_Latin": "an-nari",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "يُفۡتَنُونَ",
-          "Arti_kata": "mereka disiksa",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka disiksa",
+          "Arti_kata_en": "will be tried",
+          "Text_Latin": "yuf'tanuna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -378,44 +460,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "ذُوقُواْ",
-          "Arti_kata": "rasakanlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "rasakanlah",
+          "Arti_kata_en": "Taste",
+          "Text_Latin": "dhuqu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "فِتۡنَتَكُمۡ",
-          "Arti_kata": "siksaanmu",
-          "Jenis_kata": null
+          "Arti_kata_in": "siksaanmu",
+          "Arti_kata_en": "your trial",
+          "Text_Latin": "fit'natakum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "هَٰذَا",
-          "Arti_kata": "ini",
-          "Jenis_kata": null
+          "Arti_kata_in": "ini",
+          "Arti_kata_en": "This",
+          "Text_Latin": "hadha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلَّذِي",
-          "Arti_kata": "yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "(is) what",
+          "Text_Latin": "alladhi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "كُنتُم",
-          "Arti_kata": "kalian adalah",
-          "Jenis_kata": null
+          "Arti_kata_in": "kalian adalah",
+          "Arti_kata_en": "you were",
+          "Text_Latin": "kuntum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "بِهِۦ",
-          "Arti_kata": "dengannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengannya",
+          "Arti_kata_en": "for it",
+          "Text_Latin": "bihi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "تَسۡتَعۡجِلُونَ",
-          "Arti_kata": "kamu minta disegerakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu minta disegerakan",
+          "Arti_kata_en": "seeking to hasten",
+          "Text_Latin": "tasta'jiluna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -429,32 +525,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّ",
-          "Arti_kata": "sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_Latin": "inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلۡمُتَّقِينَ",
-          "Arti_kata": "orang-orang yang bertakwa",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang bertakwa",
+          "Arti_kata_en": "the righteous",
+          "Text_Latin": "al-mutaqina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فِي",
-          "Arti_kata": "dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "(will be) in",
+          "Text_Latin": "fi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "جَنَّٰتٖ",
-          "Arti_kata": "surga",
-          "Jenis_kata": null
+          "Arti_kata_in": "surga",
+          "Arti_kata_en": "Gardens",
+          "Text_Latin": "jannatin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "وَعُيُونٍ",
-          "Arti_kata": "dan mata air",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan mata air",
+          "Arti_kata_en": "and springs",
+          "Text_Latin": "wa'uyunin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -468,56 +574,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "ءَاخِذِينَ",
-          "Arti_kata": "mereka mengambil",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka mengambil",
+          "Arti_kata_en": "Taking",
+          "Text_Latin": "akhidhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "مَآ",
-          "Arti_kata": "apa yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "apa yang",
+          "Arti_kata_en": "what",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ءَاتَىٰهُمۡ",
-          "Arti_kata": "memberikan pada mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "memberikan pada mereka",
+          "Arti_kata_en": "(their Lord) has given them",
+          "Text_Latin": "atahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "رَبُّهُمۡۚ",
-          "Arti_kata": "Tuhan mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhan mereka",
+          "Arti_kata_en": "their Lord",
+          "Text_Latin": "rabbuhum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِنَّهُمۡ",
-          "Arti_kata": "sesungguhnya mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya mereka",
+          "Arti_kata_en": "Indeed, they",
+          "Text_Latin": "innahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "كَانُواْ",
-          "Arti_kata": "adalah mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "adalah mereka",
+          "Arti_kata_en": "were",
+          "Text_Latin": "kanu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "قَبۡلَ",
-          "Arti_kata": "sebelum",
-          "Jenis_kata": null
+          "Arti_kata_in": "sebelum",
+          "Arti_kata_en": "before",
+          "Text_Latin": "qabla",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "ذَٰلِكَ",
-          "Arti_kata": "demikian itu",
-          "Jenis_kata": null
+          "Arti_kata_in": "demikian itu",
+          "Arti_kata_en": "that",
+          "Text_Latin": "dhalika",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "مُحۡسِنِينَ",
-          "Arti_kata": "orang-orang yang berbuat baik",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang berbuat baik",
+          "Arti_kata_en": "good-doers",
+          "Text_Latin": "muh'sinina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -531,38 +655,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "كَانُواْ",
-          "Arti_kata": "adalah mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "adalah mereka",
+          "Arti_kata_en": "They used (to)",
+          "Text_Latin": "kanu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "قَلِيلٗا",
-          "Arti_kata": "sedikit",
-          "Jenis_kata": null
+          "Arti_kata_in": "sedikit",
+          "Arti_kata_en": "little",
+          "Text_Latin": "qalilan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مِّنَ",
-          "Arti_kata": "dari/di waktu",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari/di waktu",
+          "Arti_kata_en": "of",
+          "Text_Latin": "mina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلَّيۡلِ",
-          "Arti_kata": "malam",
-          "Jenis_kata": null
+          "Arti_kata_in": "malam",
+          "Arti_kata_en": "the night",
+          "Text_Latin": "al-layli",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "مَا",
-          "Arti_kata": "tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "[what]",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "يَهۡجَعُونَ",
-          "Arti_kata": "mereka tidur",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka tidur",
+          "Arti_kata_en": "sleep",
+          "Text_Latin": "yahja'una",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -576,20 +712,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَبِٱلۡأَسۡحَارِ",
-          "Arti_kata": "dan di waktu sahur",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan di waktu sahur",
+          "Arti_kata_en": "And in the hours before dawn",
+          "Text_Latin": "wabil-ashari",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "هُمۡ",
-          "Arti_kata": "mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_Latin": "hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "يَسۡتَغۡفِرُونَ",
-          "Arti_kata": "mereka mohon ampun",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka mohon ampun",
+          "Arti_kata_en": "would ask forgiveness",
+          "Text_Latin": "yastaghfiruna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -603,32 +745,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِيٓ",
-          "Arti_kata": "dan dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan dalam",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَمۡوَٰلِهِمۡ",
-          "Arti_kata": "harta mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "harta mereka",
+          "Arti_kata_en": "their wealth",
+          "Text_Latin": "amwalihim",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "حَقّٞ",
-          "Arti_kata": "hak",
-          "Jenis_kata": null
+          "Arti_kata_in": "hak",
+          "Arti_kata_en": "(was the) right",
+          "Text_Latin": "haqqun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "لِّلسَّآئِلِ",
-          "Arti_kata": "untuk orang yang meminta",
-          "Jenis_kata": null
+          "Arti_kata_in": "untuk orang yang meminta",
+          "Arti_kata_en": "(of) those who asked",
+          "Text_Latin": "lilssaili",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "وَٱلۡمَحۡرُومِ",
-          "Arti_kata": "dan orang yang tidak meminta",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan orang yang tidak meminta",
+          "Arti_kata_en": "and the deprived",
+          "Text_Latin": "wal-mahrumi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -642,26 +794,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِي",
-          "Arti_kata": "dan di",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan di",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلۡأَرۡضِ",
-          "Arti_kata": "bumi itu",
-          "Jenis_kata": null
+          "Arti_kata_in": "bumi itu",
+          "Arti_kata_en": "the earth",
+          "Text_Latin": "al-ardi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ءَايَٰتٞ",
-          "Arti_kata": "tanda-tanda",
-          "Jenis_kata": null
+          "Arti_kata_in": "tanda-tanda",
+          "Arti_kata_en": "(are) signs",
+          "Text_Latin": "ayatun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "لِّلۡمُوقِنِينَ",
-          "Arti_kata": "bagi orang-orang yang yakin",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi orang-orang yang yakin",
+          "Arti_kata_en": "for those who are certain",
+          "Text_Latin": "lil'muqinina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -675,26 +835,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِيٓ",
-          "Arti_kata": "dan pada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan pada",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَنفُسِكُمۡۚ",
-          "Arti_kata": "diri kalian sendiri",
-          "Jenis_kata": null
+          "Arti_kata_in": "diri kalian sendiri",
+          "Arti_kata_en": "yourselves",
+          "Text_Latin": "anfusikum",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "أَفَلَا",
-          "Arti_kata": "maka apakah tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka apakah tidak",
+          "Arti_kata_en": "Then will not",
+          "Text_Latin": "afala",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "تُبۡصِرُونَ",
-          "Arti_kata": "kamu memperhatikan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu memperhatikan",
+          "Arti_kata_en": "you see",
+          "Text_Latin": "tub'siruna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -708,32 +876,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِي",
-          "Arti_kata": "dan di",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan di",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلسَّمَآءِ",
-          "Arti_kata": "langit",
-          "Jenis_kata": null
+          "Arti_kata_in": "langit",
+          "Arti_kata_en": "the heaven",
+          "Text_Latin": "as-samai",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "رِزۡقُكُمۡ",
-          "Arti_kata": "rezekimu",
-          "Jenis_kata": null
+          "Arti_kata_in": "rezekimu",
+          "Arti_kata_en": "(is) your provision",
+          "Text_Latin": "riz'qukum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "وَمَا",
-          "Arti_kata": "dan apa yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan apa yang",
+          "Arti_kata_en": "and what",
+          "Text_Latin": "wama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "تُوعَدُونَ",
-          "Arti_kata": "dijanjikan padamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "dijanjikan padamu",
+          "Arti_kata_en": "you are promised",
+          "Text_Latin": "tu'aduna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -747,56 +925,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَوَرَبِّ",
-          "Arti_kata": "demi Tuhan",
-          "Jenis_kata": null
+          "Arti_kata_in": "demi Tuhan",
+          "Arti_kata_en": "Then by (the) Lord",
+          "Text_Latin": "fawarabbi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلسَّمَآءِ",
-          "Arti_kata": "langit",
-          "Jenis_kata": null
+          "Arti_kata_in": "langit",
+          "Arti_kata_en": "(of) the heaven",
+          "Text_Latin": "as-samai",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "وَٱلۡأَرۡضِ",
-          "Arti_kata": "dan bumi",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan bumi",
+          "Arti_kata_en": "and the earth",
+          "Text_Latin": "wal-ardi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "إِنَّهُۥ",
-          "Arti_kata": "sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "indeed it",
+          "Text_Latin": "innahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "لَحَقّٞ",
-          "Arti_kata": "sungguh benar",
-          "Jenis_kata": null
+          "Arti_kata_in": "sungguh benar",
+          "Arti_kata_en": "(is) surely (the) truth",
+          "Text_Latin": "lahaqqun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "مِّثۡلَ",
-          "Arti_kata": "seperti",
-          "Jenis_kata": null
+          "Arti_kata_in": "seperti",
+          "Arti_kata_en": "(just) as",
+          "Text_Latin": "mith'la",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "مَآ",
-          "Arti_kata": "apa",
-          "Jenis_kata": null
+          "Arti_kata_in": "apa",
+          "Arti_kata_en": "[what]",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "أَنَّكُمۡ",
-          "Arti_kata": "bahwasanya kamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "bahwasanya kamu",
+          "Arti_kata_en": "you",
+          "Text_Latin": "annakum",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "تَنطِقُونَ",
-          "Arti_kata": "kamu ucapkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu ucapkan",
+          "Arti_kata_en": "speak",
+          "Text_Latin": "tantiquna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -810,38 +1006,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "هَلۡ",
-          "Arti_kata": "apakah",
-          "Jenis_kata": null
+          "Arti_kata_in": "apakah",
+          "Arti_kata_en": "Has",
+          "Text_Latin": "hal",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَتَىٰكَ",
-          "Arti_kata": "telah sampai kepadamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "telah sampai kepadamu",
+          "Arti_kata_en": "reached you",
+          "Text_Latin": "ataka",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "حَدِيثُ",
-          "Arti_kata": "cerita",
-          "Jenis_kata": null
+          "Arti_kata_in": "cerita",
+          "Arti_kata_en": "(the) narration",
+          "Text_Latin": "hadithu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ضَيۡفِ",
-          "Arti_kata": "tamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "tamu",
+          "Arti_kata_en": "(of the) guests",
+          "Text_Latin": "dayfi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِبۡرَٰهِيمَ",
-          "Arti_kata": "Ibrahim",
-          "Jenis_kata": null
+          "Arti_kata_in": "Ibrahim",
+          "Arti_kata_en": "(of) Ibrahim",
+          "Text_Latin": "ib'rahima",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلۡمُكۡرَمِينَ",
-          "Arti_kata": "orang-orang yang dimuliakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang dimuliakan",
+          "Arti_kata_en": "the honored",
+          "Text_Latin": "al-muk'ramina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -855,56 +1063,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِذۡ",
-          "Arti_kata": "ketika",
-          "Jenis_kata": null
+          "Arti_kata_in": "ketika",
+          "Arti_kata_en": "When",
+          "Text_Latin": "idh",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "دَخَلُواْ",
-          "Arti_kata": "mereka masuk",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka masuk",
+          "Arti_kata_en": "they entered",
+          "Text_Latin": "dakhalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "عَلَيۡهِ",
-          "Arti_kata": "atasnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "atasnya",
+          "Arti_kata_en": "upon him",
+          "Text_Latin": "alayhi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "فَقَالُواْ",
-          "Arti_kata": "lalu mereka berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu mereka berkata",
+          "Arti_kata_en": "and said",
+          "Text_Latin": "faqalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "سَلَٰمٗاۖ",
-          "Arti_kata": "selamat",
-          "Jenis_kata": null
+          "Arti_kata_in": "selamat",
+          "Arti_kata_en": "Peace",
+          "Text_Latin": "salaman",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "قَالَ",
-          "Arti_kata": "berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "berkata",
+          "Arti_kata_en": "He said",
+          "Text_Latin": "qala",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "سَلَٰمٞ",
-          "Arti_kata": "selamat",
-          "Jenis_kata": null
+          "Arti_kata_in": "selamat",
+          "Arti_kata_en": "Peace",
+          "Text_Latin": "salamun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "قَوۡمٞ",
-          "Arti_kata": "kaum",
-          "Jenis_kata": null
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "a people",
+          "Text_Latin": "qawmun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "مُّنكَرُونَ",
-          "Arti_kata": "orang-orang yang tidak dikenal",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang tidak dikenal",
+          "Arti_kata_en": "unknown",
+          "Text_Latin": "munkaruna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -918,38 +1144,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَرَاغَ",
-          "Arti_kata": "lalu dia pergi diam-diam",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu dia pergi diam-diam",
+          "Arti_kata_en": "Then he went",
+          "Text_Latin": "faragha",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "إِلَىٰٓ",
-          "Arti_kata": "kepada",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "أَهۡلِهِۦ",
-          "Arti_kata": "keluarganya",
-          "Jenis_kata": null
+          "Arti_kata_in": "keluarganya",
+          "Arti_kata_en": "his household",
+          "Text_Latin": "ahlihi",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "فَجَآءَ",
-          "Arti_kata": "lalu dia datang/membawa",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu dia datang/membawa",
+          "Arti_kata_en": "and came",
+          "Text_Latin": "fajaa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "بِعِجۡلٖ",
-          "Arti_kata": "dengan anak sapi",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan anak sapi",
+          "Arti_kata_en": "with a calf",
+          "Text_Latin": "bi'ij'lin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "سَمِينٖ",
-          "Arti_kata": "gemuk",
-          "Jenis_kata": null
+          "Arti_kata_in": "gemuk",
+          "Arti_kata_en": "fat",
+          "Text_Latin": "saminin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -963,32 +1201,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَقَرَّبَهُۥٓ",
-          "Arti_kata": "lalu dihidangkannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu dihidangkannya",
+          "Arti_kata_en": "And he placed it near",
+          "Text_Latin": "faqarrabahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "إِلَيۡهِمۡ",
-          "Arti_kata": "kepada mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada mereka",
+          "Arti_kata_en": "[to] them",
+          "Text_Latin": "ilayhim",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "قَالَ",
-          "Arti_kata": "(Ibrahim)berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "(Ibrahim)berkata",
+          "Arti_kata_en": "he said",
+          "Text_Latin": "qala",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَلَا",
-          "Arti_kata": "mengapa tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "mengapa tidak",
+          "Arti_kata_en": "Will not",
+          "Text_Latin": "ala",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "تَأۡكُلُونَ",
-          "Arti_kata": "kamu makan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu makan",
+          "Arti_kata_en": "you eat",
+          "Text_Latin": "takuluna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -1002,56 +1250,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَأَوۡجَسَ",
-          "Arti_kata": "maka dia merasa",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka dia merasa",
+          "Arti_kata_en": "Then he felt",
+          "Text_Latin": "fa-awjasa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "مِنۡهُمۡ",
-          "Arti_kata": "dari mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari mereka",
+          "Arti_kata_en": "from them",
+          "Text_Latin": "min'hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "خِيفَةٗۖ",
-          "Arti_kata": "takut",
-          "Jenis_kata": null
+          "Arti_kata_in": "takut",
+          "Arti_kata_en": "a fear",
+          "Text_Latin": "khifatan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "قَالُواْ",
-          "Arti_kata": "mereka berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka berkata",
+          "Arti_kata_en": "They said",
+          "Text_Latin": "qalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "لَا",
-          "Arti_kata": "jangan",
-          "Jenis_kata": null
+          "Arti_kata_in": "jangan",
+          "Arti_kata_en": "(Do) not",
+          "Text_Latin": "la",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "تَخَفۡۖ",
-          "Arti_kata": "kamu takut",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu takut",
+          "Arti_kata_en": "fear",
+          "Text_Latin": "takhaf",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "وَبَشَّرُوهُ",
-          "Arti_kata": "dan mereka memberi kabar gembira",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan mereka memberi kabar gembira",
+          "Arti_kata_en": "and they gave him glad tidings",
+          "Text_Latin": "wabasharuhu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "بِغُلَٰمٍ",
-          "Arti_kata": "dengan seorang anak",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan seorang anak",
+          "Arti_kata_en": "of a son",
+          "Text_Latin": "bighulamin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "عَلِيمٖ",
-          "Arti_kata": "pandai",
-          "Jenis_kata": null
+          "Arti_kata_in": "pandai",
+          "Arti_kata_en": "learned",
+          "Text_Latin": "alimin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1065,56 +1331,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَأَقۡبَلَتِ",
-          "Arti_kata": "maka menghadap/datang",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka menghadap/datang",
+          "Arti_kata_en": "Then came forward",
+          "Text_Latin": "fa-aqbalati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱمۡرَأَتُهُۥ",
-          "Arti_kata": "isterinya",
-          "Jenis_kata": null
+          "Arti_kata_in": "isterinya",
+          "Arti_kata_en": "his wife",
+          "Text_Latin": "im'ra-atuhu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فِي",
-          "Arti_kata": "dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "with",
+          "Text_Latin": "fi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "صَرَّةٖ",
-          "Arti_kata": "teriakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "teriakan",
+          "Arti_kata_en": "a loud voice",
+          "Text_Latin": "sarratin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "فَصَكَّتۡ",
-          "Arti_kata": "lalu ia menampar",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu ia menampar",
+          "Arti_kata_en": "and struck",
+          "Text_Latin": "fasakkat",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "وَجۡهَهَا",
-          "Arti_kata": "mukanya",
-          "Jenis_kata": null
+          "Arti_kata_in": "mukanya",
+          "Arti_kata_en": "her face",
+          "Text_Latin": "wajhaha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "وَقَالَتۡ",
-          "Arti_kata": "dan berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan berkata",
+          "Arti_kata_en": "and she said",
+          "Text_Latin": "waqalat",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "عَجُوزٌ",
-          "Arti_kata": "seorang perempuan tua",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang perempuan tua",
+          "Arti_kata_en": "An old woman",
+          "Text_Latin": "ajuzun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "عَقِيمٞ",
-          "Arti_kata": "mandul",
-          "Jenis_kata": null
+          "Arti_kata_in": "mandul",
+          "Arti_kata_en": "barren!",
+          "Text_Latin": "aqimun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1128,50 +1412,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "قَالُواْ",
-          "Arti_kata": "mereka berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka berkata",
+          "Arti_kata_en": "They said",
+          "Text_Latin": "qalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "كَذَٰلِكِ",
-          "Arti_kata": "demikianlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "demikianlah",
+          "Arti_kata_en": "Thus",
+          "Text_Latin": "kadhaliki",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "قَالَ",
-          "Arti_kata": "berfirman",
-          "Jenis_kata": null
+          "Arti_kata_in": "berfirman",
+          "Arti_kata_en": "said",
+          "Text_Latin": "qala",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "رَبُّكِۖ",
-          "Arti_kata": "Tuhanmu",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "your Lord",
+          "Text_Latin": "rabbuki",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِنَّهُۥ",
-          "Arti_kata": "sesungguhnya Dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya Dia",
+          "Arti_kata_en": "Indeed He",
+          "Text_Latin": "innahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "هُوَ",
-          "Arti_kata": "Dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "Dia",
+          "Arti_kata_en": "[He]",
+          "Text_Latin": "huwa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "ٱلۡحَكِيمُ",
-          "Arti_kata": "Maha Bijaksana",
-          "Jenis_kata": null
+          "Arti_kata_in": "Maha Bijaksana",
+          "Arti_kata_en": "(is) the All-Wise",
+          "Text_Latin": "al-hakimu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "ٱلۡعَلِيمُ",
-          "Arti_kata": "Maha Mengetahui",
-          "Jenis_kata": null
+          "Arti_kata_in": "Maha Mengetahui",
+          "Arti_kata_en": "the All-Knower",
+          "Text_Latin": "al-'alimu",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1185,32 +1485,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "۞قَالَ",
-          "Arti_kata": "(Ibrahim)berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "(Ibrahim)berkata",
+          "Arti_kata_en": "He said",
+          "Text_Latin": "qala",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "فَمَا",
-          "Arti_kata": "maka apakah",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka apakah",
+          "Arti_kata_en": "Then what",
+          "Text_Latin": "fama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "خَطۡبُكُمۡ",
-          "Arti_kata": "pembicaraanmu",
-          "Jenis_kata": null
+          "Arti_kata_in": "pembicaraanmu",
+          "Arti_kata_en": "(is) your mission",
+          "Text_Latin": "khatbukum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَيُّهَا",
-          "Arti_kata": "wahai",
-          "Jenis_kata": null
+          "Arti_kata_in": "wahai",
+          "Arti_kata_en": "O messengers",
+          "Text_Latin": "ayyuha",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "ٱلۡمُرۡسَلُونَ",
-          "Arti_kata": "para utusan",
-          "Jenis_kata": null
+          "Arti_kata_in": "para utusan",
+          "Arti_kata_en": "O messengers",
+          "Text_Latin": "al-mur'saluna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1224,38 +1534,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "قَالُوٓاْ",
-          "Arti_kata": "mereka berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka berkata",
+          "Arti_kata_en": "They said",
+          "Text_Latin": "qalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "إِنَّآ",
-          "Arti_kata": "sesungguhnya kami",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya kami",
+          "Arti_kata_en": "Indeed we",
+          "Text_Latin": "inna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "أُرۡسِلۡنَآ",
-          "Arti_kata": "kami di utus",
-          "Jenis_kata": null
+          "Arti_kata_in": "kami di utus",
+          "Arti_kata_en": "[we] have been sent",
+          "Text_Latin": "ur'sil'na",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "إِلَىٰ",
-          "Arti_kata": "kepada",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "قَوۡمٖ",
-          "Arti_kata": "kaum",
-          "Jenis_kata": null
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "a people",
+          "Text_Latin": "qawmin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "مُّجۡرِمِينَ",
-          "Arti_kata": "orang-orang yang berdosa",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang berdosa",
+          "Arti_kata_en": "criminal",
+          "Text_Latin": "muj'rimina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1269,32 +1591,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "لِنُرۡسِلَ",
-          "Arti_kata": "agar kami kirimkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "agar kami kirimkan",
+          "Arti_kata_en": "That we may send down",
+          "Text_Latin": "linur'sila",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عَلَيۡهِمۡ",
-          "Arti_kata": "atas mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "atas mereka",
+          "Arti_kata_en": "upon them",
+          "Text_Latin": "alayhim",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "حِجَارَةٗ",
-          "Arti_kata": "batu-batu",
-          "Jenis_kata": null
+          "Arti_kata_in": "batu-batu",
+          "Arti_kata_en": "stones",
+          "Text_Latin": "hijaratan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "مِّن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "طِينٖ",
-          "Arti_kata": "tanah",
-          "Jenis_kata": null
+          "Arti_kata_in": "tanah",
+          "Arti_kata_en": "clay",
+          "Text_Latin": "tinin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1308,26 +1640,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مُّسَوَّمَةً",
-          "Arti_kata": "yang ditandai",
-          "Jenis_kata": null
+          "Arti_kata_in": "yang ditandai",
+          "Arti_kata_en": "Marked",
+          "Text_Latin": "musawwamatan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عِندَ",
-          "Arti_kata": "di sisi",
-          "Jenis_kata": null
+          "Arti_kata_in": "di sisi",
+          "Arti_kata_en": "by your Lord",
+          "Text_Latin": "inda",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "رَبِّكَ",
-          "Arti_kata": "Tuhanmu",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhanmu",
+          "Arti_kata_en": "by your Lord",
+          "Text_Latin": "rabbika",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "لِلۡمُسۡرِفِينَ",
-          "Arti_kata": "untuk orang-orang yang melampaui batas",
-          "Jenis_kata": null
+          "Arti_kata_in": "untuk orang-orang yang melampaui batas",
+          "Arti_kata_en": "for the transgressors",
+          "Text_Latin": "lil'mus'rifina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1341,38 +1681,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَأَخۡرَجۡنَا",
-          "Arti_kata": "maka Kami keluarkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka Kami keluarkan",
+          "Arti_kata_en": "Then We brought out",
+          "Text_Latin": "fa-akhrajna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "مَن",
-          "Arti_kata": "orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang yang",
+          "Arti_kata_en": "(those) who",
+          "Text_Latin": "man",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "كَانَ",
-          "Arti_kata": "adalah",
-          "Jenis_kata": null
+          "Arti_kata_in": "adalah",
+          "Arti_kata_en": "were",
+          "Text_Latin": "kana",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "فِيهَا",
-          "Arti_kata": "didalamnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "didalamnya",
+          "Arti_kata_en": "therein",
+          "Text_Latin": "fiha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "مِنَ",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_Latin": "mina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلۡمُؤۡمِنِينَ",
-          "Arti_kata": "orang-orang yang beriman",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang beriman",
+          "Arti_kata_en": "the believers",
+          "Text_Latin": "al-mu'minina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1386,44 +1738,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَمَا",
-          "Arti_kata": "maka tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka tidak",
+          "Arti_kata_en": "But not",
+          "Text_Latin": "fama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "وَجَدۡنَا",
-          "Arti_kata": "kami dapati",
-          "Jenis_kata": null
+          "Arti_kata_in": "kami dapati",
+          "Arti_kata_en": "We found",
+          "Text_Latin": "wajadna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فِيهَا",
-          "Arti_kata": "didalamnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "didalamnya",
+          "Arti_kata_en": "therein",
+          "Text_Latin": "fiha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "غَيۡرَ",
-          "Arti_kata": "selain",
-          "Jenis_kata": null
+          "Arti_kata_in": "selain",
+          "Arti_kata_en": "other than",
+          "Text_Latin": "ghayra",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "بَيۡتٖ",
-          "Arti_kata": "sebuah rumah",
-          "Jenis_kata": null
+          "Arti_kata_in": "sebuah rumah",
+          "Arti_kata_en": "a house",
+          "Text_Latin": "baytin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "مِّنَ",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "of",
+          "Text_Latin": "mina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "ٱلۡمُسۡلِمِينَ",
-          "Arti_kata": "orang-orang yang berserah diri",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang berserah diri",
+          "Arti_kata_en": "the Muslims",
+          "Text_Latin": "al-mus'limina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1437,44 +1803,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَتَرَكۡنَا",
-          "Arti_kata": "dan kami tinggalkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan kami tinggalkan",
+          "Arti_kata_en": "And We left",
+          "Text_Latin": "watarakna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "فِيهَآ",
-          "Arti_kata": "didalamnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "didalamnya",
+          "Arti_kata_en": "therein",
+          "Text_Latin": "fiha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ءَايَةٗ",
-          "Arti_kata": "tanda-tanda",
-          "Jenis_kata": null
+          "Arti_kata_in": "tanda-tanda",
+          "Arti_kata_en": "a Sign",
+          "Text_Latin": "ayatan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "لِّلَّذِينَ",
-          "Arti_kata": "bagi orang-orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi orang-orang yang",
+          "Arti_kata_en": "for those who",
+          "Text_Latin": "lilladhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "يَخَافُونَ",
-          "Arti_kata": "mereka takut",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka takut",
+          "Arti_kata_en": "fear",
+          "Text_Latin": "yakhafuna",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلۡعَذَابَ",
-          "Arti_kata": "azab",
-          "Jenis_kata": null
+          "Arti_kata_in": "azab",
+          "Arti_kata_en": "the punishment",
+          "Text_Latin": "al-'adhaba",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "ٱلۡأَلِيمَ",
-          "Arti_kata": "pedih",
-          "Jenis_kata": null
+          "Arti_kata_in": "pedih",
+          "Arti_kata_en": "the painful",
+          "Text_Latin": "al-alima",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1488,50 +1868,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِي",
-          "Arti_kata": "dan pada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan pada",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "مُوسَىٰٓ",
-          "Arti_kata": "Musa",
-          "Jenis_kata": null
+          "Arti_kata_in": "Musa",
+          "Arti_kata_en": "Musa",
+          "Text_Latin": "musa",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "إِذۡ",
-          "Arti_kata": "ketika",
-          "Jenis_kata": null
+          "Arti_kata_in": "ketika",
+          "Arti_kata_en": "when",
+          "Text_Latin": "idh",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَرۡسَلۡنَٰهُ",
-          "Arti_kata": "Kami mengutusnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "Kami mengutusnya",
+          "Arti_kata_en": "We sent him",
+          "Text_Latin": "arsalnahu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِلَىٰ",
-          "Arti_kata": "kepada",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "فِرۡعَوۡنَ",
-          "Arti_kata": "Fir'aun",
-          "Jenis_kata": null
+          "Arti_kata_in": "Fir'aun",
+          "Arti_kata_en": "Firaun",
+          "Text_Latin": "fir'awna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "بِسُلۡطَٰنٖ",
-          "Arti_kata": "dengan kekuasaan/mu'jizat",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan kekuasaan/mu'jizat",
+          "Arti_kata_en": "with an authority",
+          "Text_Latin": "bisul'tanin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "مُّبِينٖ",
-          "Arti_kata": "nyata",
-          "Jenis_kata": null
+          "Arti_kata_in": "nyata",
+          "Arti_kata_en": "clear",
+          "Text_Latin": "mubinin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1545,38 +1941,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَتَوَلَّىٰ",
-          "Arti_kata": "maka dia berpaling",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka dia berpaling",
+          "Arti_kata_en": "But he turned away",
+          "Text_Latin": "fatawalla",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "بِرُكۡنِهِۦ",
-          "Arti_kata": "dengan kekuatannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan kekuatannya",
+          "Arti_kata_en": "with his supporters",
+          "Text_Latin": "biruk'nihi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "وَقَالَ",
-          "Arti_kata": "dan dia berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan dia berkata",
+          "Arti_kata_en": "and said",
+          "Text_Latin": "waqala",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "سَٰحِرٌ",
-          "Arti_kata": "seorang tukang sihir",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang tukang sihir",
+          "Arti_kata_en": "A magician",
+          "Text_Latin": "sahirun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "أَوۡ",
-          "Arti_kata": "atau",
-          "Jenis_kata": null
+          "Arti_kata_in": "atau",
+          "Arti_kata_en": "or",
+          "Text_Latin": "aw",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "مَجۡنُونٞ",
-          "Arti_kata": "seorang gila",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang gila",
+          "Arti_kata_en": "a madman",
+          "Text_Latin": "majnunun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1590,44 +1998,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَأَخَذۡنَٰهُ",
-          "Arti_kata": "maka Kami ambil/siksa dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka Kami ambil/siksa dia",
+          "Arti_kata_en": "So We took him",
+          "Text_Latin": "fa-akhadhnahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "وَجُنُودَهُۥ",
-          "Arti_kata": "dan bala tentaranya",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan bala tentaranya",
+          "Arti_kata_en": "and his hosts",
+          "Text_Latin": "wajunudahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فَنَبَذۡنَٰهُمۡ",
-          "Arti_kata": "lalu Kami lemparkan mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "lalu Kami lemparkan mereka",
+          "Arti_kata_en": "and threw them",
+          "Text_Latin": "fanabadhnahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "فِي",
-          "Arti_kata": "ke dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "ke dalam",
+          "Arti_kata_en": "into",
+          "Text_Latin": "fi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "ٱلۡيَمِّ",
-          "Arti_kata": "laut",
-          "Jenis_kata": null
+          "Arti_kata_in": "laut",
+          "Arti_kata_en": "the sea",
+          "Text_Latin": "al-yami",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "وَهُوَ",
-          "Arti_kata": "dan dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan dia",
+          "Arti_kata_en": "while he",
+          "Text_Latin": "wahuwa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "مُلِيمٞ",
-          "Arti_kata": "seorang tercela",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang tercela",
+          "Arti_kata_en": "(was) blameworthy",
+          "Text_Latin": "mulimun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1641,44 +2063,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِي",
-          "Arti_kata": "dan pada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan pada",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عَادٍ",
-          "Arti_kata": "'Ad",
-          "Jenis_kata": null
+          "Arti_kata_in": "'Ad",
+          "Arti_kata_en": "Aad",
+          "Text_Latin": "adin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "إِذۡ",
-          "Arti_kata": "ketika",
-          "Jenis_kata": null
+          "Arti_kata_in": "ketika",
+          "Arti_kata_en": "when",
+          "Text_Latin": "idh",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَرۡسَلۡنَا",
-          "Arti_kata": "Kami kirimkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "Kami kirimkan",
+          "Arti_kata_en": "We sent",
+          "Text_Latin": "arsalna",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "عَلَيۡهِمُ",
-          "Arti_kata": "atas mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "atas mereka",
+          "Arti_kata_en": "against them",
+          "Text_Latin": "alayhimu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلرِّيحَ",
-          "Arti_kata": "angin",
-          "Jenis_kata": null
+          "Arti_kata_in": "angin",
+          "Arti_kata_en": "the wind",
+          "Text_Latin": "ar-riha",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "ٱلۡعَقِيمَ",
-          "Arti_kata": "membinasakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "membinasakan",
+          "Arti_kata_en": "the barren",
+          "Text_Latin": "al-'aqima",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1692,56 +2128,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مَا",
-          "Arti_kata": "tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "تَذَرُ",
-          "Arti_kata": "membiarkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "membiarkan",
+          "Arti_kata_en": "it left",
+          "Text_Latin": "tadharu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مِن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "any",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "شَيۡءٍ",
-          "Arti_kata": "sesuatu",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesuatu",
+          "Arti_kata_en": "thing",
+          "Text_Latin": "shayin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "أَتَتۡ",
-          "Arti_kata": "ia datang",
-          "Jenis_kata": null
+          "Arti_kata_in": "ia datang",
+          "Arti_kata_en": "it came",
+          "Text_Latin": "atat",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "عَلَيۡهِ",
-          "Arti_kata": "atasnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "atasnya",
+          "Arti_kata_en": "upon it",
+          "Text_Latin": "alayhi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "إِلَّا",
-          "Arti_kata": "kecuali",
-          "Jenis_kata": null
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "but",
+          "Text_Latin": "illa",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "جَعَلَتۡهُ",
-          "Arti_kata": "ia jadikannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "ia jadikannya",
+          "Arti_kata_en": "it made it",
+          "Text_Latin": "ja'alathu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "كَٱلرَّمِيمِ",
-          "Arti_kata": "seperti abu/hancur",
-          "Jenis_kata": null
+          "Arti_kata_in": "seperti abu/hancur",
+          "Arti_kata_en": "like disintegrated ruins",
+          "Text_Latin": "kar-ramimi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1755,50 +2209,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَفِي",
-          "Arti_kata": "dan pada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan pada",
+          "Arti_kata_en": "And in",
+          "Text_Latin": "wafi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ثَمُودَ",
-          "Arti_kata": "kaum Tsamud",
-          "Jenis_kata": null
+          "Arti_kata_in": "kaum Tsamud",
+          "Arti_kata_en": "Thamud",
+          "Text_Latin": "thamuda",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "إِذۡ",
-          "Arti_kata": "ketika",
-          "Jenis_kata": null
+          "Arti_kata_in": "ketika",
+          "Arti_kata_en": "when",
+          "Text_Latin": "idh",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "قِيلَ",
-          "Arti_kata": "dikatakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dikatakan",
+          "Arti_kata_en": "was said",
+          "Text_Latin": "qila",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "لَهُمۡ",
-          "Arti_kata": "kepada mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada mereka",
+          "Arti_kata_en": "to them",
+          "Text_Latin": "lahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "تَمَتَّعُواْ",
-          "Arti_kata": "bersenang-senanglah",
-          "Jenis_kata": null
+          "Arti_kata_in": "bersenang-senanglah",
+          "Arti_kata_en": "Enjoy (yourselves)",
+          "Text_Latin": "tamatta'u",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "حَتَّىٰ",
-          "Arti_kata": "sehingga",
-          "Jenis_kata": null
+          "Arti_kata_in": "sehingga",
+          "Arti_kata_en": "for",
+          "Text_Latin": "hatta",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "حِينٖ",
-          "Arti_kata": "suatu waktu",
-          "Jenis_kata": null
+          "Arti_kata_in": "suatu waktu",
+          "Arti_kata_en": "a time",
+          "Text_Latin": "hinin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -1812,50 +2282,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَعَتَوۡاْ",
-          "Arti_kata": "maka mereka angkuh",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka mereka angkuh",
+          "Arti_kata_en": "But they rebelled",
+          "Text_Latin": "fa'ataw",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عَنۡ",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "against",
+          "Text_Latin": "an",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "أَمۡرِ",
-          "Arti_kata": "perintah",
-          "Jenis_kata": null
+          "Arti_kata_in": "perintah",
+          "Arti_kata_en": "(the) Command",
+          "Text_Latin": "amri",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "رَبِّهِمۡ",
-          "Arti_kata": "Tuhan mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhan mereka",
+          "Arti_kata_en": "(of) their Lord",
+          "Text_Latin": "rabbihim",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "فَأَخَذَتۡهُمُ",
-          "Arti_kata": "maka menyambar",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka menyambar",
+          "Arti_kata_en": "so seized them",
+          "Text_Latin": "fa-akhadhathumu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلصَّٰعِقَةُ",
-          "Arti_kata": "petir",
-          "Jenis_kata": null
+          "Arti_kata_in": "petir",
+          "Arti_kata_en": "the thunderbolt",
+          "Text_Latin": "as-sa'iqatu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "وَهُمۡ",
-          "Arti_kata": "sedang mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "sedang mereka",
+          "Arti_kata_en": "while they",
+          "Text_Latin": "wahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "يَنظُرُونَ",
-          "Arti_kata": "mereka melihat",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka melihat",
+          "Arti_kata_en": "were looking",
+          "Text_Latin": "yanzuruna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -1869,44 +2355,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَمَا",
-          "Arti_kata": "maka tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka tidak",
+          "Arti_kata_en": "Then not",
+          "Text_Latin": "fama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱسۡتَطَٰعُواْ",
-          "Arti_kata": "mereka kuasa",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka kuasa",
+          "Arti_kata_en": "they were able",
+          "Text_Latin": "is'tata'u",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مِن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "to",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "قِيَامٖ",
-          "Arti_kata": "berdiri/bangun",
-          "Jenis_kata": null
+          "Arti_kata_in": "berdiri/bangun",
+          "Arti_kata_en": "stand",
+          "Text_Latin": "qiyamin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "وَمَا",
-          "Arti_kata": "dan tidak ada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan tidak ada",
+          "Arti_kata_en": "and not",
+          "Text_Latin": "wama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "كَانُواْ",
-          "Arti_kata": "adalah mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "adalah mereka",
+          "Arti_kata_en": "they could",
+          "Text_Latin": "kanu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "مُنتَصِرِينَ",
-          "Arti_kata": "mendapat pertolongan",
-          "Jenis_kata": null
+          "Arti_kata_in": "mendapat pertolongan",
+          "Arti_kata_en": "help themselves",
+          "Text_Latin": "muntasirina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1920,50 +2420,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَقَوۡمَ",
-          "Arti_kata": "dan kaum",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan kaum",
+          "Arti_kata_en": "And (the) people",
+          "Text_Latin": "waqawma",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "نُوحٖ",
-          "Arti_kata": "Nuh",
-          "Jenis_kata": null
+          "Arti_kata_in": "Nuh",
+          "Arti_kata_en": "(of) Nuh",
+          "Text_Latin": "nuhin",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مِّن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "before",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "قَبۡلُۖ",
-          "Arti_kata": "sebelum itu",
-          "Jenis_kata": null
+          "Arti_kata_in": "sebelum itu",
+          "Arti_kata_en": "before",
+          "Text_Latin": "qablu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِنَّهُمۡ",
-          "Arti_kata": "sesungguhnya mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya mereka",
+          "Arti_kata_en": "indeed, they",
+          "Text_Latin": "innahum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "كَانُواْ",
-          "Arti_kata": "adalah mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "adalah mereka",
+          "Arti_kata_en": "were",
+          "Text_Latin": "kanu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "قَوۡمٗا",
-          "Arti_kata": "kaum",
-          "Jenis_kata": null
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "a people",
+          "Text_Latin": "qawman",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "فَٰسِقِينَ",
-          "Arti_kata": "orang-orang yang fasik",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang fasik",
+          "Arti_kata_en": "defiantly disobedient",
+          "Text_Latin": "fasiqina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -1977,32 +2493,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَٱلسَّمَآءَ",
-          "Arti_kata": "dan langit",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan langit",
+          "Arti_kata_en": "And the Heaven",
+          "Text_Latin": "was-samaa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "بَنَيۡنَٰهَا",
-          "Arti_kata": "Kami bangun ia",
-          "Jenis_kata": null
+          "Arti_kata_in": "Kami bangun ia",
+          "Arti_kata_en": "We constructed it",
+          "Text_Latin": "banaynaha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "بِأَيۡيْدٖ",
-          "Arti_kata": "dengan kekuasaan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dengan kekuasaan",
+          "Arti_kata_en": "with strength",
+          "Text_Latin": "bi-aydin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "وَإِنَّا",
-          "Arti_kata": "dan sesungguhnya Kami",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan sesungguhnya Kami",
+          "Arti_kata_en": "and indeed We",
+          "Text_Latin": "wa-inna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "لَمُوسِعُونَ",
-          "Arti_kata": "benar-benar luas",
-          "Jenis_kata": null
+          "Arti_kata_in": "benar-benar luas",
+          "Arti_kata_en": "(are) surely (its) Expanders",
+          "Text_Latin": "lamusi'una",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -2016,26 +2542,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَٱلۡأَرۡضَ",
-          "Arti_kata": "dan bumi",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan bumi",
+          "Arti_kata_en": "And the earth",
+          "Text_Latin": "wal-arda",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "فَرَشۡنَٰهَا",
-          "Arti_kata": "Kami hamparkannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "Kami hamparkannya",
+          "Arti_kata_en": "We have spread it",
+          "Text_Latin": "farashnaha",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فَنِعۡمَ",
-          "Arti_kata": "maka sebaik-baik",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka sebaik-baik",
+          "Arti_kata_en": "how excellent",
+          "Text_Latin": "fani'ma",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلۡمَٰهِدُونَ",
-          "Arti_kata": "yang menghamparkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "yang menghamparkan",
+          "Arti_kata_en": "(are) the Spreaders",
+          "Text_Latin": "al-mahiduna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -2049,44 +2583,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَمِن",
-          "Arti_kata": "dan dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan dari",
+          "Arti_kata_en": "And of",
+          "Text_Latin": "wamin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "كُلِّ",
-          "Arti_kata": "segala",
-          "Jenis_kata": null
+          "Arti_kata_in": "segala",
+          "Arti_kata_en": "every",
+          "Text_Latin": "kulli",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "شَيۡءٍ",
-          "Arti_kata": "sesuatu",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesuatu",
+          "Arti_kata_en": "thing",
+          "Text_Latin": "shayin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "خَلَقۡنَا",
-          "Arti_kata": "Kami ciptakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "Kami ciptakan",
+          "Arti_kata_en": "We have created",
+          "Text_Latin": "khalaqna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "زَوۡجَيۡنِ",
-          "Arti_kata": "berpasang-pasangan",
-          "Jenis_kata": null
+          "Arti_kata_in": "berpasang-pasangan",
+          "Arti_kata_en": "pairs",
+          "Text_Latin": "zawjayni",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "لَعَلَّكُمۡ",
-          "Arti_kata": "agar kalian",
-          "Jenis_kata": null
+          "Arti_kata_in": "agar kalian",
+          "Arti_kata_en": "so that you may",
+          "Text_Latin": "la'allakum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "تَذَكَّرُونَ",
-          "Arti_kata": "kamu ingat",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu ingat",
+          "Arti_kata_en": "remember",
+          "Text_Latin": "tadhakkaruna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -2100,50 +2648,66 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَفِرُّوٓاْ",
-          "Arti_kata": "maka segeralah",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka segeralah",
+          "Arti_kata_en": "So flee",
+          "Text_Latin": "fafirru",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "إِلَى",
-          "Arti_kata": "kepada",
-          "Jenis_kata": null
+          "Arti_kata_in": "kepada",
+          "Arti_kata_en": "to",
+          "Text_Latin": "ila",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱللَّهِۖ",
-          "Arti_kata": "Allah",
-          "Jenis_kata": null
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-lahi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "إِنِّي",
-          "Arti_kata": "sesungguhnya aku",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya aku",
+          "Arti_kata_en": "indeed I am",
+          "Text_Latin": "inni",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "لَكُم",
-          "Arti_kata": "bagi kalian",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi kalian",
+          "Arti_kata_en": "to you",
+          "Text_Latin": "lakum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "مِّنۡهُ",
-          "Arti_kata": "daripada-Nya",
-          "Jenis_kata": null
+          "Arti_kata_in": "daripada-Nya",
+          "Arti_kata_en": "from Him",
+          "Text_Latin": "min'hu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "نَذِيرٞ",
-          "Arti_kata": "seorang pemberi peringatan",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang pemberi peringatan",
+          "Arti_kata_en": "a warner",
+          "Text_Latin": "nadhirun",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "مُّبِينٞ",
-          "Arti_kata": "nyata",
-          "Jenis_kata": null
+          "Arti_kata_in": "nyata",
+          "Arti_kata_en": "clear",
+          "Text_Latin": "mubinun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2157,68 +2721,90 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَلَا",
-          "Arti_kata": "dan jangan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan jangan",
+          "Arti_kata_en": "And (do) not",
+          "Text_Latin": "wala",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "تَجۡعَلُواْ",
-          "Arti_kata": "kalian jadikan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kalian jadikan",
+          "Arti_kata_en": "make",
+          "Text_Latin": "taj'alu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مَعَ",
-          "Arti_kata": "beserta",
-          "Jenis_kata": null
+          "Arti_kata_in": "beserta",
+          "Arti_kata_en": "with",
+          "Text_Latin": "ma'a",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱللَّهِ",
-          "Arti_kata": "Allah",
-          "Jenis_kata": null
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-lahi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِلَٰهًا",
-          "Arti_kata": "Tuhan",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhan",
+          "Arti_kata_en": "god",
+          "Text_Latin": "ilahan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ءَاخَرَۖ",
-          "Arti_kata": "lain",
-          "Jenis_kata": null
+          "Arti_kata_in": "lain",
+          "Arti_kata_en": "another",
+          "Text_Latin": "akhara",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "إِنِّي",
-          "Arti_kata": "sesungguhnya aku",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya aku",
+          "Arti_kata_en": "Indeed I am",
+          "Text_Latin": "inni",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "لَكُم",
-          "Arti_kata": "bagi kalian",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi kalian",
+          "Arti_kata_en": "to you",
+          "Text_Latin": "lakum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "مِّنۡهُ",
-          "Arti_kata": "darinya",
-          "Jenis_kata": null
+          "Arti_kata_in": "darinya",
+          "Arti_kata_en": "from Him",
+          "Text_Latin": "min'hu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 10,
           "Kata_Arabic": "نَذِيرٞ",
-          "Arti_kata": "seorang pemberi peringatan",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang pemberi peringatan",
+          "Arti_kata_en": "a warner",
+          "Text_Latin": "nadhirun",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 11,
           "Kata_Arabic": "مُّبِينٞ",
-          "Arti_kata": "nyata",
-          "Jenis_kata": null
+          "Arti_kata_in": "nyata",
+          "Arti_kata_en": "clear",
+          "Text_Latin": "mubinun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2232,80 +2818,106 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "كَذَٰلِكَ",
-          "Arti_kata": "demikianlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "demikianlah",
+          "Arti_kata_en": "Likewise",
+          "Text_Latin": "kadhalika",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "مَآ",
-          "Arti_kata": "tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "not",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "أَتَى",
-          "Arti_kata": "datang",
-          "Jenis_kata": null
+          "Arti_kata_in": "datang",
+          "Arti_kata_en": "came",
+          "Text_Latin": "ata",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلَّذِينَ",
-          "Arti_kata": "orang-orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang",
+          "Arti_kata_en": "(to) those",
+          "Text_Latin": "alladhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "مِن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "before them",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "قَبۡلِهِم",
-          "Arti_kata": "sebelum mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "sebelum mereka",
+          "Arti_kata_en": "before them",
+          "Text_Latin": "qablihim",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "مِّن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "any",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "رَّسُولٍ",
-          "Arti_kata": "seorang rasul",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang rasul",
+          "Arti_kata_en": "Messenger",
+          "Text_Latin": "rasulin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "إِلَّا",
-          "Arti_kata": "kecuali",
-          "Jenis_kata": null
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "but",
+          "Text_Latin": "illa",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 10,
           "Kata_Arabic": "قَالُواْ",
-          "Arti_kata": "mereka berkata",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka berkata",
+          "Arti_kata_en": "they said",
+          "Text_Latin": "qalu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 11,
           "Kata_Arabic": "سَاحِرٌ",
-          "Arti_kata": "seorang tukang sihir",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang tukang sihir",
+          "Arti_kata_en": "A magician",
+          "Text_Latin": "sahirun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 12,
           "Kata_Arabic": "أَوۡ",
-          "Arti_kata": "atau",
-          "Jenis_kata": null
+          "Arti_kata_in": "atau",
+          "Arti_kata_en": "or",
+          "Text_Latin": "aw",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 13,
           "Kata_Arabic": "مَجۡنُونٌ",
-          "Arti_kata": "seorang gila",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang gila",
+          "Arti_kata_en": "a madman",
+          "Text_Latin": "majnunun",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2319,38 +2931,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "أَتَوَاصَوۡاْ",
-          "Arti_kata": "apakah mereka saling berwasiat",
-          "Jenis_kata": null
+          "Arti_kata_in": "apakah mereka saling berwasiat",
+          "Arti_kata_en": "Have they transmitted it to them",
+          "Text_Latin": "atawasaw",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "بِهِۦۚ",
-          "Arti_kata": "tentang itu",
-          "Jenis_kata": null
+          "Arti_kata_in": "tentang itu",
+          "Arti_kata_en": "Have they transmitted it to them",
+          "Text_Latin": "bihi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "بَلۡ",
-          "Arti_kata": "bahkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "bahkan",
+          "Arti_kata_en": "Nay",
+          "Text_Latin": "bal",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "هُمۡ",
-          "Arti_kata": "mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka",
+          "Arti_kata_en": "they",
+          "Text_Latin": "hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "قَوۡمٞ",
-          "Arti_kata": "kaum",
-          "Jenis_kata": null
+          "Arti_kata_in": "kaum",
+          "Arti_kata_en": "(are) a people",
+          "Text_Latin": "qawmun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "طَاغُونَ",
-          "Arti_kata": "melampaui batas",
-          "Jenis_kata": null
+          "Arti_kata_in": "melampaui batas",
+          "Arti_kata_en": "transgressing",
+          "Text_Latin": "taghuna",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -2364,32 +2988,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَتَوَلَّ",
-          "Arti_kata": "maka berpalinglah kamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka berpalinglah kamu",
+          "Arti_kata_en": "So turn away",
+          "Text_Latin": "fatawalla",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "عَنۡهُمۡ",
-          "Arti_kata": "dari mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari mereka",
+          "Arti_kata_en": "from them",
+          "Text_Latin": "anhum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فَمَآ",
-          "Arti_kata": "maka tidaklah",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka tidaklah",
+          "Arti_kata_en": "for not",
+          "Text_Latin": "fama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَنتَ",
-          "Arti_kata": "kamu",
-          "Jenis_kata": null
+          "Arti_kata_in": "kamu",
+          "Arti_kata_en": "you",
+          "Text_Latin": "anta",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "بِمَلُومٖ",
-          "Arti_kata": "orang-orang yang tercela",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang tercela",
+          "Arti_kata_en": "(are) to be blamed",
+          "Text_Latin": "bimalumin",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2403,32 +3037,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَذَكِّرۡ",
-          "Arti_kata": "dan berilah peringatan",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan berilah peringatan",
+          "Arti_kata_en": "And remind",
+          "Text_Latin": "wadhakkir",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "فَإِنَّ",
-          "Arti_kata": "maka sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka sesungguhnya",
+          "Arti_kata_en": "for indeed",
+          "Text_Latin": "fa-inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱلذِّكۡرَىٰ",
-          "Arti_kata": "peringatan itu",
-          "Jenis_kata": null
+          "Arti_kata_in": "peringatan itu",
+          "Arti_kata_en": "the reminder",
+          "Text_Latin": "ad-dhik'ra",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "تَنفَعُ",
-          "Arti_kata": "memberi manfaat",
-          "Jenis_kata": null
+          "Arti_kata_in": "memberi manfaat",
+          "Arti_kata_en": "benefits",
+          "Text_Latin": "tanfa'u",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "ٱلۡمُؤۡمِنِينَ",
-          "Arti_kata": "orang-orang yang beriman",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang-orang yang beriman",
+          "Arti_kata_en": "the believers",
+          "Text_Latin": "al-mu'minina",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -2442,38 +3086,50 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَمَا",
-          "Arti_kata": "dan tidaklah",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan tidaklah",
+          "Arti_kata_en": "And not",
+          "Text_Latin": "wama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "خَلَقۡتُ",
-          "Arti_kata": "Aku menciptakan",
-          "Jenis_kata": null
+          "Arti_kata_in": "Aku menciptakan",
+          "Arti_kata_en": "I have created",
+          "Text_Latin": "khalaqtu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱلۡجِنَّ",
-          "Arti_kata": "jin",
-          "Jenis_kata": null
+          "Arti_kata_in": "jin",
+          "Arti_kata_en": "the jinn",
+          "Text_Latin": "al-jina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "وَٱلۡإِنسَ",
-          "Arti_kata": "dan manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan manusia",
+          "Arti_kata_en": "and the mankind",
+          "Text_Latin": "wal-insa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "إِلَّا",
-          "Arti_kata": "kecuali",
-          "Jenis_kata": null
+          "Arti_kata_in": "kecuali",
+          "Arti_kata_en": "except",
+          "Text_Latin": "illa",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "لِيَعۡبُدُونِ",
-          "Arti_kata": "supaya mereka menyembah-Ku",
-          "Jenis_kata": null
+          "Arti_kata_in": "supaya mereka menyembah-Ku",
+          "Arti_kata_en": "that they worship Me",
+          "Text_Latin": "liya'buduni",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2487,56 +3143,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مَآ",
-          "Arti_kata": "tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_Latin": "ma",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أُرِيدُ",
-          "Arti_kata": "Aku menghendaki",
-          "Jenis_kata": null
+          "Arti_kata_in": "Aku menghendaki",
+          "Arti_kata_en": "I want",
+          "Text_Latin": "uridu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "مِنۡهُم",
-          "Arti_kata": "dari mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari mereka",
+          "Arti_kata_en": "from them",
+          "Text_Latin": "min'hum",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "مِّن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "any",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "رِّزۡقٖ",
-          "Arti_kata": "rezeki",
-          "Jenis_kata": null
+          "Arti_kata_in": "rezeki",
+          "Arti_kata_en": "provision",
+          "Text_Latin": "riz'qin",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "وَمَآ",
-          "Arti_kata": "dan tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "and not",
+          "Text_Latin": "wama",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "أُرِيدُ",
-          "Arti_kata": "Aku menghendaki",
-          "Jenis_kata": null
+          "Arti_kata_in": "Aku menghendaki",
+          "Arti_kata_en": "I want",
+          "Text_Latin": "uridu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "أَن",
-          "Arti_kata": "supaya",
-          "Jenis_kata": null
+          "Arti_kata_in": "supaya",
+          "Arti_kata_en": "that",
+          "Text_Latin": "an",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "يُطۡعِمُونِ",
-          "Arti_kata": "mereka memberi Aku makan",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka memberi Aku makan",
+          "Arti_kata_en": "they (should) feed Me",
+          "Text_Latin": "yut'imuni",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -2550,44 +3224,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّ",
-          "Arti_kata": "sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_Latin": "inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱللَّهَ",
-          "Arti_kata": "Allah",
-          "Jenis_kata": null
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-laha",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "هُوَ",
-          "Arti_kata": "Dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "Dia",
+          "Arti_kata_en": "He",
+          "Text_Latin": "huwa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلرَّزَّاقُ",
-          "Arti_kata": "Maha Pemberi rezeki",
-          "Jenis_kata": null
+          "Arti_kata_in": "Maha Pemberi rezeki",
+          "Arti_kata_en": "(is) the All-Provider",
+          "Text_Latin": "ar-razaqu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "ذُو",
-          "Arti_kata": "mempunyai",
-          "Jenis_kata": null
+          "Arti_kata_in": "mempunyai",
+          "Arti_kata_en": "Possessor",
+          "Text_Latin": "dhu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلۡقُوَّةِ",
-          "Arti_kata": "kekuatan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kekuatan",
+          "Arti_kata_en": "(of) Power",
+          "Text_Latin": "al-quwati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "ٱلۡمَتِينُ",
-          "Arti_kata": "teguh/kokoh",
-          "Jenis_kata": null
+          "Arti_kata_in": "teguh/kokoh",
+          "Arti_kata_en": "the Strong",
+          "Text_Latin": "al-matinu",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -2601,56 +3289,74 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَإِنَّ",
-          "Arti_kata": "maka sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka sesungguhnya",
+          "Arti_kata_en": "So indeed",
+          "Text_Latin": "fa-inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "لِلَّذِينَ",
-          "Arti_kata": "bagi orang-orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi orang-orang yang",
+          "Arti_kata_en": "for those who",
+          "Text_Latin": "lilladhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ظَلَمُواْ",
-          "Arti_kata": "zalim",
-          "Jenis_kata": null
+          "Arti_kata_in": "zalim",
+          "Arti_kata_en": "do wrong",
+          "Text_Latin": "zalamu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ذَنُوبٗا",
-          "Arti_kata": "bahagian(siksa)",
-          "Jenis_kata": null
+          "Arti_kata_in": "bahagian(siksa)",
+          "Arti_kata_en": "(is) a portion",
+          "Text_Latin": "dhanuban",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "مِّثۡلَ",
-          "Arti_kata": "seperti",
-          "Jenis_kata": null
+          "Arti_kata_in": "seperti",
+          "Arti_kata_en": "like",
+          "Text_Latin": "mith'la",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ذَنُوبِ",
-          "Arti_kata": "bahagian(siksa)",
-          "Jenis_kata": null
+          "Arti_kata_in": "bahagian(siksa)",
+          "Arti_kata_en": "(the) portion",
+          "Text_Latin": "dhanubi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "أَصۡحَٰبِهِمۡ",
-          "Arti_kata": "teman-teman mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "teman-teman mereka",
+          "Arti_kata_en": "(of) their companions",
+          "Text_Latin": "ashabihim",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 8,
           "Kata_Arabic": "فَلَا",
-          "Arti_kata": "maka jangan",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka jangan",
+          "Arti_kata_en": "so let them not",
+          "Text_Latin": "fala",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 9,
           "Kata_Arabic": "يَسۡتَعۡجِلُونِ",
-          "Arti_kata": "mereka meminta disegerakan kepada-Ku",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka meminta disegerakan kepada-Ku",
+          "Arti_kata_en": "ask Me to hasten",
+          "Text_Latin": "yasta'jiluni",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -2664,44 +3370,58 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَوَيۡلٞ",
-          "Arti_kata": "maka kecelakaanlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka kecelakaanlah",
+          "Arti_kata_en": "Then woe",
+          "Text_Latin": "fawaylun",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "لِّلَّذِينَ",
-          "Arti_kata": "bagi orang-orang yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "bagi orang-orang yang",
+          "Arti_kata_en": "to those who",
+          "Text_Latin": "lilladhina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "كَفَرُواْ",
-          "Arti_kata": "kafir/ingkar",
-          "Jenis_kata": null
+          "Arti_kata_in": "kafir/ingkar",
+          "Arti_kata_en": "disbelieve",
+          "Text_Latin": "kafaru",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "مِن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "from",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "يَوۡمِهِمُ",
-          "Arti_kata": "pada hari mereka",
-          "Jenis_kata": null
+          "Arti_kata_in": "pada hari mereka",
+          "Arti_kata_en": "their Day",
+          "Text_Latin": "yawmihimu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 6,
           "Kata_Arabic": "ٱلَّذِي",
-          "Arti_kata": "yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "which",
+          "Text_Latin": "alladhi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 7,
           "Kata_Arabic": "يُوعَدُونَ",
-          "Arti_kata": "mereka diancam",
-          "Jenis_kata": null
+          "Arti_kata_in": "mereka diancam",
+          "Arti_kata_en": "they are promised",
+          "Text_Latin": "yu'aduna",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     }
