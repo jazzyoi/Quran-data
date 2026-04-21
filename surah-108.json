@@ -15,20 +15,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّآ",
-          "Arti_kata": "sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed, We",
+          "Text_Latin": "inna",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَعۡطَيۡنَٰكَ",
-          "Arti_kata": "Aku telah memberikan",
-          "Jenis_kata": null
+          "Arti_kata_in": "Aku telah memberikan",
+          "Arti_kata_en": "have given you",
+          "Text_Latin": "a'taynaka",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱلۡكَوۡثَرَ",
-          "Arti_kata": "nikmat yang banyak",
-          "Jenis_kata": null
+          "Arti_kata_in": "nikmat yang banyak",
+          "Arti_kata_en": "Al-Kauthar",
+          "Text_Latin": "al-kawthara",
+          "Jenis_kata": "Fiil Madhi"
         }
       ]
     },
@@ -42,20 +48,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "فَصَلِّ",
-          "Arti_kata": "maka dirikanlah sholat",
-          "Jenis_kata": null
+          "Arti_kata_in": "maka dirikanlah sholat",
+          "Arti_kata_en": "So pray",
+          "Text_Latin": "fasalli",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "لِرَبِّكَ",
-          "Arti_kata": "karena Tuhanmu",
-          "Jenis_kata": null
+          "Arti_kata_in": "karena Tuhanmu",
+          "Arti_kata_en": "to your Lord",
+          "Text_Latin": "lirabbika",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "وَٱنۡحَرۡ",
-          "Arti_kata": "dan berkurbanlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan berkurbanlah",
+          "Arti_kata_en": "and sacrifice",
+          "Text_Latin": "wa-in'har",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -69,26 +81,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِنَّ",
-          "Arti_kata": "sesungguhnya",
-          "Jenis_kata": null
+          "Arti_kata_in": "sesungguhnya",
+          "Arti_kata_en": "Indeed",
+          "Text_Latin": "inna",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "شَانِئَكَ",
-          "Arti_kata": "orang yang membencimu",
-          "Jenis_kata": null
+          "Arti_kata_in": "orang yang membencimu",
+          "Arti_kata_en": "your enemy",
+          "Text_Latin": "shani-aka",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "هُوَ",
-          "Arti_kata": "dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "dia",
+          "Arti_kata_en": "he (is)",
+          "Text_Latin": "huwa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلۡأَبۡتَرُ",
-          "Arti_kata": "terputus",
-          "Jenis_kata": null
+          "Arti_kata_in": "terputus",
+          "Arti_kata_en": "the one cut off",
+          "Text_Latin": "al-abtaru",
+          "Jenis_kata": "Isim"
         }
       ]
     }

@@ -15,26 +15,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "قُلۡ",
-          "Arti_kata": "katakanlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_Latin": "qul",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "هُوَ",
-          "Arti_kata": "Dia",
-          "Jenis_kata": null
+          "Arti_kata_in": "Dia",
+          "Arti_kata_en": "He",
+          "Text_Latin": "huwa",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱللَّهُ",
-          "Arti_kata": "Allah",
-          "Jenis_kata": null
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "(is) Allah",
+          "Text_Latin": "al-lahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "أَحَدٌ",
-          "Arti_kata": "Esa",
-          "Jenis_kata": null
+          "Arti_kata_in": "Esa",
+          "Arti_kata_en": "the One",
+          "Text_Latin": "ahadun",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -48,14 +56,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "ٱللَّهُ",
-          "Arti_kata": "Allah",
-          "Jenis_kata": null
+          "Arti_kata_in": "Allah",
+          "Arti_kata_en": "Allah",
+          "Text_Latin": "al-lahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلصَّمَدُ",
-          "Arti_kata": "tempat bergantung",
-          "Jenis_kata": null
+          "Arti_kata_in": "tempat bergantung",
+          "Arti_kata_en": "the Eternal the Absolute",
+          "Text_Latin": "as-samadu",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -69,26 +81,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "لَمۡ",
-          "Arti_kata": "tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "tidak",
+          "Arti_kata_en": "Not",
+          "Text_Latin": "lam",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "يَلِدۡ",
-          "Arti_kata": "beranak",
-          "Jenis_kata": null
+          "Arti_kata_in": "beranak",
+          "Arti_kata_en": "He begets",
+          "Text_Latin": "yalid",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "وَلَمۡ",
-          "Arti_kata": "dan tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "and not",
+          "Text_Latin": "walam",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "يُولَدۡ",
-          "Arti_kata": "diperanakkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "diperanakkan",
+          "Arti_kata_en": "He is begotten",
+          "Text_Latin": "yulad",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     },
@@ -102,32 +122,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "وَلَمۡ",
-          "Arti_kata": "dan tidak",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan tidak",
+          "Arti_kata_en": "And not",
+          "Text_Latin": "walam",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "يَكُن",
-          "Arti_kata": "ada",
-          "Jenis_kata": null
+          "Arti_kata_in": "ada",
+          "Arti_kata_en": "is",
+          "Text_Latin": "yakun",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "لَّهُۥ",
-          "Arti_kata": "baginya",
-          "Jenis_kata": null
+          "Arti_kata_in": "baginya",
+          "Arti_kata_en": "for Him",
+          "Text_Latin": "lahu",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "كُفُوًا",
-          "Arti_kata": "menyamai/setara",
-          "Jenis_kata": null
+          "Arti_kata_in": "menyamai/setara",
+          "Arti_kata_en": "equivalent",
+          "Text_Latin": "kufuwan",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "أَحَدُۢ",
-          "Arti_kata": "seorang",
-          "Jenis_kata": null
+          "Arti_kata_in": "seorang",
+          "Arti_kata_en": "any [one]",
+          "Text_Latin": "ahadun",
+          "Jenis_kata": "Fiil Mudhorik"
         }
       ]
     }

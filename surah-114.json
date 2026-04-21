@@ -15,26 +15,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "قُلۡ",
-          "Arti_kata": "katakanlah",
-          "Jenis_kata": null
+          "Arti_kata_in": "katakanlah",
+          "Arti_kata_en": "Say",
+          "Text_Latin": "qul",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "أَعُوذُ",
-          "Arti_kata": "aku berlindung",
-          "Jenis_kata": null
+          "Arti_kata_in": "aku berlindung",
+          "Arti_kata_en": "I seek refuge",
+          "Text_Latin": "a'udhu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "بِرَبِّ",
-          "Arti_kata": "Tuhannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "in (the) Lord",
+          "Text_Latin": "birabbi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلنَّاسِ",
-          "Arti_kata": "manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_Latin": "an-nasi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -48,14 +56,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مَلِكِ",
-          "Arti_kata": "Rajanya",
-          "Jenis_kata": null
+          "Arti_kata_in": "Rajanya",
+          "Arti_kata_en": "(The) King",
+          "Text_Latin": "maliki",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلنَّاسِ",
-          "Arti_kata": "manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_Latin": "an-nasi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -69,14 +81,18 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "إِلَٰهِ",
-          "Arti_kata": "Tuhannya",
-          "Jenis_kata": null
+          "Arti_kata_in": "Tuhannya",
+          "Arti_kata_en": "(The) God",
+          "Text_Latin": "ilahi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلنَّاسِ",
-          "Arti_kata": "manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_Latin": "an-nasi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -90,26 +106,34 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مِن",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "From",
+          "Text_Latin": "min",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "شَرِّ",
-          "Arti_kata": "kejahatan",
-          "Jenis_kata": null
+          "Arti_kata_in": "kejahatan",
+          "Arti_kata_en": "(the) evil",
+          "Text_Latin": "sharri",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "ٱلۡوَسۡوَاسِ",
-          "Arti_kata": "bisikkan",
-          "Jenis_kata": null
+          "Arti_kata_in": "bisikkan",
+          "Arti_kata_en": "(of) the whisperer",
+          "Text_Latin": "al-waswasi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "ٱلۡخَنَّاسِ",
-          "Arti_kata": "menunggu-nunggu/bersembunyi",
-          "Jenis_kata": null
+          "Arti_kata_in": "menunggu-nunggu/bersembunyi",
+          "Arti_kata_en": "the one who withdraws",
+          "Text_Latin": "al-khanasi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -123,32 +147,42 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "ٱلَّذِي",
-          "Arti_kata": "yang",
-          "Jenis_kata": null
+          "Arti_kata_in": "yang",
+          "Arti_kata_en": "The one who",
+          "Text_Latin": "alladhi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "يُوَسۡوِسُ",
-          "Arti_kata": "membisik-bisikan",
-          "Jenis_kata": null
+          "Arti_kata_in": "membisik-bisikan",
+          "Arti_kata_en": "whispers",
+          "Text_Latin": "yuwaswisu",
+          "Jenis_kata": "Fiil Mudhorik"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "فِي",
-          "Arti_kata": "dalam",
-          "Jenis_kata": null
+          "Arti_kata_in": "dalam",
+          "Arti_kata_en": "in",
+          "Text_Latin": "fi",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 4,
           "Kata_Arabic": "صُدُورِ",
-          "Arti_kata": "dada",
-          "Jenis_kata": null
+          "Arti_kata_in": "dada",
+          "Arti_kata_en": "(the) breasts",
+          "Text_Latin": "suduri",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 5,
           "Kata_Arabic": "ٱلنَّاسِ",
-          "Arti_kata": "manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "manusia",
+          "Arti_kata_en": "(of) mankind",
+          "Text_Latin": "an-nasi",
+          "Jenis_kata": "Isim"
         }
       ]
     },
@@ -162,20 +196,26 @@
         {
           "Nomor_kata": 1,
           "Kata_Arabic": "مِنَ",
-          "Arti_kata": "dari",
-          "Jenis_kata": null
+          "Arti_kata_in": "dari",
+          "Arti_kata_en": "From",
+          "Text_Latin": "mina",
+          "Jenis_kata": "Fiil Madhi"
         },
         {
           "Nomor_kata": 2,
           "Kata_Arabic": "ٱلۡجِنَّةِ",
-          "Arti_kata": "jin",
-          "Jenis_kata": null
+          "Arti_kata_in": "jin",
+          "Arti_kata_en": "the jinn",
+          "Text_Latin": "al-jinati",
+          "Jenis_kata": "Isim"
         },
         {
           "Nomor_kata": 3,
           "Kata_Arabic": "وَٱلنَّاسِ",
-          "Arti_kata": "dan manusia",
-          "Jenis_kata": null
+          "Arti_kata_in": "dan manusia",
+          "Arti_kata_en": "and men",
+          "Text_Latin": "wan-nasi",
+          "Jenis_kata": "Isim"
         }
       ]
     }
