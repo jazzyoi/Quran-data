@@ -1,212 +1,32 @@
 [
-  {
-    "id": 1,
-    "arab": "اَ بَ تَ",
-    "latin_in": "a ba ta",
-    "latin_en": "a ba ta",
-    "harakat": "fathah, fathah, fathah"
-  },
-  {
-    "id": 2,
-    "arab": "بِ تِ ثِ",
-    "latin_in": "bi ti tsi",
-    "latin_en": "bi ti thi",
-    "harakat": "kasrah, kasrah, kasrah"
-  },
-  {
-    "id": 3,
-    "arab": "تُ ثُ جُ",
-    "latin_in": "tu tsu ju",
-    "latin_en": "tu thu ju",
-    "harakat": "dhammah, dhammah, dhammah"
-  },
-  {
-    "id": 4,
-    "arab": "ثَ جِ حُ",
-    "latin_in": "tsa ji hu",
-    "latin_en": "tha ji hu",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 5,
-    "arab": "جُ حَ خِ",
-    "latin_in": "ju ha khi",
-    "latin_en": "ju ha khi",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 6,
-    "arab": "حِ خُ دَ",
-    "latin_in": "hi khu da",
-    "latin_en": "hi khu da",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 7,
-    "arab": "خَ دِ ذُ",
-    "latin_in": "kha di dzu",
-    "latin_en": "kha di dhu",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 8,
-    "arab": "دِ ذُ رَ",
-    "latin_in": "di dzu ra",
-    "latin_en": "di dhu ra",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 9,
-    "arab": "ذُ رَ زِ",
-    "latin_in": "dzu ra zi",
-    "latin_en": "dhu ra zi",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 10,
-    "arab": "رَ زِ سُ",
-    "latin_in": "ra zi su",
-    "latin_en": "ra zi su",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 11,
-    "arab": "زِ سُ شَ",
-    "latin_in": "zi su sya",
-    "latin_en": "zi su sha",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 12,
-    "arab": "سُ شَ صِ",
-    "latin_in": "su sya shi",
-    "latin_en": "su sha si",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 13,
-    "arab": "شَ صِ ضُ",
-    "latin_in": "sya shi dhu",
-    "latin_en": "sha si du",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 14,
-    "arab": "صِ ضُ طَ",
-    "latin_in": "shi dhu tha",
-    "latin_en": "si du ta",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 15,
-    "arab": "ضُ طَ ظِ",
-    "latin_in": "dhu tha zhi",
-    "latin_en": "du ta zi",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 16,
-    "arab": "طَ ظِ عُ",
-    "latin_in": "tha zhi 'u",
-    "latin_en": "ta zi 'u",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 17,
-    "arab": "ظِ عُ غَ",
-    "latin_in": "zhi 'u gha",
-    "latin_en": "zi 'u gha",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 18,
-    "arab": "عُ غَ فِ",
-    "latin_in": "'u gha fi",
-    "latin_en": "'u gha fi",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 19,
-    "arab": "غَ فِ قُ",
-    "latin_in": "gha fi qu",
-    "latin_en": "gha fi ku",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 20,
-    "arab": "فِ قُ كَ",
-    "latin_in": "fi qu ka",
-    "latin_en": "fi ku ka",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 21,
-    "arab": "قُ كَ لِ",
-    "latin_in": "qu ka li",
-    "latin_en": "ku ka li",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 22,
-    "arab": "كَ لِ مُ",
-    "latin_in": "ka li mu",
-    "latin_en": "ka li mu",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 23,
-    "arab": "لِ مُ نَ",
-    "latin_in": "li mu na",
-    "latin_en": "li mu na",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 24,
-    "arab": "مُ نَ وِ",
-    "latin_in": "mu na wi",
-    "latin_en": "mu na wi",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 25,
-    "arab": "نَ وِ هُ",
-    "latin_in": "na wi hu",
-    "latin_en": "na wi hu",
-    "harakat": "fathah, kasrah, dhammah"
-  },
-  {
-    "id": 26,
-    "arab": "وِ هُ يَ",
-    "latin_in": "wi hu ya",
-    "latin_en": "wi hu ya",
-    "harakat": "kasrah, dhammah, fathah"
-  },
-  {
-    "id": 27,
-    "arab": "هُ يَ اِ",
-    "latin_in": "hu ya i",
-    "latin_en": "hu ya i",
-    "harakat": "dhammah, fathah, kasrah"
-  },
-  {
-    "id": 28,
-    "arab": "اَ جُ خِ",
-    "latin_in": "a ju khi",
-    "latin_en": "a ju khi",
-    "harakat": "fathah, dhammah, kasrah"
-  },
-  {
-    "id": 29,
-    "arab": "سِ بَ ظُ",
-    "latin_in": "si ba zhu",
-    "latin_en": "si ba zu",
-    "harakat": "kasrah, fathah, dhammah"
-  },
-  {
-    "id": 30,
-    "arab": "قُ لِ مَ",
-    "latin_in": "qu li ma",
-    "latin_en": "ku li ma",
-    "harakat": "dhammah, kasrah, fathah"
-  }
+  { "id": 1, "arab": "قَ مَ", "latin_in": "qa ma", "latin_en": "qa ma", "harakat": "fathah" },
+  { "id": 2, "arab": "ذَ رَ", "latin_in": "dza ra", "latin_en": "dha ra", "harakat": "fathah" },
+  { "id": 3, "arab": "خَ لَ قَ", "latin_in": "kha la qa", "latin_en": "kha la qa", "harakat": "fathah" },
+  { "id": 4, "arab": "ذَ كَ رَ", "latin_in": "dza ka ra", "latin_en": "dha ka ra", "harakat": "fath : "fathah" },
+  { "id": 5, "arab": "كَ تَ بَ", "latin_in": "ka ta ba", "latin_en": "ka ta ba", "harakat": "fathah" },
+  { "id": 6, "arab": "رَ زَ قَ", "latin_in": "ra za qa", "latin_en": "ra za qa", "harakat": "fathah" },
+  { "id": 7, "arab": "فَ تَ حَ", "latin_in": "fa ta ha", "latin_en": "fa ta ha", "harakat": "fathah" },
+  { "id": 8, "arab": "وَ جَ دَ", "latin_in": "wa ja da", "latin_en": "wa ja da", "harakat": "fathah" },
+  { "id": 9, "arab": "دَ خَ لَ", "latin_in": "da kha la", "latin_en": "da kha la", "harakat": "fathah" },
+  { "id": 10, "arab": "عَ بَ دَ", "latin_in": "a ba da", "latin_en": "a ba da", "harakat": "fathah" },
+  { "id": 11, "arab": "نَ صَ رَ", "latin_in": "na sha ra", "latin_en": "na sa ra", "harakat": "fathah" },
+  { "id": 12, "arab": "غَ فَ رَ", "latin_in": "gha fa ra", "latin_en": "gha fa ra", "harakat": "fathah" },
+  { "id": 13, "arab": "قَ رَ اَ", "latin_in": "qa ra a", "latin_en": "qa ra a", "harakat": "fathah" },
+  { "id": 14, "arab": "سَ جَ دَ", "latin_in": "sa ja da", "latin_en": "sa ja da", "harakat": "fathah" },
+  { "id": 15, "arab": "حَ شَ رَ", "latin_in": "ha sya ra", "latin_en": "ha sha ra", "harakat": "fathah" },
+  { "id": 16, "arab": "بَ عَ ثَ", "latin_in": "ba a tsa", "latin_en": "ba a tha", "harakat": "fathah" },
+  { "id": 17, "arab": "صَ بَ رَ", "latin_in": "sha ba ra", "latin_en": "sa ba ra", "harakat": "fathah" },
+  { "id": 18, "arab": "طَ لَ بَ", "latin_in": "tha la ba", "latin_en": "ta la ba", "harakat": "fathah" },
+  { "id": 19, "arab": "ظَ لَ مَ", "latin_in": "dha la ma", "latin_en": "zha la ma", "harakat": "fathah" },
+  { "id": 20, "arab": "عَ مَ لَ", "latin_in": "a ma la", "latin_en": "a ma la", "harakat": "fathah" },
+  { "id": 21, "arab": "قَ تَلَ", "latin_in": "qa ta la", "latin_en": "qa ta la", "harakat": "fathah" },
+  { "id": 22, "arab": "نَ زَ لَ", "latin_in": "na za la", "latin_en": "na za la", "harakat": "fathah" },
+  { "id": 23, "arab": "رَ فَ عَ", "latin_in": "ra fa a", "latin_en": "ra fa a", "harakat": "fathah" },
+  { "id": 24, "arab": "شَ كَ رَ", "latin_in": "sya ka ra", "latin_en": "sha ka ra", "harakat": "fathah" },
+  { "id": 25, "arab": "هَ لَ كَ", "latin_in": "ha la ka", "latin_en": "ha la ka", "harakat": "fathah" },
+  { "id": 26, "arab": "مَ نَ عَ", "latin_in": "ma na a", "latin_en": "ma na a", "harakat": "fathah" },
+  { "id": 27, "arab": "وُ عَ دَ", "latin_in": "wa a da", "latin_en": "wa a da", "harakat": "fathah" },
+  { "id": 28, "arab": "قَ ضَ یَ", "latin_in": "qa dha ya", "latin_en": "qa dha ya", "harakat": "fathah" },
+  { "id": 29, "arab": "سَ لَ كَ", "latin_in": "sa la ka", "latin_en": "sa la ka", "harakat": "fathah" },
+  { "id": 30, "arab": "جَ مَ عَ", "latin_in": "ja ma a", "latin_en": "ja ma a", "harakat": "fathah" }
 ]
