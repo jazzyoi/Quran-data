@@ -1,212 +1,32 @@
 [
-  {
-    "id": 1,
-    "arab": "اَ بِيْ تٌ",
-    "latin_in": "a bī tun",
-    "latin_en": "a bee tun",
-    "harakat": "fathah, sukun+kasrah, tanwin dhommah"
-  },
-  {
-    "id": 2,
-    "arab": "بِ تُ ثً ا",
-    "latin_in": "bi tu tsan",
-    "latin_en": "bi tu than",
-    "harakat": "kasrah, dhommah, tanwin fathah"
-  },
-  {
-    "id": 3,
-    "arab": "تَ ثِ جٍ",
-    "latin_in": "ta tsi jin",
-    "latin_en": "ta thi jin",
-    "harakat": "fathah, kasrah, tanwin kasrah"
-  },
-  {
-    "id": 4,
-    "arab": "ثُ جَ حْ",
-    "latin_in": "tsu ja hah",
-    "latin_en": "thu ja hah",
-    "harakat": "dhommah, fathah, sukun"
-  },
-  {
-    "id": 5,
-    "arab": "جِ حٌ خَ",
-    "latin_in": "ji hun kha",
-    "latin_en": "ji hun kha",
-    "harakat": "kasrah, tanwin dhommah, fathah"
-  },
-  {
-    "id": 6,
-    "arab": "حَ خِ دُ",
-    "latin_in": "ha khi du",
-    "latin_en": "ha khi du",
-    "harakat": "fathah, kasrah, dhommah"
-  },
-  {
-    "id": 7,
-    "arab": "خُ دً ذِ",
-    "latin_in": "khu dan dzi",
-    "latin_en": "khu dan dhi",
-    "harakat": "dhommah, tanwin fathah, kasrah"
-  },
-  {
-    "id": 8,
-    "arab": "دَ ذْ رٌ",
-    "latin_in": "da dz- r-run",
-    "latin_en": "da dh- run",
-    "harakat": "fathah, sukun, tanwin dhommah"
-  },
-  {
-    "id": 9,
-    "arab": "ذِ رُ زٍ",
-    "latin_in": "dzi ru zin",
-    "latin_en": "dhi ru zin",
-    "harakat": "kasrah, dhommah, tanwin kasrah"
-  },
-  {
-    "id": 10,
-    "arab": "رُ زَ سْ",
-    "latin_in": "ru za sah",
-    "latin_en": "ru za sah",
-    "harakat": "dhommah, fathah, sukun"
-  },
-  {
-    "id": 11,
-    "arab": "زَ سِ شٌ",
-    "latin_in": "za si syun",
-    "latin_en": "za si shun",
-    "harakat": "fathah, kasrah, tanwin dhommah"
-  },
-  {
-    "id": 12,
-    "arab": "سِ شُ صً ا",
-    "latin_in": "si syu shan",
-    "latin_en": "si shu san",
-    "harakat": "kasrah, dhommah, tanwin fathah"
-  },
-  {
-    "id": 13,
-    "arab": "شُ صَ ضٍ",
-    "latin_in": "syu sha dhi",
-    "latin_en": "shu sa din",
-    "harakat": "dhommah, fathah, tanwin kasrah"
-  },
-  {
-    "id": 14,
-    "arab": "صَ ضِ طْ",
-    "latin_in": "sha dhi thah",
-    "latin_en": "sa di tah",
-    "harakat": "fathah, kasrah, sukun"
-  },
-  {
-    "id": 15,
-    "arab": "ضِ طُ ظٌ",
-    "latin_in": "dhi thu zhun",
-    "latin_en": "di tu zun",
-    "harakat": "kasrah, dhommah, tanwin dhommah"
-  },
-  {
-    "id": 16,
-    "arab": "طُ ظَ عٍ",
-    "latin_in": "thu zha 'in",
-    "latin_en": "tu za 'in",
-    "harakat": "dhommah, fathah, tanwin kasrah"
-  },
-  {
-    "id": 17,
-    "arab": "ظَ عِ غً",
-    "latin_in": "zha 'i ghan",
-    "latin_en": "za 'i ghan",
-    "harakat": "fathah, kasrah, tanwin fathah"
-  },
-  {
-    "id": 18,
-    "arab": "عِ غُ فْ",
-    "latin_in": "'i ghu fah",
-    "latin_en": "'i ghu fah",
-    "harakat": "kasrah, dhommah, sukun"
-  },
-  {
-    "id": 19,
-    "arab": "غُ فَا قٌ",
-    "latin_in": "ghu fā qun",
-    "latin_en": "ghu faa kun",
-    "harakat": "dhommah, fathah+alif, tanwin dhommah"
-  },
-  {
-    "id": 20,
-    "arab": "فَا قِ كٍ",
-    "latin_in": "fā qi kin",
-    "latin_en": "faa ki kin",
-    "harakat": "fathah+alif, kasrah, tanwin kasrah"
-  },
-  {
-    "id": 21,
-    "arab": "قِ كُ لً ا",
-    "latin_in": "qi ku lan",
-    "latin_en": "ki ku lan",
-    "harakat": "kasrah, dhommah, tanwin fathah"
-  },
-  {
-    "id": 22,
-    "arab": "كُ لَ مْ",
-    "latin_in": "ku la mah",
-    "latin_en": "ku la mah",
-    "harakat": "dhommah, fathah, sukun"
-  },
-  {
-    "id": 23,
-    "arab": "لَ مِ nٌ",
-    "latin_in": "la mi nun",
-    "latin_en": "la mi nun",
-    "harakat": "fathah, kasrah, tanwin dhommah"
-  },
-  {
-    "id": 24,
-    "arab": "مِ نُ وً",
-    "latin_in": "mi nu wan",
-    "latin_en": "mi nu wan",
-    "harakat": "kasrah, dhommah, tanwin fathah"
-  },
-  {
-    "id": 25,
-    "arab": "نُ وَ هٍ",
-    "latin_in": "nu wa hin",
-    "latin_en": "nu wa hin",
-    "harakat": "dhommah, fathah, tanwin kasrah"
-  },
-  {
-    "id": 26,
-    "arab": "وَ هِ يْ",
-    "latin_in": "wa hi yah",
-    "latin_en": "wa hi yah",
-    "harakat": "fathah, kasrah, sukun"
-  },
-  {
-    "id": 27,
-    "arab": "اِ جُ ذً",
-    "latin_in": "i ju dzan",
-    "latin_en": "i ju dhan",
-    "harakat": "kasrah, dhommah, tanwin fathah"
-  },
-  {
-    "id": 28,
-    "arab": "بَ حْ رٌ",
-    "latin_in": "bah run",
-    "latin_en": "bah run",
-    "harakat": "fathah, sukun, tanwin dhommah"
-  },
-  {
-    "id": 29,
-    "arab": "تُ خِ زٍ",
-    "latin_in": "tu khi zin",
-    "latin_en": "tu khi zin",
-    "harakat": "dhommah, kasrah, tanwin kasrah"
-  },
-  {
-    "id": 30,
-    "arab": "ثَ دُ سْ",
-    "latin_in": "tsa du sah",
-    "latin_en": "tha du sah",
-    "harakat": "fathah, dhommah, sukun"
-  }
+  { "id": 1, "arab": "اَ حَ دٌ", "latin_in": "a ha dun", "latin_en": "a ha dun", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 2, "arab": "كُ فُ وً ا", "latin_in": "ku fu wan", "latin_en": "ku fu wan", "harakat": "dammah, dammah, fathah tanwin" },
+  { "id": 3, "arab": "لَ هَ بٍ", "latin_in": "la ha bin", "latin_en": "la ha bin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 4, "arab": "مَ سَ دٍ", "latin_in": "ma sa din", "latin_en": "ma sa din", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 5, "arab": "عَ مَ دٍ", "latin_in": "a ma din", "latin_en": "a ma din", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 6, "arab": "صَ مَ دٌ", "latin_in": "sha ma dun", "latin_en": "sa ma dun", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 7, "arab": "غَ سَ قٍ", "latin_in": "gha sa qin", "latin_en": "gha sa qin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 8, "arab": "عَ لَ قٍ", "latin_in": "a la qin", "latin_en": "a la qin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 9, "arab": "فَ لَ قٍ", "latin_in": "fa la qin", "latin_en": "fa la qin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 10, "arab": "كُ بَ دٍ", "latin_in": "ku ba din", "latin_en": "ku ba din", "harakat": "dammah, fathah, kasrah tanwin" },
+  { "id": 11, "arab": "رَ جُ لٌ", "latin_in": "ra ju lun", "latin_en": "ra ju lun", "harakat": "fathah, dammah, dammah tanwin" },
+  { "id": 12, "arab": "بَ شَ رً ا", "latin_in": "ba sya ran", "latin_en": "ba sha ran", "harakat": "fathah, fathah, fathah tanwin" },
+  { "id": 13, "arab": "قَ دَ رٌ", "latin_in": "qa da run", "latin_en": "qa da run", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 14, "arab": "رُ طَ بً ا", "latin_in": "ru tha ban", "latin_en": "ru ta ban", "harakat": "dammah, fathah, fathah tanwin" },
+  { "id": 15, "arab": "نُ صُ بٍ", "latin_in": "nu shu bin", "latin_en": "nu su bin", "harakat": "dammah, dammah, kasrah tanwin" },
+  { "id": 16, "arab": "كُ تُ بٌ", "latin_in": "ku tu bun", "latin_en": "ku tu bun", "harakat": "dammah, dammah, dammah tanwin" },
+  { "id": 17, "arab": "سُ رُ رٌ", "latin_in": "su ru run", "latin_en": "su ru run", "harakat": "dammah, dammah, dammah tanwin" },
+  { "id": 18, "arab": "قَ صَ صً ا", "latin_in": "qa sha shan", "latin_en": "qa sa san", "harakat": "fathah, fathah, fathah tanwin" },
+  { "id": 19, "arab": "حَ رَ جٌ", "latin_in": "ha ra jun", "latin_en": "ha ra jun", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 20, "arab": "مَ رَ ضٌ", "latin_in": "ma ra dhun", "latin_en": "ma ra dun", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 21, "arab": "صُ حُ فً ا", "latin_in": "shu hu fan", "latin_en": "su hu fan", "harakat": "dammah, dammah, fathah tanwin" },
+  { "id": 22, "arab": "نَ فَ رٍ", "latin_in": "na fa rin", "latin_en": "na fa rin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 23, "arab": "قَ بَ سٍ", "latin_in": "qa ba sin", "latin_en": "qa ba sin", "harakat": "fathah, fathah, kasrah tanwin" },
+  { "id": 24, "arab": "قَ تَ رٌ", "latin_in": "qa ta run", "latin_en": "qa ta run", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 25, "arab": "حَ ذَ رٌ", "latin_in": "ha dza run", "latin_en": "ha dha run", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 26, "arab": "ثَ مَ نً ا", "latin_in": "tsa ma nan", "latin_en": "tha ma nan", "harakat": "fathah, fathah, fathah tanwin" },
+  { "id": 27, "arab": "عَ ذَ بٌ", "latin_in": "a dza bun", "latin_en": "a dha bun", "harakat": "fathah, fathah, dammah tanwin" },
+  { "id": 28, "arab": "شُ هُ بٌ", "latin_in": "syu hu bun", "latin_en": "shu hu bun", "harakat": "dammah, dammah, dammah tanwin" },
+  { "id": 29, "arab": "لُ غَ بٍ", "latin_in": "lu gha bin", "latin_en": "lu gha bin", "harakat": "dammah, fathah, kasrah tanwin" },
+  { "id": 30, "arab": "طَ بَ قٍ", "latin_in": "tha ba qin", "latin_en": "ta ba qin", "harakat": "fathah, fathah, kasrah tanwin" }
 ]
